@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Прочая спецтехника в Казахстане., страница 1</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления по продаже прочих видов спецтехники в Казахстане на Salexy.kz
+Страница 1." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/prochee" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika/prochee" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1300&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/spectehnika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" itemprop="item"><span itemprop="name">Спецтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Прочее в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kupit_rubilnuyu_mashinu_gandini_energy_5216027.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/18/6b/186bdbd1170488a0288c718c72c9d846.jpg" alt="Купить рубильную машину Gandini Energy Line 23/42, Доставка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kupit_rubilnuyu_mashinu_gandini_energy_5216027.html">Купить рубильную машину Gandini Energy Line 23/42, Доставка</a></div>
+                <div class="description">Эксклюзивный дистрибьютер Gandini компания «Байтек Машинери» предлагает купить рубильную машину Gandini Energy Line 23/42 по отличной цене. Среди измельчителей барабанного типа выделяют мобильные и стационарные модели</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/izmelchitel_biomass_gandini_biomatich_line_5216026.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/61/61/6161f6dc63783cb8fbf294e004f4633a.jpg" alt="Измельчитель биомасс Gandini BIOMATICH line 81">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/izmelchitel_biomass_gandini_biomatich_line_5216026.html">Измельчитель биомасс Gandini BIOMATICH line 81</a></div>
+                <div class="description">Эксклюзивный дистрибьютер Gandini компания «Байтек Машинери» предлагает купить измельчитель биомассы Biomatich line 81 по отличной цене</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/izmelchitel_biomass_gandini_biomatich_91_5216025.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/f7/74/f774bd38aa8c6e30168e0b12bc135b2d.jpg" alt="Измельчитель биомасс Gandini BIOMATICH 91 line">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/izmelchitel_biomass_gandini_biomatich_91_5216025.html">Измельчитель биомасс Gandini BIOMATICH 91 line</a></div>
+                <div class="description">Самый крупный измельчитель отходов растительности в модельном ряду Gandini. Эксклюзивный дистрибьютер Gandini компания «Байтек Машинери» предлагает купить измельчитель биомассы Biomatich line 91 по отличной цене</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kupit_izmelchitel_biomass_gandini_biomatich_5216024.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/64/43/6443c86f800147daa98ea99553323a5f.jpg" alt="Купить измельчитель биомасс Gandini BIOMATICH line 89, доставка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kupit_izmelchitel_biomass_gandini_biomatich_5216024.html">Купить измельчитель биомасс Gandini BIOMATICH line 89, доставка</a></div>
+                <div class="description">Эксклюзивный дистрибьютер Gandini компания «Байтек Машинери» предлагает купить измельчитель биомассы Biomatich line 89 по отличной цене</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kupit_rubilnuyu_mashinu_gandini_biomatich_5216022.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3d/d9/3dd9ea73180b3b2f4af64e3f9b1aae55.jpg" alt="Купить рубильную машину Gandini Biomatich line 85, доставка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kupit_rubilnuyu_mashinu_gandini_biomatich_5216022.html">Купить рубильную машину Gandini Biomatich line 85, доставка</a></div>
+                <div class="description">Эксклюзивный дистрибьютер Gandini компания «Байтек Машинери» предлагает купить измельчитель биомассы Biomatich line 85 по отличной цене</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5216021" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5216021", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/izmelchitel_vetok_dr_power_30_5216021.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/20/9a/209a71bbc28f1a7648f5ca43b33af699.jpg" alt="Измельчитель веток DR POWER 30 PRO-XL, доставка ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/izmelchitel_vetok_dr_power_30_5216021.html">Измельчитель веток DR POWER 30 PRO-XL, доставка </a></div>
+                <div class="description">Купить измельчитель веток DR POWER 30 PRO – XL Вы можете от компании «Байтек Машинери» (эксклюзивный дистрибьютер DR POWER (США) в России)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kupit_tnvd_gidromek_hidromek_s_5215386.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2e/66/2e66d9206b87434d7ddb19273f85f689.jpg" alt="Купить ТНВД Гидромек (Hidromek) с двигателем Перкинс (Perkins)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kupit_tnvd_gidromek_hidromek_s_5215386.html">Купить ТНВД Гидромек (Hidromek) с двигателем Перкинс (Perkins)</a></div>
+                <div class="description">Купить ТНВД (топливный насос высокого даления) для спецтехники (для двигателя NM) ТНВД Гидромек (Hidromek) с двигателем Перкинс (Perkins) . Оригинальный ТНВД в наличие в Алматы по отличной цене</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.03.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kupit_tnvd_caterpillar_5215385.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3b/a7/3ba74f4be8a7eb1c00ac81149cc4a6f0.jpg" alt="Купить ТНВД  Caterpillar  318D, 320D	">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kupit_tnvd_caterpillar_5215385.html">Купить ТНВД  Caterpillar  318D, 320D	</a></div>
+                <div class="description">Купить ТНВД (топливный насос высокого даления) для спецтехники (для двигателя С6.6) Кат 318Д, 320Д Caterpillar 318D, 320D (Катерпиллар 318Д 320Д, CAT) (Оригинальный номер  317-8021 производство США USA) </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.03.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/gidravlicheskie_rukava_adaptery_fitingi_i_5214223.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d0/0f/d00fa4ed82c5b33857a9c23eae829cfc.jpg" alt="гидравлические рукава, адаптеры, фитинги и втулки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/gidravlicheskie_rukava_adaptery_fitingi_i_5214223.html">гидравлические рукава, адаптеры, фитинги и втулки</a></div>
+                <div class="description">У нас имеется широкий ассортимент гидравлических и промышленных рукавов с размерами, начинающимися от ¼ до  6 дюймов в местных складах с изготовлением с учетом пожелания клиентов</div>
+            </div>
+            <span class="price">2 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.03.2017</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/prodam_cisternu_czhu_5214086.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/61/60/61608d5aaf0cbaeff7e097e381c4b0bb.jpg" alt="Продам цистерну ЦЖУ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/prodam_cisternu_czhu_5214086.html">Продам цистерну ЦЖУ</a></div>
+                <div class="description">Продам ЦЖУ-10, цистерну для транспортировки углекислоты. Все оборудование для раскачки </div>
+            </div>
+            <span class="price">17 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.03.2017</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodazha_novoy_spectehniki_i_komplektuyuschih_5213800.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/79/98/799832831698bcf44b3e51bff0567d4f.jpg" alt="Продажа новой спецтехники и комплектующих к ним(навесное оборудование)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodazha_novoy_spectehniki_i_komplektuyuschih_5213800.html">Продажа новой спецтехники и комплектующих к ним(навесное оборудование)</a></div>
+                <div class="description">Компания ООО «СДМ» готова предложить запчасти к  тракторам, скраповое оборудование, автогрейдерам, бульдозерам, экскаваторам, экскаваторы-погрузчикам, фронтальные погрузчикам, автокранам, автовышкам, буровым установкам производства - Дормаш, Амкодор,</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.03.2017</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ustanovka_yamochnogo_remonta_5209620.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c3/3f/c33f0d6157af92841801b09cf6ef5729.jpg" alt="Установка ямочного ремонта">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ustanovka_yamochnogo_remonta_5209620.html">Установка ямочного ремонта</a></div>
+                <div class="description">Самая быстрая, долговечная и низкозатратная.
+Простая в освоении струйно-инъекционная технология холодного ремонта дорог.
+•	Важнейшим плюсом является применение технологии практчески круглый год</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodazha_novogo_truboukladchika_ot_proizvoditelya_5208551.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8c/f7/8cf779b92ce2af4f33143029cf14b49a.jpg" alt="Продажа нового трубоукладчика от производителя 2017 г.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodazha_novogo_truboukladchika_ot_proizvoditelya_5208551.html">Продажа нового трубоукладчика от производителя 2017 г.</a></div>
+                <div class="description">Продажа нового трубоукладчика от производителя
+Трубоукладчик ЧЗТТ-ТР12Э от производителя на базе серийного трактора болотохода Т10 М.М.Б. Дизельный модифицированный двигатель ЧД-180 (180л/с./ 132 кВт), ПД-23 (пуск.дв</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.02.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208451.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/58/ce/58ce24cc37efd2c175fe665d9ca9f7a0.jpg" alt="Вахтовый автобус на 20 мест">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208451.html">Вахтовый автобус на 20 мест</a></div>
+                <div class="description">Продаю новый вахтовый автобус на базе ГАЗ 33081(полноприводный), двигатель Д245.7Е, 105л топливный бак, 119 л.с. Фургон двухдверный на 20 посадочных мест.
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208450.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/50/7d/507d5c3d69968493325222375db519db.jpg" alt="Вахтовый автобус на 20 мест">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208450.html">Вахтовый автобус на 20 мест</a></div>
+                <div class="description">Продаю новый вахтовый автобус на базе ГАЗ 33081(полноприводный), двигатель Д245.7Е, 105л топливный бак, 119 л.с. Фургон двухдверный на 20 посадочных мест.
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208449.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/aa/e1/aae1c9b43bad047fee2615d8cbd2a253.jpg" alt="Вахтовый автобус на 20 мест">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/vahtovyy_avtobus_na_20_mest_5208449.html">Вахтовый автобус на 20 мест</a></div>
+                <div class="description">Продаю новый вахтовый автобус на базе ГАЗ 33081(полноприводный), двигатель Д245.7Е, 105л топливный бак, 119 л.с. Фургон двухдверный на 20 посадочных мест.
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/molokovoz_5208446.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7d/1b/7d1bc9301eaa87ed621f1a296e8c2fba.jpg" alt="молоковоз">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/molokovoz_5208446.html">молоковоз</a></div>
+                <div class="description">Продаю новый молоковоз на базе ГАЗ 3309, двигатель Д245.7Е, 105л топливный бак, 119 л.с. цистерна на 4200 л
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/molokovoz_5208445.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="молоковоз">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/molokovoz_5208445.html">молоковоз</a></div>
+                <div class="description">Продаю новый молоковоз на базе ГАЗ 3309, двигатель Д245.7Е, 105л топливный бак, 119 л.с. цистерна на 4200 л
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/molokovoz_5208444.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/50/01/500136c6f6d51f9a703e8ac33dbce9ac.jpg" alt="молоковоз">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/molokovoz_5208444.html">молоковоз</a></div>
+                <div class="description">Продаю новый молоковоз на базе ГАЗ 3309, двигатель Д245.7Е, 105л топливный бак, 119 л.с. цистерна на 4200 л
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/molokovoz_5208442.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/f9/d2/f9d20a26cdd85e0f713d8a28fbef169c.jpg" alt="молоковоз">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/molokovoz_5208442.html">молоковоз</a></div>
+                <div class="description">Продаю новый молоковоз на базе ГАЗ 3309, двигатель Д245.7Е, 105л топливный бак, 119 л.с. цистерна на 4200 л
+Так же работаю по индивидуальным заказам, компания ООО"СпецТехПром". г. Нижний Новгород</div>
+            </div>
+            <span class="price">905 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.02.2017</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/spectehnika/prochee"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/spectehnika/prochee">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee">1</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=10">10</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=3">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika/prochee?page=26"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika">Спецтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -19,7 +19,7 @@ class Proxy
 	$this->proxies_list[] = '177.66.81.83:8080';
 	$this->proxies_list[] = '191.96.50.197:8080';
 
-        $this->current_proxy = $proxies[array_rand($proxies)];    // Select a random proxy from the array and assign to $proxy variable
+        $this->current_proxy = $this->proxies_list[array_rand($this->proxies_list)];    // Select a random proxy from the array and assign to $proxy variable
     }
 
     function get_proxy()

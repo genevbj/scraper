@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Автомобильные запчасти в Казахстане. Продать/купить запчасти на Salexy.kz, страница 96</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа и покупка запчастей в Казахстане. Бесплатные объявления Казахстана о продаже\покупке автозапчастей.
+Страница 96." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=100&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти и аксессуары в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/tyuning_i_avtozvuk">Тюнинг и автозвук</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti">Запчасти</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/pricepy">Прицепы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">Прочие аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/protivougonnye_ustroystva">Противоугонные устройства</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtomobilnaya_elektronika">Автомобильная электроника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka">Экипировка</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">Средства для ухода за авто</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/bagazhniki_boksy">Багажники, боксы</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_temirtau_5096960.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Темиртау">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_temirtau_5096960.html"> Коробки передач ZF и запчасти в Темиртау</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://satpaev.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_satpaev_5096959.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Сатпаев">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://satpaev.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_satpaev_5096959.html"> Коробки передач ZF и запчасти в Сатпаев</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Сатпаев                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://saran.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_saran_5096958.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Сарань">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://saran.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_saran_5096958.html"> Коробки передач ZF и запчасти в Сарань</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Сарань                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://priozersk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_priozersk_5096957.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Приозёрск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://priozersk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_priozersk_5096957.html"> Коробки передач ZF и запчасти в Приозёрск</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Приозёрск                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karkaralinsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karkaralinsk_5096956.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Каркаралинск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karkaralinsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karkaralinsk_5096956.html"> Коробки передач ZF и запчасти в Каркаралинск</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Каркаралинск                     </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5096955" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5096955", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karazhal.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karazhal_5096955.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Каражал">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karazhal.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karazhal_5096955.html"> Коробки передач ZF и запчасти в Каражал</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Каражал                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zhezkazgan.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_zhezkazgan_5096954.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Жезказган">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zhezkazgan.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_zhezkazgan_5096954.html"> Коробки передач ZF и запчасти в Жезказган</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Жезказган                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://balhash.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_balhash_5096953.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Балхаш">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://balhash.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_balhash_5096953.html"> Коробки передач ZF и запчасти в Балхаш</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Балхаш                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atasu.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_atasu_5096952.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Атасу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atasu.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_atasu_5096952.html"> Коробки передач ZF и запчасти в Атасу</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Атасу                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://abay.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_abay_5096950.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Абай">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://abay.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_abay_5096950.html"> Коробки передач ZF и запчасти в Абай</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Абай                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karaganda_5096884.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Караганда">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karaganda_5096884.html"> Коробки передач ZF и запчасти в Караганда</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aksai.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_aksay_5096883.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Аксай">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aksai.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_aksay_5096883.html"> Коробки передач ZF и запчасти в Аксай</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Аксай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_uralsk_5096881.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Уральск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_uralsk_5096881.html"> Коробки передач ZF и запчасти в Уральск</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shu.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_shu_5096880.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Шу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shu.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_shu_5096880.html"> Коробки передач ZF и запчасти в Шу</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Шу                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karatau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karatau_5096877.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Каратау">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karatau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_karatau_5096877.html"> Коробки передач ZF и запчасти в Каратау</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Каратау                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zharkent.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_zharkent_5096876.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Жаркент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zharkent.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_zharkent_5096876.html"> Коробки передач ZF и запчасти в Жаркент</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Жаркент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_taraz_5096873.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Тараз">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_taraz_5096873.html"> Коробки передач ZF и запчасти в Тараз</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shemonaiha.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_shemonaiha_5096872.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Шемонаиха">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shemonaiha.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_shemonaiha_5096872.html"> Коробки передач ZF и запчасти в Шемонаиха</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Шемонаиха                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://charsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_charsk_5096871.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Чарск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://charsk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_charsk_5096871.html"> Коробки передач ZF и запчасти в Чарск</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Чарск                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://serebryansk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_serebryansk_5096870.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Серебрянск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://serebryansk.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_serebryansk_5096870.html"> Коробки передач ZF и запчасти в Серебрянск</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Серебрянск                     </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=96">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=92">92</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=93">93</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=94">94</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=95">95</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=96">96</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=97">97</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=98">98</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=99">99</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=100">100</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=101">101</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=98">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=137"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

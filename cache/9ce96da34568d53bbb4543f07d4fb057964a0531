@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Аксессуары для авто Казахстане. Объявления о продаже аксессуаров для авто бу и новые в Казахстане., страница 1</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа аксессуаров для авто в Казахстане. Купить бу и новые аксессуары для автомобиля в Казахстане по доступным ценам.Страница 1." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=739&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" itemprop="item"><span itemprop="name">Запчасти и аксессуары</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Прочие аксессуары в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/schup_akpp_722_6_dlya_mersedes_5211009.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e5/b5/e5b51e234550a0ae8400b3d240ba2de0.jpg" alt="Щуп АКПП 722.6 для Мерседес">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/schup_akpp_722_6_dlya_mersedes_5211009.html">Щуп АКПП 722.6 для Мерседес</a></div>
+                <div class="description">Продам щуп проверки уровня масла для автоматической коробки передач</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/pokrytie_bagazhnika_honda_crv_5210052.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/73/17/73171f69bb0bd844dd17d157ae433459.jpg" alt="Покрытие багажника HONDA CRV">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/pokrytie_bagazhnika_honda_crv_5210052.html">Покрытие багажника HONDA CRV</a></div>
+                <div class="description">Покрытие багажника HONDA CRV (новый)</div>
+            </div>
+            <span class="price">16 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/vodorodnaya_ustanovka_5208224.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a8/32/a8329e7f0fe3bc815b6c53d82811741f.jpg" alt="Водородная установка.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/vodorodnaya_ustanovka_5208224.html">Водородная установка.</a></div>
+                <div class="description">Установка (генератор водорода) работает на ВОДЕ, и позволяет сократить расход топлива автомобиля от 15% до 40%, повышает мощность двигателя на 25% и продлевает срок его службы</div>
+            </div>
+            <span class="price">85 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.02.2017</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/remont_bampera_largus_5207687.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/b7/2c/b72c7deca604a6a7467ea0068593e5c5.jpg" alt="Ремонт  бампера  ларгус  ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/remont_bampera_largus_5207687.html">Ремонт  бампера  ларгус  </a></div>
+                <div class="description">заклеить   бампер  ларгус   10-тыс</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.02.2017</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/farkop_na_legkovoy_pricep_kupit_5207615.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4b/68/4b689e38541669dfd034addf973903d9.jpg" alt="Фаркоп на легковой прицеп. Купить.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/farkop_na_legkovoy_pricep_kupit_5207615.html">Фаркоп на легковой прицеп. Купить.</a></div>
+                <div class="description">Компания «АВТОЗАКАЗ» занимается продажей и доставкой фаркопов на легковые автоприцепы.
+Наши фаркопы предназначены для надежного крепления прицепа к машине, для удобной транспортировки грузов как в городе, так и на трассе</div>
+            </div>
+            <span class="price">30 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.02.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5206978" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5206978", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/vy_gotovy_poluchit_vygodu_ot_5206978.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/ad/3f/ad3ffd46cc7ffff89cffc9ca99804f2a.jpg" alt="Вы готовы получить выгоду? от сканера Smart Scan Tool">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/vy_gotovy_poluchit_vygodu_ot_5206978.html">Вы готовы получить выгоду? от сканера Smart Scan Tool</a></div>
+                <div class="description">Smart Scan Tool Авто сканер Оригинал 100% качество для диагностики авто, который может стать незаменимым помощником любому автовладельцу, определяя и указывая на все ошибки, возникшие в работе двигателя и электроники автомобиля</div>
+            </div>
+            <span class="price">10 977 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.01.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/dublikaty_nomerov_5206649.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/04/7f/047f1fe4eb50f633b4938ae0e2d4d766.jpg" alt="Дубликаты номеров ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/dublikaty_nomerov_5206649.html">Дубликаты номеров </a></div>
+                <div class="description">Мы занимаемся изготовлением дубликатов гос номеров. В короткие сроки изготовим любой номер, с любым сочетанием букв и цифр. Качество оригиналов. Доставка от суток</div>
+            </div>
+            <span class="price">11 400 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.01.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/solncezaschitnyy_antiblikovyy_kozyrek_car_sun_5206427.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5e/fe/5efe66567425daa14086d4ebc9a65a6b.jpg" alt="Солнцезащитный антибликовый козырек Car Sun Visor">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/solncezaschitnyy_antiblikovyy_kozyrek_car_sun_5206427.html">Солнцезащитный антибликовый козырек Car Sun Visor</a></div>
+                <div class="description">Устали глаза от ослепительного света фар встречных машин? Тогда Вам нужен 
+Солнцезащитный Козырек Автомобиля С Антибликовым Покрытием. Также помогает от УФ солнечного света и дает лучшую видимость во время вождения</div>
+            </div>
+            <span class="price">5 236 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.01.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/porogi_toyota_haylender_2010g_5204350.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/02/8c/028cb2e8e2b0f9d4960d206a6b79d2ba.jpg" alt="Пороги Тойота Хайлендер 2010г.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/porogi_toyota_haylender_2010g_5204350.html">Пороги Тойота Хайлендер 2010г.</a></div>
+                <div class="description">Пороги овальные с проступью 75*42мм на TOYOTA HIGHLANDER 2010г. 
+Также можно приобрести на все Тойоты. 
+- Пороги
+- Защиты бампера передняя, задняя
+- Защиты Картера двигателя, КПП</div>
+            </div>
+            <span class="price">112 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.01.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/obves_zaschita_bampera_perednyaya_zadnyaya_5204348.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/1a/29/1a29c5a95a77e3adbd875b820d1b0670.jpg" alt="Обвес защита бампера передняя, задняя Тойота Хайлендер 2014г">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/obves_zaschita_bampera_perednyaya_zadnyaya_5204348.html">Обвес защита бампера передняя, задняя Тойота Хайлендер 2014г</a></div>
+                <div class="description">Защита передняя, задняя на TOYOTA HIGHLANDER 2014г. 
+Диаметр трубы 60, 3 мм</div>
+            </div>
+            <span class="price">86 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.01.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_2v_1_video_registrator_anti_5204344.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2e/34/2e343dbef455c5a96dabd7aa180ceb3a.jpg" alt="продам 2в 1 видео регистратор+анти радар">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_2v_1_video_registrator_anti_5204344.html">продам 2в 1 видео регистратор+анти радар</a></div>
+                <div class="description">Продам видео регистратор+анти радар! 2 в 1! Абсолютно новый! Производство Китай</div>
+            </div>
+            <span class="price">18 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.01.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kanistra_sport_tipa_5203256.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/61/5b/615bb107c158e598725f0eef3ec9ff0f.jpg" alt="канистра спорт типа">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kanistra_sport_tipa_5203256.html">канистра спорт типа</a></div>
+                <div class="description">канистра спортивного типа пластиковая б/у 22, 7 литра с лейкой и воздушным клапаном. Сделано в Канаде. Изготовлена из полиэтилена высокой плотности, который не корродирует, не сминается и не накапливает статический заряд</div>
+            </div>
+            <span class="price">8 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/bryzgoviki_logan_largus_sandero_5203091.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8a/2e/8a2e3a109f2f29d5c416fdfd1b1e3556.jpg" alt="Брызговики Логан, Ларгус, Сандеро">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/bryzgoviki_logan_largus_sandero_5203091.html">Брызговики Логан, Ларгус, Сандеро</a></div>
+                <div class="description">Брызговики передние - задние увеличенные для Lada Largus, Renault Logan, Renault Sandero
+устанавливаются в штатные места</div>
+            </div>
+            <span class="price">4 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.12.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/schitki_aerodinamicheskie_dlya_daster_5203090.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/f1/0c/f10cfd7e9653dcc4a49060816b8e3abc.jpg" alt="Щитки аэродинамические для Дастер.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/schitki_aerodinamicheskie_dlya_daster_5203090.html">Щитки аэродинамические для Дастер.</a></div>
+                <div class="description">Щитки аэродинамические устанавливаются в штатные места на переднем бампере перед передними колесами. Значительно снижает эффект забрызгивания лобового стекла.
+Материал: Резина 
+Цена: 4000 KZT
+
+
+Брызговики передние задние Дастер и Ниссан</div>
+            </div>
+            <span class="price">4 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.12.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/bryzgoviki_daster_nissan_perednie_zadnie_5203089.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/ac/82/ac82c5b6412679d2d9420e9f2e87dcfb.jpg" alt="Брызговики Дастер, Ниссан передние задние. Автотовары для тюнинга.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/bryzgoviki_daster_nissan_perednie_zadnie_5203089.html">Брызговики Дастер, Ниссан передние задние. Автотовары для тюнинга.</a></div>
+                <div class="description">Брызговики передние – задние увеличенные для Renault Duster. Nissan Terrano 
+устанавливаются в штатные места</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.12.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avto_krepezh_na_vse_vidy_5202930.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d0/e6/d0e69afd1e676fbfbe59a43aa620e5b9.jpg" alt="Авто крепеж на все виды автомобилей.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avto_krepezh_na_vse_vidy_5202930.html">Авто крепеж на все виды автомобилей.</a></div>
+                <div class="description">Авто крепеж на все виды автомобилей</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_antiradar_5201977.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/16/f3/16f31d5bccd63c9d40e9d78fe8fcc815.jpg" alt="Продам антирадар">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_antiradar_5201977.html">Продам антирадар</a></div>
+                <div class="description">Антирадар SHO-ME 525 пр Юж Корея,ловит все современные радары и треноги</div>
+            </div>
+            <span class="price">15 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/chehly_dlya_avto_5201444.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bc/e7/bce781ec84c9326a21cb53f5d6bac19e.jpg" alt="Чехлы для авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/chehly_dlya_avto_5201444.html">Чехлы для авто</a></div>
+                <div class="description">Продам чехлы для автомобиля новые.  Есть все расцветки</div>
+            </div>
+            <span class="price">18 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/vazhno_zaschity_kartera_dvigatelya_korobki_5201299.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/53/a4/53a4d68244989f264985c7386e00e856.jpg" alt="Важно! Защиты Картера Двигателя Коробки ЦЕНА от производителя Доставка.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/vazhno_zaschity_kartera_dvigatelya_korobki_5201299.html">Важно! Защиты Картера Двигателя Коробки ЦЕНА от производителя Доставка.</a></div>
+                <div class="description">Защиты - картера двигателя поддона, коробки передач (КПП), раздаточной коробки (РК), бака, бензопровода и других узлов и агрегатов в автомобилях</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.12.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/antiradar_sho-me_g900_str_5198837.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/41/26/4126636df4d21ca9e966fe1830cc1431.jpg" alt="Антирадар Sho-me G900 STR ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/antiradar_sho-me_g900_str_5198837.html">Антирадар Sho-me G900 STR </a></div>
+                <div class="description">Радар-детектор Sho-me G900 STR ― автомобильный антирадар c GPS (с установленной базой стационарных радаров и камер Казахстана)</div>
+            </div>
+            <span class="price">32 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">1</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=10">10</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=3">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary?page=15"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

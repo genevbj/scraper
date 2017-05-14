@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Квартиры в Казахстане. Покупка, продажа и аренда квартир в Казахстане, страница 486</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Частные бесплатные объявления Казахстана о продаже, покупке и аренде квартир. Покупка, продажа и аренда квартир без посредников на страницах доски объявлений Salexy.kz.Страница 486." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/nedvizhimost/kvartiryi" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/nedvizhimost/kvartiryi" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    <div class="categories-form">
+                    <fieldset>
+                        <div class="col-row">
+                            
+                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Площадь, м2 от" class="text" type="text" name="Filter[square][min]" id="Filter_square_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Площадь, м2 до" class="text" type="text" name="Filter[square][max]" id="Filter_square_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Количество комнат от" class="text" type="text" name="Filter[rooms_count][min]" id="Filter_rooms_count_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Количество комнат до" class="text" type="text" name="Filter[rooms_count][max]" id="Filter_rooms_count_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[house_type]" id="Filter_house_type">
+<option value="" selected="selected">Тип дома</option>
+<option value="342">Кирпич</option>
+<option value="343">Панельный</option>
+<option value="344">Блочный</option>
+<option value="345">Монолитный</option>
+<option value="346">Деревянный</option>
+</select>                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Этаж от" class="text" type="text" name="Filter[floor][min]" id="Filter_floor_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Этаж до" class="text" type="text" name="Filter[floor][max]" id="Filter_floor_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[object_type]" id="Filter_object_type">
+<option value="" selected="selected">Тип объекта</option>
+<option value="414">Новостройка</option>
+<option value="415">Вторичка</option>
+</select>                                        </div>
+                                    </div>
+                                                                                    </div>
+                    </fieldset>
+                </div>
+                            </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=743&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/nedvizhimost" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/nedvizhimost" itemprop="item"><span itemprop="name">Недвижимость</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Квартиры в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/nedvizhimost/kvartiryi/prodau">Продам</a></li>
+                    <li class=""><a href="http://salexy.kz/nedvizhimost/kvartiryi/sdam">Сдам</a></li>
+                    <li class=""><a href="http://salexy.kz/nedvizhimost/kvartiryi/kuplyu">Куплю</a></li>
+                    <li class=""><a href="http://salexy.kz/nedvizhimost/kvartiryi/snimu">Сниму</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/4_komnatnaya_zhk_skazochnyy_mir_3517975.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4812883.jpg" alt="4 комнатная ЖК Сказочный мир">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/4_komnatnaya_zhk_skazochnyy_mir_3517975.html">4 комнатная ЖК Сказочный мир</a></div>
+                <div class="description">Жилой комплекс состоит из 9 зданий, со своей инфраструктурой и паркингом. В элитном районе Астаны, в непосредственной близости от Дворца независимости, Дворца Мира и согласия, Мечети Хазрет Султан и М</div>
+            </div>
+            <span class="price">36 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/2_komnatnaya_zhk_mirnyy_3517927.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4819741.jpg" alt="2 комнатная ЖК Мирный">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/2_komnatnaya_zhk_mirnyy_3517927.html">2 комнатная ЖК Мирный, Кумисбекова- Сейфулина</a></div>
+                <div class="description">3 из 10, не угловая, сан.уз.-раздельный, застеклённая лодж., чистовая, 2008 г.п., есть телефон, домофон. 9 — ти и 10 — ти этажный кирпичный жилой комплекс. За жилым комплексом расположены гаражи, прин</div>
+            </div>
+            <span class="price">19 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/3-h_komnatnuyu_kvartru_v_11-mkr_3517901.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам 3-х комнатную квартру в 11-мкр.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/3-h_komnatnuyu_kvartru_v_11-mkr_3517901.html">продам 3-х комнатную квартру в 11-мкр.</a></div>
+                <div class="description">
+Продам 3- комнатную квартиру ул.пл. в 11- мкр. на 5/9 этаже,в панельном доме, лифт. 65.4 кв.м. ремонт- под евро. 75000 у.е. торг.ум. тел: 73-96-43, 8705-480-59-49, 8778-269-45-05.</div>
+            </div>
+            <span class="price">75 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kvartira_v_nadezhnye_ruki_3517752.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="квартира в надёжные руки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kvartira_v_nadezhnye_ruki_3517752.html">квартира в надёжные руки, лободы</a></div>
+                <div class="description">Молодая семья рус. с двумя детьми 2 и 4 года. Снимет 1,2-х комнатную квартиру на длительный срок желательно город, работа, садик здесь. Рассмотрим вариант ипотеки, но на 2,3-х комнатную. Оплата гарант</div>
+            </div>
+            <span class="price">250 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/srochno_nedorogo_3-h_kv_na_8-y_shkole_3517655.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Срочно,недорого,продаю 3-х кв.на 8-й школе">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/srochno_nedorogo_3-h_kv_na_8-y_shkole_3517655.html">Срочно,недорого,продаю 3-х кв.на 8-й школе, Ярославская д.12</a></div>
+                <div class="description">Срочно, недорого продам 3-х комн кв.центр, 8-я школа, рядом две школы, дет.сад, автостоянка, КСК, двор, детск.площадка, 5/5 панел. 62кв.м. ,неугловая, ремонт очень хороший,сухая,теплая, новые дерев.дв</div>
+            </div>
+            <span class="price">51 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3516635" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3516635", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/posutochno_komandirovochnye_3516635.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам посуточно!!!!командировочные !!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/posutochno_komandirovochnye_3516635.html">сдам посуточно!!!!командировочные !!, Евразия</a></div>
+                <div class="description">1 комнатная посуточно и по часам!!!!!
+ЕВРАЗИЯ ,РЕСПУБЛИКА ,ЛЕВЫЙ БЕРЕГ ,9 МКР, БАЙКАНУР --6 тыс.тенге.
+Чисто уютно , ДОКУМЕНТЫ командировочные! </div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodaetsya_nedvizhimost_3516493.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продается недвижимость">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodaetsya_nedvizhimost_3516493.html">продается недвижимость, Аркалык ул.Маясовой, 17, кв.18 </a></div>
+                <div class="description">Продается 4-х комнатная кв-ра на 5 этаже, солнечная сторона, частично меблированная, в центре, рядом институт, детсад, школа, без долгов, в залоге не стоит, 30 тыс.у.е. Срочно.  Торг. Тел. 87783372298</div>
+            </div>
+            <span class="price">4 530 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/kvartira_3515641.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="квартира">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/kvartira_3515641.html">квартира, 6 мкр дом-30А  кв-88</a></div>
+                <div class="description">продам</div>
+            </div>
+            <span class="price">33 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/kvartira_3515633.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="квартира">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/kvartira_3515633.html">квартира, 6 мкр дом-30А  кв-88</a></div>
+                <div class="description">продам</div>
+            </div>
+            <span class="price">33 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/--_3515577.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="--">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/--_3515577.html">--, 6 мкр дом-30А  кв-88</a></div>
+                <div class="description">продаю 3 ком</div>
+            </div>
+            <span class="price">33 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/2-h_komnatnuyu_3515352.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам 2-х комнатную">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/2-h_komnatnuyu_3515352.html">продам 2-х комнатную, пр.Независимости</a></div>
+                <div class="description">улучш., кирп., 46,7 кв.м, дв. дв., тел., лоджия, решетки, домофон, перепланир., счетчики хол., гор. воды, комнаты разд., с/у разд., удобна под м-н, тёплая., р-н автопарка №1</div>
+            </div>
+            <span class="price">39 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kvartiru_3514617.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kvartiru_3514617.html">продам квартиру, Алмалинский р-н,Тастак-2</a></div>
+                <div class="description">продам 2-х комнатную квартиру,в хорошем состоянии.</div>
+            </div>
+            <span class="price">86 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/2h_komnatnuyu_kvartiru_3513741.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам  2х комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/2h_komnatnuyu_kvartiru_3513741.html">продам  2х комнатную квартиру, мкр жайлау</a></div>
+                <div class="description">2х комнатная квартира ,3этаж,солнечная сторона,
+44кв.метра,аристон ,душкабина,лоджия 6 метров,свежий ремонт,пластиковые окна,перспектива расширения на 44кв метра</div>
+            </div>
+            <span class="price">45 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ili_obmenyayu_1km_kv_v_centre_3513093.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам или обменяю 1км.кв в центре">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ili_obmenyayu_1km_kv_v_centre_3513093.html">продам или обменяю 1км.кв в центре</a></div>
+                <div class="description">продам или обменяю на двушку  уютную 1км. кв. в панельном доме 1977года в ценре  по ул курмангазы-шарипова не угловая телефон тихий двор спокойные соседи</div>
+            </div>
+            <span class="price">47 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511349.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам 1 комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511349.html">продам 1 комнатную квартиру</a></div>
+                <div class="description">продам одна комнатную квартиру по ул. Скулкина на 5/5 этаже ремонт, пластиковые окна с/у вместе. подъезд после ремонта. </div>
+            </div>
+            <span class="price">35 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511326.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4744009.jpg" alt="продам 1 комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511326.html">продам 1 комнатную квартиру</a></div>
+                <div class="description">продам 1 комнатную квартиру в районе Жилгородка + огород рядом с домом 1 сотка. На 1/2 этажном доме,32.6 кв.м. с/у вместе.30000 у.е.тел: 73-96-43,8705-480-59-49, 8778-296-45-05</div>
+            </div>
+            <span class="price">30 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511310.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4743971.jpg" alt="продам 1 комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/1_komnatnuyu_kvartiru_3511310.html">продам 1 комнатную квартиру</a></div>
+                <div class="description">
+Продам 1 комнатную квартиру в районе Жилгородка на 2/2 этаже.32.10 кв.м. косметический ремонт, с/у вместе.Дом после косметического ремонта, спокойный двор. .тел: 73-96-43,8705-480-59-49, 8778-296-45-</div>
+            </div>
+            <span class="price">30 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/2-h_3511277.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам 2-х">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/2-h_3511277.html">продам 2-х, орджоникидзе</a></div>
+                <div class="description">хрущевка, не угловая, ремонт, домофон, телефон, кабельное ТВ, интернет, частично меблированная, с/у совмещенный</div>
+            </div>
+            <span class="price">40 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/3-h_komnatnuyu_kvartru_3511242.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4743841.jpg" alt="продам 3-х комнатную квартру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/3-h_komnatnuyu_kvartru_3511242.html">продам 3-х комнатную квартру</a></div>
+                <div class="description">В элитном кирпичном доме расположенном по пр.Мира продам 3-х комнатную квартиру-с мебелью. Евро ремонт (СТИЛЬ ХАЙ_ТЕК),интересный дизайн, удобная планировка. качественная мебель-сделанная на заказ,кон</div>
+            </div>
+            <span class="price">135 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ekibastuz.salexy.kz/c/prodam_2-h_komn_kvartiru_v_centre_3510723.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4746593.jpg" alt="Продам 2-х комн. квартиру в центре">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ekibastuz.salexy.kz/c/prodam_2-h_komn_kvartiru_v_centre_3510723.html">Продам 2-х комн. квартиру в центре, Ауэзова 36</a></div>
+                <div class="description">Продам 2-х комн. квартиру возле УАК, 4а мкр, 2/5, теплая, окна ПВХ, спутниковая антенна, без долгов, домофон, окна на 2 стороны, част. с мебелью, евроремонт, новая сантехника, 34000долл, торг, 75-54-0</div>
+            </div>
+            <span class="price">34 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2013</time>
+                                            Экибастуз                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/nedvizhimost/kvartiryi"></a></li>
+<li class="text control back first-none"><a href="/nedvizhimost/kvartiryi?page=486">назад</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=482">482</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=483">483</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=484">484</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=485">485</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=486">486</a></li>
+<li class="page active"><a href="/nedvizhimost/kvartiryi?page=487">487</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=488">488</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=489">489</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=490">490</a></li>
+<li class="page"><a href="/nedvizhimost/kvartiryi?page=491">491</a></li>
+<li class="text control forward last-none"><a href="/nedvizhimost/kvartiryi?page=488">вперёд</a></li>
+<li class="text last-none"><a href="/nedvizhimost/kvartiryi?page=500"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/nedvizhimost">Недвижимость в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

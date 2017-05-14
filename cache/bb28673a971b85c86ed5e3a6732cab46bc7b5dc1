@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Прочая сельскохозяйственная техника в Казахстане. Объявления о продаже сельхозтехники, страница 2</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Прочая сельхозтехника новая и бу в Казахстане. Подайте объявление о продаже сельскохозяйственной техники. Бесплатная доска объявлений Salexy.kz
+Страница 2." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika/prochee" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/selhoz_technika/prochee" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1347&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/selhoz_technika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika" itemprop="item"><span itemprop="name">Сельхозтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Прочее в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/dvigateli_yamz_tmz_dlya_selhoztehniki_5205160.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c4/7e/c47e9852adc7be0b087b5a252782e177.jpg" alt="Двигатели ЯМЗ, ТМЗ для сельхозтехники и автомобилей.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/dvigateli_yamz_tmz_dlya_selhoztehniki_5205160.html">Двигатели ЯМЗ, ТМЗ для сельхозтехники и автомобилей.</a></div>
+                <div class="description">Продаю двигатели ЯМЗ,ТМЗ для сельхозтехники и автомобилей, а так же запчасти к ним. Высокое качество , низкие цены. Гарантия на всю продукцию</div>
+            </div>
+            <span class="price">533 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.01.2017</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://turkestan.salexy.kz/c/kulyu_konturnyy_obrezschik_dlya_5203081.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="кулю контурный обрезщик для  сада">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://turkestan.salexy.kz/c/kulyu_konturnyy_obrezschik_dlya_5203081.html">кулю контурный обрезщик для  сада</a></div>
+                <div class="description">кулю контурный обрезщик для  сада</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.12.2016</time>
+                                            Туркестан                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/zapchasti_na_selhoz_tehniku_5194744.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/52/07/5207aa5da2b1e9016c76afbf0e518535.jpg" alt="Запчасти на сельхоз технику">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/zapchasti_na_selhoz_tehniku_5194744.html">Запчасти на сельхоз технику</a></div>
+                <div class="description">Реализуем запчасти на сельхоз технику оптом и в розницу.
+Обращаться по адресу: г.Кокшетау, ул. Сулейменова, д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.11.2016</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/kuplyu_5194400.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e4/53/e453513c535b1c41a2c31245bdaf0c71.jpg" alt="Куплю">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/kuplyu_5194400.html">Куплю</a></div>
+                <div class="description">Куплю суппорт тормоза(цена договорная)</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/valcovaya_plyuschilka_dlya_soloda_romill_5193942.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a1/df/a1dffacf74cdf35f2f86636a33d7f650.jpg" alt="Вальцовая плющилка для солода Romill MS300">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/valcovaya_plyuschilka_dlya_soloda_romill_5193942.html">Вальцовая плющилка для солода Romill MS300</a></div>
+                <div class="description">Вальцовые плющилки преобразуют зерно в связанный комок. При такой обработке целостность зерна зависит от влажности перерабатываемого сырья. Качественно сплющенное зерно теряет лишь 5% питательных веществ</div>
+            </div>
+            <span class="price">3 384 065 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5193627" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5193627", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/rotovator_izmelchitel_pney_i_korney_5193627.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/fb/37/fb37d4acc6546e227a51092f87f7742b.jpg" alt="Ротоватор, измельчитель пней и корней Agri-World">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/rotovator_izmelchitel_pney_i_korney_5193627.html">Ротоватор, измельчитель пней и корней Agri-World</a></div>
+                <div class="description">Навесное оборудование для измельчения мелкой поросли на уровне земли, а так же дробление камней, корней и пней в земле на глубине от 4 до 70 см</div>
+            </div>
+            <span class="price">6 078 099 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/valcovaya_drobilka_romill_s600_5193626.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d2/c9/d2c955f728ace25cace73e9cd03dd860.jpg" alt="Вальцовая дробилка ROmiLL S600">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/valcovaya_drobilka_romill_s600_5193626.html">Вальцовая дробилка ROmiLL S600</a></div>
+                <div class="description">Вальцовая дробилка ROmiLL S600
+стационарная вальцовая дробилка ROmiLL S600, произведена в Чехии</div>
+            </div>
+            <span class="price">6 273 621 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_romill_cp1_simple_5193625.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4a/a3/4aa3abf0689276b7cb24d5d9d5653d58.jpg" alt="Мобильная плющилка Romill CP1 Simple">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_romill_cp1_simple_5193625.html">Мобильная плющилка Romill CP1 Simple</a></div>
+                <div class="description">Модель Romill CP1 Simple – технологически более простой вариант модели CP1. Она универсальна, может измельчать зерновые любых видов. Обычно купить такую плющилку интересно фермерам, разводящим крупный рогатый скот и свиней</div>
+            </div>
+            <span class="price">16 853 236 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_romill_cp1_little_5193624.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/90/69/90695cc5e4c00db0a5b76fdfb69fdf6b.jpg" alt="Мобильная плющилка Romill CP1 Little">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_romill_cp1_little_5193624.html">Мобильная плющилка Romill CP1 Little</a></div>
+                <div class="description">Плющилка влажного зерна CP1 Little – компактный вариант в линейке машин Romill. Купить плющилку Romill CP1 Little могут даже самые малые сельские хозяйства. Место для приготовления и хранения плющенки лучше организовать рядом с фермой</div>
+            </div>
+            <span class="price">19 419 084 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_zerna_romill_m1_5193621.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c8/7a/c87ac815773f9407b138f607cb3a1987.jpg" alt="Мобильная плющилка зерна Romill М1">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mobilnaya_plyuschilka_zerna_romill_m1_5193621.html">Мобильная плющилка зерна Romill М1</a></div>
+                <div class="description">Мобильную плющилку влажного зерна Romill М1 фермеры могут применять для заготовки кормового зерна в силосной яме</div>
+            </div>
+            <span class="price">19 419 084 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/valcovaya_drobilka_granul_romill_sg600_5193620.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bd/01/bd01c4c90de52577437e5f1b54292145.jpg" alt="Вальцовая дробилка гранул ROmiLL SG600">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/valcovaya_drobilka_granul_romill_sg600_5193620.html">Вальцовая дробилка гранул ROmiLL SG600</a></div>
+                <div class="description">стационарная вальцовая дробилка гранул ROmiLL SG600, произведена в Чехии</div>
+            </div>
+            <span class="price">6 621 817 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/planirovschik_pochvy_rossetto_5193315.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7a/41/7a4123cd20dc2d51d864fb4075c32601.jpg" alt="Планировщик почвы Rossetto">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/planirovschik_pochvy_rossetto_5193315.html">Планировщик почвы Rossetto</a></div>
+                <div class="description">В сельском хозяйстве планировщик грунта незаменим для выравнивания полей, на которых планируется выращивать такие требовательные культуры как рис, сою и другие</div>
+            </div>
+            <span class="price">8 243 249 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/bezryadkovye_zhatki_dlya_podsolnechnika_dominoni_5193309.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bd/38/bd388c073fa8b9040570bd1abcc75faa.jpg" alt="Безрядковые Жатки для подсолнечника Dominoni Free Sun">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/bezryadkovye_zhatki_dlya_podsolnechnika_dominoni_5193309.html">Безрядковые Жатки для подсолнечника Dominoni Free Sun</a></div>
+                <div class="description">Благодаря итальянскому производителю Dominoni, на рынке России появилась уникальная жатка для подсолнечника Free Sun, призванная делать работу фермера более простой и эффективной</div>
+            </div>
+            <span class="price">8 730 350 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/zhatki_dlya_podsolnechnika_dominoni_top_5193308.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/1c/52/1c52872e80bef1d150c92e84a3d75d16.jpg" alt="Жатки для подсолнечника Dominoni Top Sun">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/zhatki_dlya_podsolnechnika_dominoni_top_5193308.html">Жатки для подсолнечника Dominoni Top Sun</a></div>
+                <div class="description">Высокая функциональность жаток Dominoni вместе с прочностью конструкции и простым управлением делает уборку подсолнечника простой и комфортной. Долговечная служба жатки не подведет вас даже в трудные моменты</div>
+            </div>
+            <span class="price">6 219 531 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kukuruznye_zhatki_dominoni_5193304.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/92/b2/92b23e6fde9d1607507b7a8bbf9206b4.jpg" alt="Кукурузные жатки Dominoni">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kukuruznye_zhatki_dominoni_5193304.html">Кукурузные жатки Dominoni</a></div>
+                <div class="description">Важнейшим фактором жатки является адаптация к любому комбайну, которое не будет влиять на стоимость самого оборудования. Акцент на производительность и минимизацию потерь – вот отличительные черты кукурузных жаток Dominoni</div>
+            </div>
+            <span class="price">8 642 297 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/rassadoposadochnye_mashiny_sfoggia_itala_5193303.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/66/ee/66eeb0576e5b579a51bddc9e32767c69.jpg" alt="Рассадопосадочные машины Sfoggia Itala">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/rassadoposadochnye_mashiny_sfoggia_itala_5193303.html">Рассадопосадочные машины Sfoggia Itala</a></div>
+                <div class="description">Sfoggia предлагает аграриям на складе в РФ полуавтоматические для высаживания рассады Itala. Высаживает черенки, рассаду с голыми корнями и рассаду в торфяных стаканчиках любой формы</div>
+            </div>
+            <span class="price">2 412 444 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/shahtnaya_zernosushilka_shtral_serii_ar_5193277.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/f2/1e/f21e6c77303f3c5672a5e58f999152d7.jpg" alt="шахтная зерносушилка Штраль серии Аr ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/shahtnaya_zernosushilka_shtral_serii_ar_5193277.html">шахтная зерносушилка Штраль серии Аr </a></div>
+                <div class="description">Шахтные зерносушилки "Штраль" серии AR относятся к оборудованию циклического типа. Они отличаются экономичностью и легкостью в обслуживании, устанавливаются на специально подготовленную площадку, уложенную плитами или заасфальтированную</div>
+            </div>
+            <span class="price">15 493 586 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/zernosushilka_strahl_mod_610_ar_5193275.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d7/f6/d7f63f455d43dd034cebee82a81d2c68.jpg" alt="зерносушилка Strahl Мод. 610 Ar ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/zernosushilka_strahl_mod_610_ar_5193275.html">зерносушилка Strahl Мод. 610 Ar </a></div>
+                <div class="description">*В стандартную комплектацию входят: 
+- Сушильная шахта
+- Укрепленный бункер для термообработки зерна и шнековый транспортер
+- Механизм для извлечения сухого зерна и нижний бункер для сбора сухого продукта
+- Вытяжные вентилятора
+- Щупы и индикато</div>
+            </div>
+            <span class="price">32 511 808 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/zernosushilka_strahl_7000_fr_5193274.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/50/bb/50bb4a83164d166ae3a4ecdfe7425527.jpg" alt="зерносушилка Strahl 7000 Fr">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/zernosushilka_strahl_7000_fr_5193274.html">зерносушилка Strahl 7000 Fr</a></div>
+                <div class="description">"STRAHL" Зерносушилка поточного действия модель 7000 FR 6 модулей, состоящая из:
+- 2 ШТ. переключателя давления воздушного потока.
+- Комплект датчиков для контроля и регулировки температурного режима.
+
+1 ШТ</div>
+            </div>
+            <span class="price">96 958 536 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/zernosushilka_strahl_3500_fr_5193273.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/91/87/91878ce6a9f08430a670a818245c64ac.jpg" alt="зерносушилка Strahl 3500 Fr">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/zernosushilka_strahl_3500_fr_5193273.html">зерносушилка Strahl 3500 Fr</a></div>
+                <div class="description">"STRAHL" Зерносушилка поточного действия модель 3500 FR 6 модулей, состоящая из:
+- Контрольная группа циркуляции воздуха, состоящая из резервного бака на 10 л</div>
+            </div>
+            <span class="price">58 726 536 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=2">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=2">2</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=10">10</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=4">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/selhoz_technika/prochee?page=10"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika">Сельхозтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

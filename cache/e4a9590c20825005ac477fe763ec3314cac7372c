@@ -1,0 +1,787 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Автомобильные запчасти в Казахстане. Продать/купить запчасти на Salexy.kz, страница 63</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа и покупка запчастей в Казахстане. Бесплатные объявления Казахстана о продаже\покупке автозапчастей.
+Страница 63." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=100&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти и аксессуары в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/tyuning_i_avtozvuk">Тюнинг и автозвук</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti">Запчасти</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/pricepy">Прицепы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">Прочие аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/protivougonnye_ustroystva">Противоугонные устройства</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtomobilnaya_elektronika">Автомобильная электроника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka">Экипировка</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">Средства для ухода за авто</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/bagazhniki_boksy">Багажники, боксы</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/avtobagazhniki_i_farkopy_dlya_lyubogo_avtomobilya_5150477.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5403265.jpg" alt="Автобагажники и фаркопы для любого автомобиля">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/avtobagazhniki_i_farkopy_dlya_lyubogo_avtomobilya_5150477.html">Автобагажники и фаркопы для любого автомобиля</a></div>
+                <div class="description">Специализированный магазин "МИР Автобагажников и Фаркопов" предлагает дополнительное оборудование для любых автомобилей от известных производителей по оптовым ценам</div>
+            </div>
+            <span class="price">7 520 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/remont_pnevmopodveski_v_almaty_5150372.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Ремонт пневмоподвески в Алматы">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/remont_pnevmopodveski_v_almaty_5150372.html">Ремонт пневмоподвески в Алматы</a></div>
+                <div class="description">Профессианально занимаемся пневмоподвеской с 2008 года.
+Пневмоэлементы нашего производства изготавливаются в заводских условиях с соблюдением всех техничексих норм, и по качеству превосходят оригинальные</div>
+            </div>
+            <span class="price">107 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/3d_avtomobilnye_kovriki_poliki_iz_kozhzamenitelya_eko-kozhi_5150296.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402855.jpg" alt="3d Автомобильные коврики (полики) из кожзаменителя (эко-кожи)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/3d_avtomobilnye_kovriki_poliki_iz_kozhzamenitelya_eko-kozhi_5150296.html">3d Автомобильные коврики (полики) из кожзаменителя (эко-кожи)</a></div>
+                <div class="description">Очень высокое качество исполнения. Защитят салон вашего автомобиля от загрязнений и сохранят его первозданный вид. Дополнительно придадут салону вашего автомобиля уникальный, стильный вид</div>
+            </div>
+            <span class="price">35 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/maslo_unil_lcm_800_10w40_pr-vo_belgiya_5150269.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402790.jpg" alt="Масло Unil LCM 800 10W40 (пр-во Бельгия)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/maslo_unil_lcm_800_10w40_pr-vo_belgiya_5150269.html">Масло Unil LCM 800 10W40 (пр-во Бельгия)</a></div>
+                <div class="description">Продам масло в бочках по 210 литров. В наличии 60 бочек. Доставка по городу Алматы и Алматинской области. Настоящее Бельгийское качество</div>
+            </div>
+            <span class="price">220 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-6351_095000-6353_denso_na_kobelco_sk200-8_5150216.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402686.jpg" alt="Форсунка Denso 095000-6351 / 095000-6353 denso на Kobelco SK200-8 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-6351_095000-6353_denso_na_kobelco_sk200-8_5150216.html">Форсунка Denso 095000-6351 / 095000-6353 denso на Kobelco SK200-8 </a></div>
+                <div class="description">Форсунка 095000-6351 / 095000-6353 / 095000-6352 для экскаватора Kobelco SK200-8, на двигатель HINO J05E в наличии.
+Отправка форсунок Denso 095000-6353 / 095000-6352 / 095000-6351 denso по России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5150214" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5150214", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445110447_1112010-26e_baw_zavodskaya_cena_5150214.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402685.jpg" alt="Форсунка Bosch 0445110447 / 1112010-26E Baw заводская цена">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445110447_1112010-26e_baw_zavodskaya_cena_5150214.html">Форсунка Bosch 0445110447 / 1112010-26E Baw заводская цена</a></div>
+                <div class="description">Поставляем форсунки 0445 110 447 Bosch / 1112010-26E Baw для BAW-33462, 3346 Евро4, Fenix Euro4.
+Форсунка Bosch 0445110447 / 1112010-26E Baw в наличии. 
+Экспресс-доставка топливных форсунок Baw 1112010-26E / 0445110447 bosch со склада</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_095000-5550_33_hyundai_na_dv_d4dd_e3_5150213.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402684.jpg" alt="Форсунка 095000-5550 / 33  Hyundai на дв. D4DD Е3">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_095000-5550_33_hyundai_na_dv_d4dd_e3_5150213.html">Форсунка 095000-5550 / 33  Hyundai на дв. D4DD Е3</a></div>
+                <div class="description">Поставляем форсунки Denso 095000-5550 / 33  Hyundai для техники Hyundai HD72, D45, HD65, HD78, E County (Каунти) для двигателя D4DD ( Евро-3 ) оптом и в розницу.
+Экспресс-доставка форсунок Denso 095000-5550 / 33  Hyundai в регионы России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120059_0445120231_so_sklada_5150212.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402683.jpg" alt="Форсунка Bosch 0445120059 / 0445120231 со склада">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120059_0445120231_so_sklada_5150212.html">Форсунка Bosch 0445120059 / 0445120231 со склада</a></div>
+                <div class="description">Предлагаем форсунки Bosch 0445 120 059 / 0445 120 231 для двигателя Cummins QSB 6.7 , на технику Hyundai 290, Komatsu PC200-8 .
+Форсунки Bosch 0445120059 / 0445120231 в наличии на складе</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_so_sklada_5150211.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402682.jpg" alt="Форсунка Isuzu   /   /   со склада">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_so_sklada_5150211.html">Форсунка Isuzu   /   /   со склада</a></div>
+                <div class="description">Форсунка Denso 095000-5470 / 095000-5471 / Denso 095000-5472 / 095000-5473 для  Isuzu / Hitachi 4HK1 / 6HK1.
+Форсунки 095000-5470 / 095000-5471 в наличии</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_0445120054_0986435545_na_iveco_v_regiony_rf_5150210.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402681.jpg" alt="Форсунка 0445120054 / 0986435545 на Iveco в регионы РФ.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_0445120054_0986435545_na_iveco_v_regiony_rf_5150210.html">Форсунка 0445120054 / 0986435545 на Iveco в регионы РФ.</a></div>
+                <div class="description">Осуществляем поставку форсунок Bosch 0 445 120 054 ( 0445120054 ) / 0986435545 bosch для техники Iveco, New Holland B110/B115 и Case 580/590/695 оптом и в розницу со склада.
+Топливная форсунка 0445120054 / 0986435545 экспресс-доставкой со склада</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-5342_isuzu_so_sklada_5150209.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402680.jpg" alt="Форсунка Denso 095000-5342 /   Isuzu со склада">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-5342_isuzu_so_sklada_5150209.html">Форсунка Denso 095000-5342 /   Isuzu со склада</a></div>
+                <div class="description">Предлагаем по спеццене форсунки Isuzu   / 095000-5342 / 095000-5343 / 095000-5344 Denso на двигатели Isuzu 4HK1 / Isuzu 6HK1 для техники Isuzu Bogdan (Исузу Богдан), Isuzu Forward (Исузу Форвард), Isuzu NQR75, Isuzu NQR71 </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-8010_095000-8011_na_howo_a7_garantiya_5150208.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402679.jpg" alt="Форсунка Denso 095000-8010 / 095000-8011 на Howo A7 .Гарантия">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-8010_095000-8011_na_howo_a7_garantiya_5150208.html">Форсунка Denso 095000-8010 / 095000-8011 на Howo A7 .Гарантия</a></div>
+                <div class="description">Предлагаем форсунки для Howo A7 .
+Экспресс-доставка форсунок со склада.
+Топливная форсунка Denso Сommon Rail 095000-8010 / 095000-8011 / VG1246080051 Weichai в наличии на складе</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120277_1112010-m10-0000_dostavka_po_rf_5150207.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402678.jpg" alt="Форсунка Bosch 0445120277 / 1112010-M10-0000 доставка по РФ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120277_1112010-m10-0000_dostavka_po_rf_5150207.html">Форсунка Bosch 0445120277 / 1112010-M10-0000 доставка по РФ</a></div>
+                <div class="description">Предлагаем форсунки Bosch 0 445 120 277 ( 0445120277 ) / 1112010-M10-0000 на FAW CA6DM2 Евро 4 Xichai во все регионы России, Казахстана (авиа по РФ от 200 р./шт.  Ж/Д от 500 p./компл)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-5501_isuzu_na_isuzu_4hl1_6hl1_so_sklada_v_nalichii_5150206.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Форсунка Denso 095000-5501 / Isuzu   на Isuzu 4HL1 / 6HL1 со склада в наличии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-5501_isuzu_na_isuzu_4hl1_6hl1_so_sklada_v_nalichii_5150206.html">Форсунка Denso 095000-5501 / Isuzu   на Isuzu 4HL1 / 6HL1 со склада в наличии</a></div>
+                <div class="description">Поставляем форсунки Denso 095000-5501 /   для CDI Isuzu 4HL1 / 6HL1 со склада в наличии.
+Топливная форсунка Denso 095000-5501 на Isuzu оригинал.
+Гарантия на форсунку 095000-5501 /   </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120289_c5268408_otpravka_v_regiony_5150205.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402677.jpg" alt="Форсунка Bosch 0445120289 / C5268408 .Отправка в регионы.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120289_c5268408_otpravka_v_regiony_5150205.html">Форсунка Bosch 0445120289 / C5268408 .Отправка в регионы.</a></div>
+                <div class="description">Поставляем топливную форсунку 5268408 / C5268408 Cummins / 0445 120 289 bosch на двигатель Cummins ( Каминз ) ISBe, ISDE, для Камаз, Паз, НеФаз, Higer KLQ6885, Кавз Курган, Нефаз Нефтекамск оптом и в розницу</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120247_0445120395_po_optovoy_cene_5150204.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402676.jpg" alt="Форсунка Bosch 0445120247 / 0445120395 по оптовой цене">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120247_0445120395_po_optovoy_cene_5150204.html">Форсунка Bosch 0445120247 / 0445120395 по оптовой цене</a></div>
+                <div class="description">Поставки топливной форсунки 0445 120 247 Bosch / 0445 120 395 Bosch для FAW, модель СА3250Р66К2Т1Е4, двигатель CA6DL2-37E4, Евро 4 во все регионы России (авиа по РФ от 200 р./шт.  Ж/Д от 500 p./компл)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_0445120266_weichai_612640090001_na_weichai_wp12_dlya_shaanxi_5150203.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402675.jpg" alt="Форсунка 0445120266 / Weichai 612640090001 на Weichai WP12 для Shaanxi">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_0445120266_weichai_612640090001_na_weichai_wp12_dlya_shaanxi_5150203.html">Форсунка 0445120266 / Weichai 612640090001 на Weichai WP12 для Shaanxi</a></div>
+                <div class="description">Поставляем во все регионы России,Казахстана топливные форсунки Bosch 0445120266 на двигатели Weichai WP12 для Shaanxi.
+Форсунка Bosch 0445 120 266 / 612640090001 weichai оригинальная в заводской упаковке. Гарантия</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120199_4994541_cummins_5150202.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402674.jpg" alt="Форсунка Bosch 0445120199 / 4994541 cummins">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120199_4994541_cummins_5150202.html">Форсунка Bosch 0445120199 / 4994541 cummins</a></div>
+                <div class="description">Экспресс-доставка топливных форсунок Bosch 0445 120 199 ( 0445120199 ) / 4994541 ( 4 994 541 ) на двигатель Cummins ISELe 340 для DongFeng Евро 4 в регионы.
+Форсунка 4994541 / 0445120199 bosch оригинал. 
+Гарантия на форсунки Bosch 0445120199</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445120122_c4942359_dlya_dongfeng_evro3_5150201.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402673.jpg" alt="Форсунка Bosch 0445120122 / C4942359 для DongFeng Евро3">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445120122_c4942359_dlya_dongfeng_evro3_5150201.html">Форсунка Bosch 0445120122 / C4942359 для DongFeng Евро3</a></div>
+                <div class="description">Форсунки C4942359 / 4 942 359 ( 0445 120 122 BOSCH ) на Cummins 6c8.3, isc, qsc8.3, isl, qsl9, c8.3g, c gas plus, g8</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_0445120265_0445120086_original_cena_v_rf_5150200.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5402672.jpg" alt="Форсунка 0445120265 / 0445120086 оригинал. Цена в РФ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_0445120265_0445120086_original_cena_v_rf_5150200.html">Форсунка 0445120265 / 0445120086 оригинал. Цена в РФ</a></div>
+                <div class="description">Отправка в регионы России, Казахстана топливных форсунок 0 445 120 265 Bosch / 0 445 120 086 / weichai 612630090001 / 612630090028 на двигатель Weichai WP12.330, 375, 336 для Shaanxi, Foton Евро 3</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=63">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=59">59</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=60">60</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=61">61</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=62">62</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=63">63</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=64">64</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=65">65</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=66">66</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=67">67</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=68">68</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=65">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=137"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

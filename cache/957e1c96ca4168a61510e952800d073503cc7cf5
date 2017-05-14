@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Ford в Казахстане - продажа, цена | Купить автомобиль Ford новый или с пробегом (б/у) по объявлению на Salexy.kz</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Актуальные объявления о продаже автомобилей Ford в Казахстане по доступной цене. Купить Ford в Казахстане с пробегом или новый. Частные объявления и предложения дилеров.
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/legkovye_avtomobili/ford" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    <div class="categories-form">
+                    <fieldset>
+                        <div class="col-row">
+                            
+                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Год выпуска от" class="text" type="text" name="Filter[year][min]" id="Filter_year_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Год выпуска до" class="text" type="text" name="Filter[year][max]" id="Filter_year_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Пробег от" class="text" type="text" name="Filter[mileage][min]" id="Filter_mileage_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Пробег до" class="text" type="text" name="Filter[mileage][max]" id="Filter_mileage_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[body_type]" id="Filter_body_type">
+<option value="" selected="selected">Тип кузова</option>
+<option value="214">Седан</option>
+<option value="215">Хетчбэк</option>
+<option value="216">Универсал</option>
+<option value="217">Внедорожник</option>
+<option value="218">Кроссовер</option>
+<option value="219">Купе</option>
+<option value="220">Кабриолет</option>
+<option value="221">Лимузин</option>
+<option value="222">Пикап</option>
+<option value="223">Фургон</option>
+<option value="224">Минивэн</option>
+<option value="225">Седан</option>
+<option value="226">Хетчбэк</option>
+<option value="227">Универсал</option>
+<option value="228">Внедорожник</option>
+<option value="229">Кроссовер</option>
+<option value="230">Купе</option>
+<option value="231">Кабриолет</option>
+<option value="232">Лимузин</option>
+<option value="233">Пикап</option>
+<option value="234">Фургон</option>
+<option value="235">Минивэн</option>
+</select>                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[transmission_type]" id="Filter_transmission_type">
+<option value="" selected="selected">Коробка передач</option>
+<option value="237">Автоматическая</option>
+<option value="238">Механическая</option>
+</select>                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[engine_type]" id="Filter_engine_type">
+<option value="" selected="selected">Тип двигателя</option>
+<option value="240">Бензиновый (инжектор)</option>
+<option value="241">Бензиновый (карбюратор)</option>
+<option value="242">Дизельный</option>
+<option value="243">Гибридный</option>
+<option value="244">Электро</option>
+</select>                                        </div>
+                                    </div>
+                                                                                    </div>
+                    </fieldset>
+                </div>
+                            </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=27&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/legkovye_avtomobili" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili" itemprop="item"><span itemprop="name">Легковые автомобили</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Ford в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/ford_probe_5219654.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2a/ea/2aeaef684f82d21bddeff4a2fb188295.jpg" alt="Ford Probe">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/ford_probe_5219654.html">Ford Probe</a></div>
+                <div class="description">Все вопросы по телефону</div>
+            </div>
+            <span class="price">750 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_fort_fiesta_2007_5211324.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам Форт фиеста . 2007 г срочно!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_fort_fiesta_2007_5211324.html">Продам Форт фиеста . 2007 г срочно!</a></div>
+                <div class="description">Продам срочно Форд фиеста. 2007 года. объем 1,4. механика. состояние идеальное , вложений не требует. налог оплачен.  экономичная машина</div>
+            </div>
+            <span class="price">1 700 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.02.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/prodam_avtomobil_5163525.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам  автомобиль  ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/prodam_avtomobil_5163525.html">продам  автомобиль  </a></div>
+                <div class="description">продам  автомобиль  Ford maverik  1995 год  </div>
+            </div>
+            <span class="price">800 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.05.2016</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/prodam_avto_300000tg_torg_5147857.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5397435.jpg" alt="продам авто 300000тг, торг.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/prodam_avto_300000tg_torg_5147857.html">продам авто 300000тг, торг.</a></div>
+                <div class="description">машина на ходу,литые диски, противотуманки, гур,абс, люк, центрозамок, полный эл.пакет. поменяна ходовая, радиаторы основной и печки</div>
+            </div>
+            <span class="price">300 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.03.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_legkovoy_avtomobil_5133395.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам легковой автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_legkovoy_avtomobil_5133395.html">продам легковой автомобиль</a></div>
+                <div class="description">Продам  иномарку Ford Fiesna - цвет  голубой,объем двигателя 1,4, в отличном  состоянии и с маленьким  пробегом</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.01.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5131115" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5131115", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://lisakovsk.salexy.kz/c/mikroavtobus_lisakovsk-chelyabinsk_5131115.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5360812.jpg" alt="Микроавтобус Лисаковск-Челябинск">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://lisakovsk.salexy.kz/c/mikroavtobus_lisakovsk-chelyabinsk_5131115.html">Микроавтобус Лисаковск-Челябинск</a></div>
+                <div class="description">Микроавтобус в Челябинск</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.01.2016</time>
+                                            Лисаковск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_avto_5127865.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5354258.jpg" alt="Продам авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_avto_5127865.html">Продам авто</a></div>
+                <div class="description">Продам автомашину Форд-Фокус-2010 г.в., цвет-черный, объем-2,0, седан, КПП-типтроник, топливо-газ-бензин, пробег-114000 км, все опции, в отличном состоянии</div>
+            </div>
+            <span class="price">2 400 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.12.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shemonaiha.salexy.kz/c/prodam_ford_mondeo_5126874.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам Форд Мондео">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shemonaiha.salexy.kz/c/prodam_ford_mondeo_5126874.html">Продам Форд Мондео</a></div>
+                <div class="description">Форд Мондео 1993 года. объем 1.8. АКПП, АВС, механика, Американец, люк, кондиционер, охраняемая система</div>
+            </div>
+            <span class="price">525 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.12.2015</time>
+                                            Шемонаиха                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/ford_scorpio_5125063.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5348948.jpg" alt="Ford Scorpio">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/ford_scorpio_5125063.html">Ford Scorpio</a></div>
+                <div class="description">Продам и поменяю на ВАЗ-2110. Рассмотрю варианты обмена. Машина в хорошем состоянии, несмотря на возраст. Новые АКБ, радиатор, помпа. Резина зимняя "липучка". Кольца менял, масло не берет</div>
+            </div>
+            <span class="price">300 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.12.2015</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/srochno_prodam_5105188.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Срочно продам!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/srochno_prodam_5105188.html">Срочно продам!</a></div>
+                <div class="description">Форд-Фокус г.в.2001; двигатель бензин, кондиционер, эл.стелка, эл.зеркала, кор.фар, АБС, мульти-руль, подушки безопасности, обогрев лобового стекла, 5 МКПП Расход - 5-6л. на 100км</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.08.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_avto_5065325.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_avto_5065325.html">Продам авто</a></div>
+                <div class="description">Ford Fokus 2002 г В отличном ТХС</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.02.2015</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/prodam_ford_focus_g_v_5056029.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5201427.jpg" alt="Продам Ford Focus г.в.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/prodam_ford_focus_g_v_5056029.html">Продам Ford Focus г.в.</a></div>
+                <div class="description">Срочно! Продам Ford Focus г.в. (куплена в октябре), цвет черный металлик, двигатель 1.6л., л.с</div>
+            </div>
+            <span class="price">1 659 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.12.2014</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/prodazha_avtomobilya_5050156.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5188761.jpg" alt="продажа автомобиля">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/prodazha_avtomobilya_5050156.html">продажа автомобиля</a></div>
+                <div class="description">все вопросы по телефону</div>
+            </div>
+            <span class="price">13 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.10.2014</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/prodayu.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5141409.jpg" alt="продаю">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/prodayu.html">продаю</a></div>
+                <div class="description"></div>
+            </div>
+            <span class="price">6 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.03.2014</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_4878634.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5123312.jpg" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_4878634.html">Продам</a></div>
+                <div class="description">Продаю  Ford Galaxy.Объем 2,3,автомат.В хорошем состояний.+7(777)7572000 </div>
+            </div>
+            <span class="price">1 860 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.02.2014</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/mashinu_srochno_4311771.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину срочно!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/mashinu_srochno_4311771.html">продам машину срочно!</a></div>
+                <div class="description">1998г. универсал тёмно-зелёный металик,обём 2.0
+руль с лева,пробег 192000</div>
+            </div>
+            <span class="price">1 007 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.11.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/ford_mondeo_4251507.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5123308.jpg" alt="продам форд мондео">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/ford_mondeo_4251507.html">продам форд мондео</a></div>
+                <div class="description">Продам Форд Мондео 1997г.в. за 7800у.е. торг или обменяю на ГАЗель</div>
+            </div>
+            <span class="price">7 850 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.11.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/mashinu_srochno_4231672.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину срочно!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/mashinu_srochno_4231672.html">продам машину срочно!</a></div>
+                <div class="description">1998г. универсал тёмно-зелёный металик,обём 2.0
+руль с лева,пробег 192000.</div>
+            </div>
+            <span class="price">1 162 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.11.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/mashinu_srochno_4101062.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину срочно!!!!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/mashinu_srochno_4101062.html">продам машину срочно!!!!</a></div>
+                <div class="description">Форд мандео универсал тёмно зелёный металик,2.0,кпп автомат,велюр,абс,прабугсовачная система,1998 года,базовый,налог уплоченый,техасмотр пройден.</div>
+            </div>
+            <span class="price">1 162 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.10.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/srochno_yu_mashinu_4034875.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="срочно продамю машину!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/srochno_yu_mashinu_4034875.html">срочно продамю машину!</a></div>
+                <div class="description">1998 г. тёмно зелёного цвета,универсал,руль с лева</div>
+            </div>
+            <span class="price">1 050 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.10.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none hidden"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford"></a></li>
+<li class="text control back first-none hidden"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford">назад</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford?page=2">2</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford?page=2">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili/ford?page=2"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili">Легковые автомобили в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

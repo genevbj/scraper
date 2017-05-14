@@ -1,0 +1,764 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Купить запчасти в Казахстане. Объявления о продаже запчастей для автомобиля в Казахстане. , страница 75</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа бу запчастей и новых в Казахстане. Покупка и продажа запчастей для авто- и мототехники по доступным ценам в Казахстане.Страница 75." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=737&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" itemprop="item"><span itemprop="name">Запчасти и аксессуары</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atbasar.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_atbasar_5096560.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Коробки передач ZF и запчасти в Атбасар">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atbasar.salexy.kz/c/korobki_peredach_zf_i_zapchasti_v_atbasar_5096560.html">Коробки передач ZF и запчасти в Атбасар</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2015</time>
+                                            Атбасар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://akkol.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096556.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Коробки передач ZF и запчасти в Акколь">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://akkol.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096556.html">Коробки передач ZF и запчасти в Акколь</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2015</time>
+                                            Акколь                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096554.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Коробки передач ZF и запчасти в Кокшетау">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096554.html">Коробки передач ZF и запчасти в Кокшетау</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2015</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096551.html">
+                            <img src="/themes/2015-04/images/nf.png" alt=" Коробки передач ZF и запчасти в Астана">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/korobki_peredach_zf_i_zapchasti_5096551.html"> Коробки передач ZF и запчасти в Астана</a></div>
+                <div class="description">Компания «Алекон-Техно» поставляет широкий ассортимент запчасти для КПП ZF (автотехника IVECO, DAF, MAN, RENAULT, КамАЗ, МАЗ и пр., автобусы, специальная техника и т.д</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/b_u_zapchasti_na_nivu_21213_5095870.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Б/у запчасти на Ниву 21213">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/b_u_zapchasti_na_nivu_21213_5095870.html">Б/у запчасти на Ниву 21213</a></div>
+                <div class="description">Продам б/у запчасти на Ваз 21213 Нива</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5095468" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5095468", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/nasos_anc-55_dlya_mashin_mdk_5095468.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5289734.jpg" alt="Насос АНЦ-55 для машин МДК">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/nasos_anc-55_dlya_mashin_mdk_5095468.html">Насос АНЦ-55 для машин МДК</a></div>
+                <div class="description">Насосный агрегат водяной с редуктором АНЦ-55.92.74.000-02 (МАЗ), АНЦ-55.92.74.000-03 (ЗИЛ) и АНЦ-55.92.74.000-04 (КамАЗ) реализуем по цене 40850 руб/шт. Предназначены для установки на машинах МДК</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/baldwin_filters_prodazha_optom_ot_proivoditelya_5095363.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Baldwin filters продажа оптом от проиводителя">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/baldwin_filters_prodazha_optom_ot_proivoditelya_5095363.html">Baldwin filters продажа оптом от проиводителя</a></div>
+                <div class="description">Официальный представитель Lemny Groves, Inc предлагает оптовые продажи оригинальных масляных, топливных, воздушных фильтров. Все взаиморасчеты производятся на американские счета производителя</div>
+            </div>
+            <span class="price">500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_5095021.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_5095021.html">Продам</a></div>
+                <div class="description">Продам Хонда концерто по запчастям</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtorazbor_lexus_gs-300_gs-190_gs-190h_gs-160_5094977.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5288939.jpg" alt="АВТОРАЗБОР Lexus GS-300    GS-190, GS-190h,  GS-160.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtorazbor_lexus_gs-300_gs-190_gs-190h_gs-160_5094977.html">АВТОРАЗБОР Lexus GS-300    GS-190, GS-190h,  GS-160.</a></div>
+                <div class="description">
+Контрактные автозапчасти для
+Lexus GS-300   кузов  GS-190, GS-190h,  GS-160.
+2005-2008гг, 1997-2005 гг
+Двигателя    2GR, 3GR  объем  V3.0, V3.5, V4.3
+Ходовая 2Wd,  4Wd</div>
+            </div>
+            <span class="price">500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/toyota_land_cruiser_prado_150_120_95_90_5094976.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5288951.jpg" alt="TOYOTA Land Cruiser Prado 150 120 95 90 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/toyota_land_cruiser_prado_150_120_95_90_5094976.html">TOYOTA Land Cruiser Prado 150 120 95 90 </a></div>
+                <div class="description">Автозапчасти по кузову</div>
+            </div>
+            <span class="price">1 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/toyota_4runner_avto-razbor_5094974.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5288919.jpg" alt="TOYOTA  4RUNNER  АВТО-Разбор">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/toyota_4runner_avto-razbor_5094974.html">TOYOTA  4RUNNER  АВТО-Разбор</a></div>
+                <div class="description">Большой выбор запчастей на Японские и на Европейские Авто. Двигателя, АКПП, МКПП, Ходовая, Раздатки, Мосты, Рулевые рейки, Крылья, Двери, Стекла, Капоты, Бампера, Генераторы, Стартера, Насосы гура, Компрессоры кондиционера и многое другое</div>
+            </div>
+            <span class="price">1 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/dvigatel_yamz-236_-238_5094964.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5339225.jpg" alt="Двигатель ЯМЗ-236 -238">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/dvigatel_yamz-236_-238_5094964.html">Двигатель ЯМЗ-236 -238</a></div>
+                <div class="description"> Двигатель ЯМЗ-236 Цена соответственно 240 т. р. двигатель ЯМЗ-238 230 т. р. ЯМЗ-238 с турбонаддувом-350 т. р. практически новые, пробег около 500 км, снятые с консервных авто для автомобилей КрАЗ, МАЗ, КамАЗ</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/udlinit_gazon_kamaz_gaz_3309_gaz_3307_udlinenie_maz_4371_5094950.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5288876.jpg" alt="Удлинить Газон Камаз Газ 3309 Газ 3307 Удлинение Маз 4371 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/udlinit_gazon_kamaz_gaz_3309_gaz_3307_udlinenie_maz_4371_5094950.html">Удлинить Газон Камаз Газ 3309 Газ 3307 Удлинение Маз 4371 </a></div>
+                <div class="description">Удлиняем а/м такие как Газон, Газ 3307, Газ 3309, Маз 4371 зубренок Зил 5301 бычок
+Удлинение рамы под кузов длиной 5,1 и  6,2 м, 7,2 м колесные базы увеличатся на 800 мм и на 1300 мм</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.07.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/prodaetsya_emkost_metal_cisterna_5094441.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5288094.jpg" alt="Продается ЕМКОСТЬ метал.цистерна">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/prodaetsya_emkost_metal_cisterna_5094441.html">Продается ЕМКОСТЬ метал.цистерна</a></div>
+                <div class="description">Продается ЕМКОСТЬ метал.цистерна. 3,5 метр. куб, 120. 000 тг (торг</div>
+            </div>
+            <span class="price">120 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.07.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zapchasti_i_komplektuyuschie_5094027.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5287298.jpg" alt="запчасти и комплектующие">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zapchasti_i_komplektuyuschie_5094027.html">запчасти и комплектующие</a></div>
+                <div class="description">Продаем запчасти и комплектующие для иномарок (оригиналы и дубликаты), доставка из ОАЭ. Положительный опыт работы более 18 лет в данном направлении. Работаем с Казахстаном, другими странами СНГ, Россией</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zapravka_avtokondicionerov_v_almaty_5093433.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5286189.jpg" alt="Заправка автокондиционеров в Алматы!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zapravka_avtokondicionerov_v_almaty_5093433.html">Заправка автокондиционеров в Алматы!</a></div>
+                <div class="description">Техцентр Valvoline осуществляет надежную заправку и ремонт авто-кондиционеров. Ремонт-АВТОПЕЧЕК. Гарантия качества выполняемых работ от квалфицированых специалистов! Устранение утечек, замена подшипников компрессора, чистка испарителей, радиаторов</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.06.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/novye_kpp_k-700_korobki_peredach_traktora_kirovec_v_sbore_5093130.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5285502.jpg" alt="Новые КПП К-700. Коробки передач трактора Кировец в сборе">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/novye_kpp_k-700_korobki_peredach_traktora_kirovec_v_sbore_5093130.html">Новые КПП К-700. Коробки передач трактора Кировец в сборе</a></div>
+                <div class="description">Новые КПП 700А.17.00.000 для трактора Кировец К-700 в сборе</div>
+            </div>
+            <span class="price">794 905 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.06.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/instrumentalnye_yaschiki_5092840.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5284944.jpg" alt="Инструментальные ящики">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/instrumentalnye_yaschiki_5092840.html">Инструментальные ящики</a></div>
+                <div class="description">СпецТэн-Миасс изготавливает под заказ металлические инструментальные ящики любых размеров для грузового и пассажирского транспорта. Применение: 
+-Урал 
+-Ивеко 
+-Газель 
+-Тракторы 
+-Грузовые полуприцепы и многое другое</div>
+            </div>
+            <span class="price">4 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.06.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/kovsh_usilennyy_hyundai_250_260_290_nalichie_5092677.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Ковш усиленный Hyundai 250 260 290 наличие">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/kovsh_usilennyy_hyundai_250_260_290_nalichie_5092677.html">Ковш усиленный Hyundai 250 260 290 наличие</a></div>
+                <div class="description">Ковш усиленный Hyundai 250 260 290. Объем 1.2 м3. В наличии.  Возможен наличный и безналичный расчет.  Аверс-Екатеринбург ООО</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.06.2015</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_k_uaz_469_i_k_gaz_24_zapchasti_5092388.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам к УАЗ 469 и к ГАЗ 24 запчасти">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_k_uaz_469_i_k_gaz_24_zapchasti_5092388.html">Продам к УАЗ 469 и к ГАЗ 24 запчасти</a></div>
+                <div class="description">Продам крыло переднее левое УАЗ 469, дверь правая УАЗ 469, стекло лобовое УАЗ 469.
+Генератор ГАЗ 24, диск сцепления ГАЗ 24. Цена договорная</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.06.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=75">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=71">71</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=72">72</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=73">73</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=74">74</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=75">75</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=76">76</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=77">77</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=78">78</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=79">79</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=80">80</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=77">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=102"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

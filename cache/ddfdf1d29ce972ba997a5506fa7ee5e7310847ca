@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Краны и манипуляторы в Казахстане. Объявления Казахстана о продаже кранов, страница 3</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Новые и бу Краны и манипуляторы в Казахстане. Бесплатная доска объявлений Salexy.kz
+Страница 3." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika/krany_manipulatory" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1320&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/spectehnika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" itemprop="item"><span itemprop="name">Спецтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Краны и манипуляторы в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/avtokrany">Автокраны</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/bashennyy_kran">Башенные краны</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/kmu">КМУ</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/gidromanipulyatory">Гидроманипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/manipulyatory">Манипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/prochie">Прочие</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_mikroavtobusov_passazhirskie_perevozki_5101652.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5302638.jpg" alt="Аренда микроавтобусов, Пассажирские перевозки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_mikroavtobusov_passazhirskie_perevozki_5101652.html">Аренда микроавтобусов, Пассажирские перевозки</a></div>
+                <div class="description">Пассажирские перевозки на комфортабельных микроавтобусах мерседес-спринтер 2008 г.в., 20 мест и тойота Хайс 2009 года 14 мест (dvd</div>
+            </div>
+            <span class="price">2 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/plug_8-mi_korpusnoy_oborotnyy_po-8-40_5099704.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Плуг 8-ми корпусной оборотный ПО-8-40">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/plug_8-mi_korpusnoy_oborotnyy_po-8-40_5099704.html">Плуг 8-ми корпусной оборотный ПО-8-40</a></div>
+                <div class="description">ООО «ТранзитКомплектация» предлагает следующую продукцию:
+Плуг 8-ми корпусной оборотный ПО-8-40
+ 
+Плуг 8-ми корпусный полунавесной оборотный ПО-8-40 ТУ РБ сертификат соответствия N BY\112 . 042 01438 от г</div>
+            </div>
+            <span class="price">642 448 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/polupricep_traktornyy_pt-_13_i_pt-13_9_5099701.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5298289.jpg" alt="	Полуприцеп тракторный [ ПТ- 13 и ПТ-13(9)]">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/polupricep_traktornyy_pt-_13_i_pt-13_9_5099701.html">	Полуприцеп тракторный [ ПТ- 13 и ПТ-13(9)]</a></div>
+                <div class="description">ООО «ТранзитКомплектация» предлагает:
+
+1.	Полуприцеп тракторный [ ПТ- 13 и ПТ-13(9)]
+
+Основные параметры полуприцепа                          ПТ-13                                               ПТ-13(9) 
+
+Грузоподъемность, кГ</div>
+            </div>
+            <span class="price">475 600 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/opryskivateli_navesnye_shtangovye_serii_zubr_nsh_5099697.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Опрыскиватели навесные штанговые серии ЗУБР НШ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/opryskivateli_navesnye_shtangovye_serii_zubr_nsh_5099697.html">Опрыскиватели навесные штанговые серии ЗУБР НШ</a></div>
+                <div class="description">Опрыскиватели навесные штанговые серии ЗУБР НШ
+Серия Фермер
+Штанга 12 м, подъем лебедкой, раскладывание - ручное, насос 85-100 л/мин (Италия), двухмаятниковая стабилизация
+ 	ЗУБР НШ 04.31.11 Фермер	ЗУБР НШ 06.31.11 Фермер	ЗУБР НШ 08.31</div>
+            </div>
+            <span class="price">145 670 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/kultivatory_frezernye_s_gorizontalnymi_nozhami_5099696.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Культиваторы фрезерные с горизонтальными ножами">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/kultivatory_frezernye_s_gorizontalnymi_nozhami_5099696.html">Культиваторы фрезерные с горизонтальными ножами</a></div>
+                <div class="description">Культиваторы фрезерные с горизонтальными ножами
+
+Модель	UL-36	UL-48	UL-60	UM-60	UM-72
+Трактор л.с.	15-25	20-25	25-40	35-50	 
+Ширина захвата м</div>
+            </div>
+            <span class="price">504 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5099693" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5099693", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/diskatory_adn_5099693.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Дискаторы АДН">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/diskatory_adn_5099693.html">Дискаторы АДН</a></div>
+                <div class="description">ДИСКАТОРЫ ОДИНОЧНЫЕ: Агрегаты дисковые навесные серии АДН, диски вырезные сферические 510 мм "OFAS" (Италия), ширина захвата - 2,0/2,5/3,0/3,5/4,0
+с регулировкой угла атаки
+АДН 2Р2 (16)	АДН 2,5Р2 (20)	АДН 3Р2 (24)	АДН 3,5 Р2 (28)	АДН 4Р2 (32)
+МТЗ </div>
+            </div>
+            <span class="price">866 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/razbrasyvateli_organicheskih_i_mineralnyh_udobreniy_5099690.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Разбрасыватели органических и минеральных удобрений">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/razbrasyvateli_organicheskih_i_mineralnyh_udobreniy_5099690.html">Разбрасыватели органических и минеральных удобрений</a></div>
+                <div class="description">Разбрасыватели органических и минеральных удобрений.         Садовые и полевые</div>
+            </div>
+            <span class="price">2 257 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zhatka_kukuruznaya_capello_quasar_5099070.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5297168.jpg" alt="Жатка кукурузная Capello Quasar">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zhatka_kukuruznaya_capello_quasar_5099070.html">Жатка кукурузная Capello Quasar</a></div>
+                <div class="description">Итальянская кукурузная жатка марки Capello,5-рядная, междурядье 70 см. Имеются измельчающие ножи. Жатка 2008 года, однако наработки нет, новая(заводская краска на ножах, бумажные наклейки под делителями, шнек без царапин-реально новая!)</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zahvat_dlya_rulonov_5098097.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5295266.jpg" alt="Захват для рулонов на погрузчики фронтальные "ТРИО"">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zahvat_dlya_rulonov_5098097.html">Захват для рулонов на погрузчики фронтальные ТРИО</a></div>
+                <div class="description">Захват гидравлический универсальный (Кантователь)
+
+   Кантователь – это сменный рабочий орган для погрузчиков ПГУ-0,8, ПФ-1(М) и ПБМ-1200, который. Он представляет собой универсальный гидравлический захват для рулонов</div>
+            </div>
+            <span class="price">223 816 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/vily_dlya_razlichnyh_vidov_rabot_5098096.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5295265.jpg" alt="Вилы для рулонов на погрузчики "ТРИО"">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/vily_dlya_razlichnyh_vidov_rabot_5098096.html">Вилы для рулонов на погрузчики ТРИО</a></div>
+                <div class="description">Погрузчики ООО«ТРИО» могут иметь в комплекте вилы и вилочные захваты. Эти сменные рабочие органы для нашего навесного оборудования позволяют расширить сферу возможного применения погрузчиков</div>
+            </div>
+            <span class="price">91 205 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kartofelekopatel_navesnoy_dvuhryadnyy_kn-2_5098090.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5438611.jpg" alt="Картофелекопатель навесной двухрядный КН-2">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kartofelekopatel_navesnoy_dvuhryadnyy_kn-2_5098090.html">Картофелекопатель навесной двухрядный КН-2</a></div>
+                <div class="description">Картофелекопатель КН-2 навесной двухрядный предназначен для выкапывания картофеля, частичного отделения клубней от почвы и укладывания их на поверхность поля для дальнейшей подборки</div>
+            </div>
+            <span class="price">626 685 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/grabli-voroshilki_valkoobrazovateli_gvv-8_5098089.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5438612.jpg" alt="Грабли-ворошилки валкообразователи ГВВ-8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/grabli-voroshilki_valkoobrazovateli_gvv-8_5098089.html">Грабли-ворошилки валкообразователи ГВВ-8</a></div>
+                <div class="description">Грабли-ворошилки валкобразователи ГВВ-8 предназначены для сгребания провяленной травы из прокосов в валки, ворошения её в прокосах и оборачивания валков</div>
+            </div>
+            <span class="price">514 777 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zgetikara.salexy.kz/c/prodam_deystvuyuschee_selskoe_hozyaystvo_5096438.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам действующее сельское хозяйство!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zgetikara.salexy.kz/c/prodam_deystvuyuschee_selskoe_hozyaystvo_5096438.html">Продам действующее сельское хозяйство!</a></div>
+                <div class="description">Продам действующее крестьянское хозяйство! 478 га земли, сельхоз технику и склад. Комьайн Енисей,1992г, трактор МТЗ 1221,2007г, МТЗ 82, 1992, Т150, ГАЗ 53б, трактор ДТ75,1992г, а также сеялки, культиваторы, плугги, тележки и т.д</div>
+            </div>
+            <span class="price">65 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.07.2015</time>
+                                            Жетикара                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/usluga_mikroavtobusa_5093947.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5287195.jpg" alt="услуга микроавтобуса">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/usluga_mikroavtobusa_5093947.html">услуга микроавтобуса</a></div>
+                <div class="description">услуги пассажирских перевозок на комфортабельных микроавтобусах вместимостью до 14 посадочных мест. Пассажирские перевозки по г. Алматы и междугородние перевозки. Свадьбы. Корпоративы</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ploskie_rukava_dlya_vody_zhidkih_udobreniya_topliva_5093401.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5286117.jpg" alt="Плоские рукава для воды, жидких удобрения, топлива">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ploskie_rukava_dlya_vody_zhidkih_udobreniya_topliva_5093401.html">Плоские рукава для воды, жидких удобрения, топлива</a></div>
+                <div class="description">Шланги плоскосворачиваемые – это высокотехнологичные, прочные и износоустойчивые плоские рукава (гибкие трубопроводы) для различных сфер промышленного применения в различных отраслях народного хозяйства:
+
+    сельское хозяйство: животноводство, рас</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.06.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/prodam_sipma_ps_1210_classik_5092877.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5285011.jpg" alt="Продам SIPMA PS 1210 CLASSIK">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/prodam_sipma_ps_1210_classik_5092877.html">Продам SIPMA PS 1210 CLASSIK</a></div>
+                <div class="description">Серия Classic- это простые дешевые машины, гарантирующие постоянную и надежную работу. Благодаря цепной-вальцевой камере закатки отличаются универсальностью применения</div>
+            </div>
+            <span class="price">3 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.06.2015</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=3">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=3">3</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=4">4</a></li>
+<li class="text control forward last-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=4">вперёд</a></li>
+<li class="text last-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=4"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika">Спецтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

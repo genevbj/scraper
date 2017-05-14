@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Средства для ухода за авто в Казахстане, страница 1</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже средств для ухода за автомобилем в Казахстане
+Страница 1." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1416&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" itemprop="item"><span itemprop="name">Запчасти и аксессуары</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Средства для ухода за авто в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/aromatizator_tropik_5186151.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/57/34/5734989fcdbb183f2a05f3aee9902f25.jpg" alt="Ароматизатор Тропик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/aromatizator_tropik_5186151.html">Ароматизатор Тропик</a></div>
+                <div class="description">Вашему вниманию представляем Ароматизаторы класса Премиум. Состав этих Аромок подобран с такой точностью, что при его использовании эффект присутствия просто ошеломительный</div>
+            </div>
+            <span class="price">1 200 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/aromatizator_ays_5186150.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/78/f4/78f418fcef47a87633933a56b56a6235.jpg" alt="Ароматизатор Айс">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/aromatizator_ays_5186150.html">Ароматизатор Айс</a></div>
+                <div class="description">Вашему вниманию представляем Ароматизаторы класса Премиум. Состав этих Аромок подобран с такой точностью, что при его использовании эффект присутствия просто ошеломительный</div>
+            </div>
+            <span class="price">1 200 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/aromatizator_laym_5186145.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d0/21/d021a76c81961e6c9cb29964cf505b48.jpg" alt="Ароматизатор Лайм">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/aromatizator_laym_5186145.html">Ароматизатор Лайм</a></div>
+                <div class="description">Вашему вниманию представляем Ароматизаторы класса Премиум. Состав этих Аромок подобран с такой точностью, что при его использовании эффект присутствия просто ошеломительный</div>
+            </div>
+            <span class="price">1 200 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/professionalnaya_himchistka_premium_klassa_5186136.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/14/9d/149df63e23e8bf870844c2a6365c6b12.jpg" alt="Профессиональная химчистка премиум класса">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/professionalnaya_himchistka_premium_klassa_5186136.html">Профессиональная химчистка премиум класса</a></div>
+                <div class="description">Химчистке IR-110 хотим уделить особое внимание. 
+Еще совсем недавно, многие детейлинг центры использовали в качестве средства для очистки салона обычное хозяйственное калиевое мыло. 
+Хоз</div>
+            </div>
+            <span class="price">1 400 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zhidkiy_vosk_bystraya_sushka_5186135.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/23/1f/231ff634c5b3d95dbce5452fd52fd7df.jpg" alt="Жидкий воск, быстрая сушка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zhidkiy_vosk_bystraya_sushka_5186135.html">Жидкий воск, быстрая сушка</a></div>
+                <div class="description">Воск для кузова длительного действия. Не оставляет жирных разводов на стеклах. Придает защитный слой и блеск лакокрасочному покрытию. Эффективен в воде любой жесткости</div>
+            </div>
+            <span class="price">1 400 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5186134" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5186134", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/beskontaktnyy_avtoshampun_5186134.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a1/59/a15976eb4312675f885e53e19646752b.jpg" alt="Профессиональный бесконтактный автошампунь премиум класса">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/beskontaktnyy_avtoshampun_5186134.html">Профессиональный бесконтактный автошампунь премиум класса</a></div>
+                <div class="description">Данный продукт является одним из последних разработок, вызвавший фурор на рынке автомоек. С помощью данного шампуня можно с легкостью и за считанные секунды смыть загрязнения с вашего автомобиля не прибегая к помощи рук и тряпки</div>
+            </div>
+            <span class="price">1 600 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/professionalnyy_avtoshampun_dlya_ruchnoy_i_beskontaktnoy_moyki_5186133.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5d/95/5d95e03200015620090392bef2fa4766.jpg" alt="Профессиональный автошампунь для ручной и бесконтактной мойки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/professionalnyy_avtoshampun_dlya_ruchnoy_i_beskontaktnoy_moyki_5186133.html">Профессиональный автошампунь для ручной и бесконтактной мойки</a></div>
+                <div class="description">Представляем Вам автошампунь премиум класса, готовый работать в любых условиях, вне зависимо от жёсткости воды, и цели применения. Данный шампунь без труда справляется с сильными загрязнениями кузова вашего автомобиля, при этом не оставляет разводов</div>
+            </div>
+            <span class="price">1 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/prodam_maslo_motornoe_petro-canada_5183531.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8c/07/8c077fdea72efd54e824660b3da93359.jpg" alt="Продам масло моторное Petro-Canada">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/prodam_maslo_motornoe_petro-canada_5183531.html">Продам масло моторное Petro-Canada</a></div>
+                <div class="description">Продам масло моторное полусинтетика Petro-Canada 10W40 цена 5500 тг. (4л)
+Полусинтетика 5W30 Petro-Canada цена 6000 тг. (4 л).
+Тосол А40М ARCTIC г. Дзержинск 5 кг цена 1400 тг.
+Тосол А40М ARCTIC г. Дзержинск 10 кг цена 2400 тг</div>
+            </div>
+            <span class="price">5 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.09.2016</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtoshampuni_i_avtokosmetika_v_almaty_5175517.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7c/49/7c49664d1feaab0c4a0bd53b6eec4e63.jpg" alt="Автошампуни и автокосметика в Алматы ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtoshampuni_i_avtokosmetika_v_almaty_5175517.html">Автошампуни и автокосметика в Алматы </a></div>
+                <div class="description">Казахстанская производственная компания, выпускающая продукцию по европейской технологии под брендом «TAZANOVA», предлагает Вашему вниманию автошампуни и автокосметику Премиум класса по доступной цене</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_nano_reflektor-vodoottalkivayuschee_sredstvo_dlya_stekol_i_kuzova_5174317.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5454105.jpg" alt="Продам Нано Рефлектор-водоотталкивающее средство для стекол и кузова">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_nano_reflektor-vodoottalkivayuschee_sredstvo_dlya_stekol_i_kuzova_5174317.html">Продам Нано Рефлектор-водоотталкивающее средство для стекол и кузова</a></div>
+                <div class="description">Водоотталкивающее и гидрофобное средство Nano Reflector для долговечного
+сохранения кузова и стекол автомобиля от воды и грязи.
+Балоннчик 400 мл</div>
+            </div>
+            <span class="price">6 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.07.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/maslo_motornoe_shell_helix_5170056.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5444861.jpg" alt="Масло моторное Shell Helix">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/maslo_motornoe_shell_helix_5170056.html">Масло моторное Shell Helix</a></div>
+                <div class="description">Продажа смазочных продуктов Shell Helix по ценам завода работаем напрямую с Германией без посредников. 
+
+Всегда в наличии моторное, грузовое, легковое, редукторное, компрессорное, трансмиссионное масло</div>
+            </div>
+            <span class="price">1 150 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.06.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_5w-30_4l_europa_na_toyotu_5165582.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435168.jpg" alt="Масло моторное синтетическое "SN 5W-30", 4л (EUROPA) на Тойоту">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_5w-30_4l_europa_na_toyotu_5165582.html">Масло моторное синтетическое SN 5W-30, 4л (EUROPA) на Тойоту</a></div>
+                <div class="description">Продам масло моторное синтетическое "SN 5W-30", 4л. (EUROPA) в металлической канистре на Тойоту</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_dlya_4-h_taktnyh_plm_yamalube_4m_10w-40_na_yamaha_5165581.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435166.jpg" alt="Масло для 4-х тактных ПЛМ YAMALUBE 4M 10W-40 на YAMAHA">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_dlya_4-h_taktnyh_plm_yamalube_4m_10w-40_na_yamaha_5165581.html">Масло для 4-х тактных ПЛМ YAMALUBE 4M 10W-40 на YAMAHA</a></div>
+                <div class="description">Минеральное моторное масло, стандарты SAE 10W40, API SJ. Содержит антифрикционные и антикоррозийные присадки. Применение: 4-х тактные карбюраторные и инжекторные подвесные моторы марки YAMAHA. Для водной техники с подвесными моторами и мотоциклов</div>
+            </div>
+            <span class="price">3 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_getriebeoil_lf_75w_1l_tayota_5165572.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435141.jpg" alt="Масло трансмиссионное "Getriebeoil LF 75W", 1л. Тайота">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_getriebeoil_lf_75w_1l_tayota_5165572.html">Масло трансмиссионное Getriebeoil LF 75W, 1л. Тайота</a></div>
+                <div class="description">Продам масло трансмиссионное "Getriebeoil LF 75W", 1л. на авто Тойота</div>
+            </div>
+            <span class="price">11 450 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/antifriz_koncentrat_long_life_coolant_5l_toyota_5165570.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435138.jpg" alt="Антифриз концентрат "Long Life Coolant", 5л.,Тойота">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/antifriz_koncentrat_long_life_coolant_5l_toyota_5165570.html">Антифриз концентрат Long Life Coolant, 5л.,Тойота</a></div>
+                <div class="description">Продам антифриз концентрат "Long Life Coolant", 5л. в пластиковой таре на автомобиль Тойота</div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_5w-30_1l_na_avtomobil_toyota_5165568.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435135.jpg" alt="Масло моторное синтетическое "SN 5W-30", 1л. на автомобиль Тойота.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_5w-30_1l_na_avtomobil_toyota_5165568.html">Масло моторное синтетическое SN 5W-30, 1л. на автомобиль Тойота.</a></div>
+                <div class="description">Продам оригинальное масло моторное синтетическое "SN 5W-30", 1л. в металлической банке на автомобиль Тойота</div>
+            </div>
+            <span class="price">3 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_sinteticheskoe_gear_oil_super_75w-90_1l_na_avtomobil_toyota_5165565.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435125.jpg" alt="Масло трансмиссионное синтетическое "Gear Oil Super 75W-90", 1л. на автомобиль Тойота.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_sinteticheskoe_gear_oil_super_75w-90_1l_na_avtomobil_toyota_5165565.html">Масло трансмиссионное синтетическое Gear Oil Super 75W-90, 1л. на автомобиль Тойота.</a></div>
+                <div class="description">Продам оригинальное масло трансмиссионное синтетическое "Gear Oil Super 75W-90", 1л. в металлической банке на автомобиль Тойота</div>
+            </div>
+            <span class="price">6 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_gear_oil_80w-90_1l_na_avtomobil_toyota_5165563.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435124.jpg" alt="Масло трансмиссионное "Gear Oil 80W-90", 1л. на автомобиль Тойота.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_transmissionnoe_gear_oil_80w-90_1l_na_avtomobil_toyota_5165563.html">Масло трансмиссионное Gear Oil 80W-90, 1л. на автомобиль Тойота.</a></div>
+                <div class="description">Продам оригинальное масло трансмиссионное "Gear Oil 80W-90", 1л. в пластиковой банке на автомобиль Тойота</div>
+            </div>
+            <span class="price">3 850 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_0w-20_1l_toyota_5165560.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435123.jpg" alt="Масло моторное синтетическое "SN 0W-20", 1л. Тойота.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/maslo_motornoe_sinteticheskoe_sn_0w-20_1l_toyota_5165560.html">Масло моторное синтетическое SN 0W-20, 1л. Тойота.</a></div>
+                <div class="description">Продам оригинальное масло моторное синтетическое "SN 0W-20", 1л. в металлической банке на автомобиль Тойота</div>
+            </div>
+            <span class="price">3 800 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/antifriz-koncentrat_long_life_coolant_1l_na_avtomobil_toyota_5165553.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5435116.jpg" alt="Антифриз-концентрат "Long Life Coolant", 1л, на автомобиль Тойота.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/antifriz-koncentrat_long_life_coolant_1l_na_avtomobil_toyota_5165553.html">Антифриз-концентрат Long Life Coolant, 1л, на автомобиль Тойота.</a></div>
+                <div class="description">Продам антифриз-концентрат "Long Life Coolant", 1л,  в пластиковой упаковке на автомобиль Тойота</div>
+            </div>
+            <span class="price">2 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">1</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=5">5</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=3">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya?page=5"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

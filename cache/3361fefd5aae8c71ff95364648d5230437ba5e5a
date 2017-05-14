@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Объявления о продаже спецтехники в Казахстане. Купить спецтехнику бу и новую в Казахстане. , страница 12</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Спецтехника различного назначения в Казахстане. Продажа спецтехники новой и бу в Казахстане по доступным ценам.Страница 12." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=99&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Спецтехника в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/buldozery">Бульдозеры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/traktory">Тракторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/ekskavatory">Экскаваторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki">Погрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory">Краны и манипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtovyshki">Автовышки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtobetononasosy">Автобетононасосы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/burovaya_ustanovka">Буровае установки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/yamobur">Ямобуры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/prochee">Прочее</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mashina_dlya_ukladki_trotuarnoy_plitki_5195883.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e7/ce/e7ce45926149b5ad2caaa17de9f88c00.jpg" alt="Машина для укладки тротуарной плитки MinuteRoad-6">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mashina_dlya_ukladki_trotuarnoy_plitki_5195883.html">Машина для укладки тротуарной плитки MinuteRoad-6</a></div>
+                <div class="description">Изобретение в три раза ускоряет создание полотна из брусчатки. При этом аппарат, решивший эту проблему, устроен довольно просто.
+Машина представляет собой платформу на гусеничном ходу</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mashina_dlya_mehanizirovannoy_ukladki_trotuarnoy_5195882.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/dd/e7/dde7322c3c57738ccb101260ac621ca4.jpg" alt="Машина для механизированной укладки тротуарной плитки Minute Road-4,5">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mashina_dlya_mehanizirovannoy_ukladki_trotuarnoy_5195882.html">Машина для механизированной укладки тротуарной плитки Minute Road-4,5</a></div>
+                <div class="description">4,2 метра – максимальная ширина укладки с помощью этой машины за один проход. Это тротуароукладчик на гусеничном ходу с платформой для опускания на дорогу готового покрытия из тротуарной плитки и брусчатки</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/minitroud_3_5-_mashina_dlya_mehanizirovannoy_5195880.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2f/b9/2fb92c9d677a6fe710d209e41ea4a330.jpg" alt="МинитРоуд 3,5- машина для механизированной укладки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/minitroud_3_5-_mashina_dlya_mehanizirovannoy_5195880.html">МинитРоуд 3,5- машина для механизированной укладки</a></div>
+                <div class="description">Машина представляет собой платформу на гусеничном ходу. Ключевая её часть — широкое наклонное полотно, подходящее к самой поверхности дороги. По нему поток уложенных камней плавно спускается вниз, по мере того как машина медленно ползёт вперёд</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/trotuaroukladchik_mr_1_8_5195878.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Тротуароукладчик MR 1.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/trotuaroukladchik_mr_1_8_5195878.html">Тротуароукладчик MR 1.8</a></div>
+                <div class="description">Автоматическая укладка используется на разных участках. 
+Непосредственно на машине для мощения MinuteRoad-1.8M может работать 2 человека</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/oborudovanie_dlya_ukladki_bruschatki_i_5195877.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2d/24/2d24b3e751d644df93bca567563a3d1d.jpg" alt="Оборудование для укладки брусчатки и тротуарной плитки MinuteRoad-1,68">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/oborudovanie_dlya_ukladki_bruschatki_i_5195877.html">Оборудование для укладки брусчатки и тротуарной плитки MinuteRoad-1,68</a></div>
+                <div class="description">Это самая малая модель из 5 доступных. Ширина укладки тротуарной плитки возможна от 1 м до 1,4 м. Для работы достаточно одного оператора ,при этом за одну смену возможно уложить до 200 квадратных метров брусчатки или тротуарной плитки</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5195876" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5195876", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/gidroprivodnaya_razmetochnaya_mashina_ar100_5195876.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроприводная разметочная машина AR100">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/gidroprivodnaya_razmetochnaya_mashina_ar100_5195876.html">Гидроприводная разметочная машина AR100</a></div>
+                <div class="description">Для безвоздушного нанесения дорожной разметки . Двигатель 16 л.с. Объем бака для краски 100 литров. Насос поршневой  6,17 литров в минуту. Электрозапуск</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ruchnaya_razmetochnaya_mashina_ar30pro-p_5195874.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4f/8e/4f8e6fcde698e527fb8654e15e76a0c8.jpg" alt="Ручная разметочная машина AR30PRO-P ( производитель СМС,Италия ) на базе поршневого насоса ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ruchnaya_razmetochnaya_mashina_ar30pro-p_5195874.html">Ручная разметочная машина AR30PRO-P ( производитель СМС,Италия ) на базе поршневого насоса </a></div>
+                <div class="description">– профессиональная безвоздушная машина для разметки дорог или парковок с возможностью дооснащения 2ым окрасочным пистолетом и двумя диспенсерами стеклошариков. На выбор оснащается подставкой под стандартное 30л ведро с краской или баком на 50 литров</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/http_astana_salexy_kz_c_ruchnaya_razmetochnaya_mashina_ar30-pro_italiya_5195870_html_5195873.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Ручная разметочная машина СМС AR30PRO-2C">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/http_astana_salexy_kz_c_ruchnaya_razmetochnaya_mashina_ar30-pro_italiya_5195870_html_5195873.html">Ручная разметочная машина СМС AR30PRO-2C</a></div>
+                <div class="description">Машина имеет два независимых контура для работы с красками двух цветов – можно наносить разметку на пешеходные переходы двумя цветами - белым и желтым без переставки ведер либо иметь запас краски с собой  60 л</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ruchnaya_razmetochnaya_mashina_ar30-pro_italiya_5195870.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4e/a6/4ea677bab9389e96f9f9b1d6d1e5e5e7.jpg" alt="Ручная разметочная машина AR30-PRO (Италия ) ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ruchnaya_razmetochnaya_mashina_ar30-pro_italiya_5195870.html">Ручная разметочная машина AR30-PRO (Италия ) </a></div>
+                <div class="description">– профессиональная безвоздушная машина для разметки дорог и парковок с возможностью дооснащения 2ым окрасочным пистолетом и двумя диспенсерами стеклошариков. На выбор оснащается подставкой под стандартное 30л ведро с краской или баком на 50 литров</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prinadlezhnost_dlya_razmetochnyh_mashin_cmc_5195868.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5d/42/5d42dd7635d16f9bd024b727e174c823.jpg" alt="Принадлежность для разметочных машин CMC HMC .">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prinadlezhnost_dlya_razmetochnyh_mashin_cmc_5195868.html">Принадлежность для разметочных машин CMC HMC .</a></div>
+                <div class="description">- превращает ручную разметочную машину в самоходный комплекс – не нужно толкать 150 кг ,можно ехать с комфортом! 
+Качество нанесения разметки вырастает – гидравлический привод обеспечивает равномерность движения</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/traktor-bolotohod_tg-170mb_5195867.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2f/e5/2fe5db428d432fcc798b22dcfa787cb8.jpg" alt="Трактор-болотоход ТГ-170МБ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/traktor-bolotohod_tg-170mb_5195867.html">Трактор-болотоход ТГ-170МБ</a></div>
+                <div class="description">это болотоходная модификация базового трактора ТГ-170. Различается мощностью силовой установки (от 180 до 240 л.с.). Трактор - болотоход имеет 7-ми катковую раму тележек с увеличенной колеей, что значительно снижает давление на грунт</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/traktor_tg-75_5195865.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Трактор ТГ-75">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/traktor_tg-75_5195865.html">Трактор ТГ-75</a></div>
+                <div class="description">усовершенствованная модель гусеничных тракторов 3 тягового класса. Разработан на базе выпускавшегося в течение длительного времени ДТ-75</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_tg-170_02_er_5195858.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/76/d1/76d1697b14f7207b2420523343907c80.jpg" alt="Бульдозер ТГ-170.02.ЕР">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_tg-170_02_er_5195858.html">Бульдозер ТГ-170.02.ЕР</a></div>
+                <div class="description">Бульдозер ТГ-170.02 с полусферическим отвалом (тип Е) и параллелограмным трехзубым рыхлителем (тип Р), модификация ТГ-170.02.ЕР предназначен для разработки грунтов I-IV категорий, а также разборно-скальных грунтов. Бульдозер ТГ-170.02</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_tg-170_01-en_proizvodstva_zao_yuuzt_5195855.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Бульдозер ТГ-170.01-ЕН Производства ЗАО ЮУЗТ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_tg-170_01-en_proizvodstva_zao_yuuzt_5195855.html">Бульдозер ТГ-170.01-ЕН Производства ЗАО ЮУЗТ</a></div>
+                <div class="description">Отлично зарекомендовал себя в самых различных условиях работы.
+ трактор производства ЗАО Южно-Уральский завод тракторов с навесным рыхлительным и бульдозерным оборудованием используется в работе как бульдозерно-рыхлительный агрегат</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_b10m_0111-1e_5195853.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Бульдозер Б10М.0111-1Е">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_b10m_0111-1e_5195853.html">Бульдозер Б10М.0111-1Е</a></div>
+                <div class="description">Сферой применения бульдозера Б10М.0111-1Е являются в основном работы на лесозаготовке, в карьерах и на свалках. Но, конечно же, самой незаменимой техникой он является практически на всех этапах строительства дорог</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/rasprodazha_spec_tehniki_po_vygodnym_5195767.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/76/d5/76d56a2ca44d452af7f86c70f53d5619.jpg" alt="Распродажа спец техники по выгодным ценам!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/rasprodazha_spec_tehniki_po_vygodnym_5195767.html">Распродажа спец техники по выгодным ценам!</a></div>
+                <div class="description">Вахтовка Газ-66 ( 500000 тг.);
+Самосвал краз-256 (1 800000 тг.);
+Автовышка на базе зил МШТС-2А (3 000000 тг.)
+Эксковатор "кентау" ЭО-3122 (1 000000 тг</div>
+            </div>
+            <span class="price">1 250 012 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.11.2016</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/belarus_311m_5195416.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3c/a3/3ca3f7d976857303f84e309ddedfb1ee.jpg" alt="Беларус 311м">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/belarus_311m_5195416.html">Беларус 311м</a></div>
+                <div class="description">Трактор Беларус 311М, с двигателем ММЗ, с передним ведущим мостом</div>
+            </div>
+            <span class="price">1 900 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.11.2016</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_mksm-800_1000_5194722.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/53/25/53252c584b362da5a5f96e13b3f80bcc.jpg" alt="Продам МКСМ-800,1000.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_mksm-800_1000_5194722.html">Продам МКСМ-800,1000.</a></div>
+                <div class="description">МКСМ 800/1000
+ИП "Artek" Занимается продажей  МКСМ 800/1000.  Цены и наличие на складе Вы можете уточнить у наших специалистов. Обращаться  . Артем новые и б\у.
+сайт.  mksm800</div>
+            </div>
+            <span class="price">1 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/pricep-zernovoz_nefaz-8332-04_5194710.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/61/27/6127629cc9594123d242bc401922c59d.jpg" alt="Прицеп-зерновоз НЕФАЗ-8332-04.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/pricep-zernovoz_nefaz-8332-04_5194710.html">Прицеп-зерновоз НЕФАЗ-8332-04.</a></div>
+                <div class="description">Прицеп-Зерновоз НЕФАЗ-8332-04, предназначен для перевозки с/х грузов также прицеп может использоваться для перевозки запалеченных грузов.
+Внутренние размеры платформы,мм. д/ш/в. 8070/2478/1700</div>
+            </div>
+            <span class="price">995 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.11.2016</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://stepnogorsk.salexy.kz/c/prodam_schetku_dorozhnuyu_i_snegoochestitel_5194707.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c0/75/c075d6ab01851c6f86a7e4430df47ff2.jpg" alt="Продам щетку дорожную и снегоочеститель на  МКСМ-800,1000.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://stepnogorsk.salexy.kz/c/prodam_schetku_dorozhnuyu_i_snegoochestitel_5194707.html">Продам щетку дорожную и снегоочеститель на  МКСМ-800,1000.</a></div>
+                <div class="description">Щетку и снегоочеститель на  МКСМ 800/1000
+ИП "Artek" Занимается продажей навесного оборудования  на МКСМ 800/1000. В наличии на складе наиболее часто спрашиваемые навески к погрузчику б\у и новые</div>
+            </div>
+            <span class="price">850 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.11.2016</time>
+                                            Степногорск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/spectehnika"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/spectehnika?page=12">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=10">10</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=11">11</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=12">12</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika?page=13">13</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=14">14</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=15">15</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=16">16</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=17">17</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=14">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=61"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

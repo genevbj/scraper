@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Шины и диски в Казахстане. Купить бу и новые шины и диски в Казахстане, страница 9</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже бу и новых шин и дисков в Казахстане. Подать объявление о продаже бу и новых шин и дисков в Казахстане. Доска бесплатных объявлений Salexy.kzСтраница 9." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/shiny_i_diski" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=102&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Шины и диски в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski/kolesa">Колеса</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski/shiny">Шины</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski/diski">Диски</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski/prochie">Колпаки и прочие</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/shiny_dlya_spectehniki_5111254.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5322108.jpg" alt="Шины для спецтехники">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/shiny_dlya_spectehniki_5111254.html">Шины для спецтехники</a></div>
+                <div class="description">Ликвидация склада - Самый дешевый ценник по России, осталось всего 26 шин.
+Описание грузовой шины 7.00-12 Вл-7
+Размер шины 7.00-12
+Модель шины Вл-7
+Тип рисунка Продольные ребра
+Обозначение камеры 7.00-12
+Обозначение ободной ленты 7</div>
+            </div>
+            <span class="price">7 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.09.2015</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_abonement_v_fitnes-klub_winox_5110995.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5321593.jpg" alt="Продам абонемент в фитнес-клуб "Winox".">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_abonement_v_fitnes-klub_winox_5110995.html">Продам абонемент в фитнес-клуб Winox.</a></div>
+                <div class="description">Продам абонемент в фитнес-клуб "Winox".
+Карта безлимитная. Cрок действия абонемента 6 месяцев или до 25 марта 2016 года</div>
+            </div>
+            <span class="price">130 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/vibroripper-ryhlitel_i_gidromolot_v_odnom_ustroystve_5110917.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5321426.jpg" alt="Виброриппер-рыхлитель и гидромолот в одном устройстве">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/vibroripper-ryhlitel_i_gidromolot_v_odnom_ustroystve_5110917.html">Виброриппер-рыхлитель и гидромолот в одном устройстве</a></div>
+                <div class="description">Виброриппер - оригинальное навесное оборудование, представляет собой однозубый рыхлитель и гидромолот в одном устройстве</div>
+            </div>
+            <span class="price">300 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.09.2015</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/tabletnica_konteyner_5_sekciy_detskiy_46356_5110824.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5321275.jpg" alt="Таблетница контейнер 5 секций детский 46356">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/tabletnica_konteyner_5_sekciy_detskiy_46356_5110824.html">Таблетница контейнер 5 секций детский 46356</a></div>
+                <div class="description">Таблетница контейнер 5 секций детский 46356
+
+Собираетесь в отпуск или поход? Поздравляем! Внимательно собирайте чемодан и ничего не забывайте. У нас есть все, что может вам пригодиться. Таблетница 5 секций - это спутник любого путешествия</div>
+            </div>
+            <span class="price">1 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/besplatnye_probnye_zanyatiya_v_shkole_tanca_5110435.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320501.jpg" alt="Бесплатные пробные занятия в школе танца!!!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/besplatnye_probnye_zanyatiya_v_shkole_tanca_5110435.html">Бесплатные пробные занятия в школе танца!!!</a></div>
+                <div class="description">29 и 30 сентября в школе танца прОйдут БЕСПЛАТНЫЕ пробные занятия!!!! тел  , 3545376</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5110392" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5110392", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/gel_aloe_pure_eco_5110392.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320453.jpg" alt="Гель Алоэ PURE ECO ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/gel_aloe_pure_eco_5110392.html">Гель Алоэ PURE ECO </a></div>
+                <div class="description">Гель одобрен объединением Califonia Certified Organic Farmers 
+Cодержит 92% сока алоэ. Химический состав алоэ: витамины групп А, B и С, углеводы, витамин E, аминокислоты, богатый источник клетчатки, гликозидов и смол</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_abonement_v_fitnes-klub_winox_5110296.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320320.jpg" alt="Продам абонемент в фитнес-клуб "Winox".">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_abonement_v_fitnes-klub_winox_5110296.html">Продам абонемент в фитнес-клуб Winox.</a></div>
+                <div class="description">Продам абонемент в фитнес-клуб "Winox".
+Карта безлимитная. Cрок действия абонемента 6 месяцев или до 25 марта 2016 года</div>
+            </div>
+            <span class="price">150 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110220.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320205.jpg" alt="Бутылка без bpa">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110220.html">Бутылка без bpa</a></div>
+                <div class="description">непрозрачная бутылка многоразовая</div>
+            </div>
+            <span class="price">8 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110215.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320203.jpg" alt="бутылка без bpa">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110215.html">бутылка без bpa</a></div>
+                <div class="description">бутылка на 500 мл с фильтром</div>
+            </div>
+            <span class="price">8 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110213.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5320201.jpg" alt="Бутылка без bpa">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/butylka_bez_bpa_5110213.html">Бутылка без bpa</a></div>
+                <div class="description">Пластиковая бутылка с удобным горлышком для питья</div>
+            </div>
+            <span class="price">8 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kokteyli_enerzhdi_diet_i_chai_enervud_i_dr_5109831.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319296.jpg" alt="Коктейли Энерджи диет и чаи Энервуд и др.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kokteyli_enerzhdi_diet_i_chai_enervud_i_dr_5109831.html">Коктейли Энерджи диет и чаи Энервуд и др.</a></div>
+                <div class="description">ENERGY DIET – это функциональное питание, идеальный продукт. Диета с Energy Diet – это путь к идеальной фигуре с пользой для здоровья и красоты, без голода, дефицита энергии и полезных веществ, раздражительности и ограничения в сладком</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_novyy_komplekt_shin_5109780.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319211.jpg" alt="Продам новый комплект шин">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_novyy_komplekt_shin_5109780.html">Продам новый комплект шин</a></div>
+                <div class="description"> Продам новый комплект шин MINERVA 215/60R16 за 70000 тенге торг уместен звоните по номеру   Наташа</div>
+            </div>
+            <span class="price">70 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_novyy_komplekt_shin_5109777.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319200.jpg" alt="Продам новый комплект шин ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_novyy_komplekt_shin_5109777.html">Продам новый комплект шин </a></div>
+                <div class="description">Продам новый комплект шин TRIANGLE 215/65R16 зима лепучки за 70</div>
+            </div>
+            <span class="price">70 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/trehsekcionnyy_massazhnyy_stol_5109740.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319148.jpg" alt="трехсекционный массажный стол">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/trehsekcionnyy_massazhnyy_stol_5109740.html">трехсекционный массажный стол</a></div>
+                <div class="description"> Складывается в чемодан
+буковый каркас выдерживает нагрузку 250 кг
+регулируется по высоте (60-85 см)
+регулируемый угол наклона спинки (от 0° до 65°)
+качественный кож</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/massazhnyy_stol_5109738.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319141.jpg" alt="Массажный стол">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/massazhnyy_stol_5109738.html">Массажный стол</a></div>
+                <div class="description">Раскладной массажный стол весом 16 кг. Максимальная нагрузка: 204 кг. Обивка: искусственная кожа. Наполнитель: полужесткая вспененная резина высотой не менее 400 мм. Материал рамы: натуральное дерево. - Механическая регулировка высоты стола</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/naturalnye_granoly_myusli_batonchiki_sobstvennogo_proizvodstva_5109726.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319132.jpg" alt="Натуральные гранолы, мюсли, батончики собственного производства">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/naturalnye_granoly_myusli_batonchiki_sobstvennogo_proizvodstva_5109726.html">Натуральные гранолы, мюсли, батончики собственного производства</a></div>
+                <div class="description">Гранола — это традиционная для США еда для завтрака или снэк, содержащий плющеную овсяную крупу, орехи и мёд, иногда рис, которые обычно запечены до хрустящего состояния</div>
+            </div>
+            <span class="price">250 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/abonement_v_world_class_5109582.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318927.jpg" alt="Абонемент в World class">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/abonement_v_world_class_5109582.html">Абонемент в World class</a></div>
+                <div class="description">Продам безлимитный,  годовой абонемент в World class! 40 дней заморозки! 3 гостевых! Посещение тренажерного зала, бассейна, групповых занятий, финской сауны, турецкой бани, данариума, инфракрасной сауны! А так же купоны на спортивное тестирование, на</div>
+            </div>
+            <span class="price">280 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/proizvodstvo_i_prodazha_lodok_airlayer_s_naduvnym_dnom_nizkogo_davleniya_5109449.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318738.jpg" alt="Производство и продажа лодок AirLayer с надувным дном низкого давления ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/proizvodstvo_i_prodazha_lodok_airlayer_s_naduvnym_dnom_nizkogo_davleniya_5109449.html">Производство и продажа лодок AirLayer с надувным дном низкого давления </a></div>
+                <div class="description">Производство и продажа лодок AirLayer с надувным дном низкого давления разработана на основе требований профессиональных рыбаков, охотников и рекомендаций спортсменов  водно-моторного спорта</div>
+            </div>
+            <span class="price">84 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.09.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zerosmoke_magnity_14057_5109433.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318714.jpg" alt="ZeroSmoke магниты  14057 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zerosmoke_magnity_14057_5109433.html">ZeroSmoke магниты  14057 </a></div>
+                <div class="description">ZeroSmoke магниты от курения 14057
+ZeroSmoke существует для борьбы с пагубной привычкой под названием курение</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/tapki_akupunkturnye_massazhnye_23038_5109054.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317663.jpg" alt="Тапки акупунктурные массажные 23038">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/tapki_akupunkturnye_massazhnye_23038_5109054.html">Тапки акупунктурные массажные 23038</a></div>
+                <div class="description">Тапки акупунктурные массажные 23038. 
+Тапки снабжены специальными массажными шариками, которые расположены в области важных акупунктурных зон стопы, напрямую связанных с работой внутренних органов человека</div>
+            </div>
+            <span class="price">3 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/shiny_i_diski"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=9">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=9">9</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=10">10</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=11">11</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=12">12</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=13">13</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=14">14</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=11">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/shiny_i_diski?page=21"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

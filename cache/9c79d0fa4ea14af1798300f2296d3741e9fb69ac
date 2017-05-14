@@ -1,0 +1,817 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Объявления о продаже спецтехники в Казахстане. Купить спецтехнику бу и новую в Казахстане. , страница 18</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Спецтехника различного назначения в Казахстане. Продажа спецтехники новой и бу в Казахстане по доступным ценам.Страница 18." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=99&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Спецтехника в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/buldozery">Бульдозеры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/traktory">Тракторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/ekskavatory">Экскаваторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki">Погрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory">Краны и манипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtovyshki">Автовышки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtobetononasosy">Автобетононасосы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/burovaya_ustanovka">Буровае установки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/yamobur">Ямобуры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/prochee">Прочее</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ekskavator_e-195a_5169294.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5443339.jpg" alt="Экскаватор Е-195А">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ekskavator_e-195a_5169294.html">Экскаватор Е-195А</a></div>
+                <div class="description">Экскаватор Е-195А на вездеходном шасси Камаз 43118 (6х6)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,8 тонн. Кондиционер. Ковш -0,65 м3, Глубина копания -5 метров, Радиус -8,5 м</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/svaeboynaya_ustanovka_5169142.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сваебойная установка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/svaeboynaya_ustanovka_5169142.html">Сваебойная установка</a></div>
+                <div class="description">гусеничный СП 490 </div>
+            </div>
+            <span class="price">8 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/peregruzhatel_metalloloma_5169083.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442917.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/peregruzhatel_metalloloma_5169083.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/peregruzhatel_metalloloma_5169082.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442916.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/peregruzhatel_metalloloma_5169082.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://makinsk.salexy.kz/c/peregruzhatel_metalloloma_5168870.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442518.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://makinsk.salexy.kz/c/peregruzhatel_metalloloma_5168870.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Макинск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5168856" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5168856", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ereymentau.salexy.kz/c/peregruzhatel_metalloloma_5168856.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442514.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ereymentau.salexy.kz/c/peregruzhatel_metalloloma_5168856.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Ерейментау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/peregruzhatel_metalloloma_5168853.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442510.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/peregruzhatel_metalloloma_5168853.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://stepnogorsk.salexy.kz/c/peregruzhatel_metalloloma_5168847.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442507.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://stepnogorsk.salexy.kz/c/peregruzhatel_metalloloma_5168847.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Степногорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://derzhavinsk.salexy.kz/c/peregruzhatel_metalloloma_5168843.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442505.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://derzhavinsk.salexy.kz/c/peregruzhatel_metalloloma_5168843.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Державинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://akkol.salexy.kz/c/peregruzhatel_metalloloma_5168842.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442502.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://akkol.salexy.kz/c/peregruzhatel_metalloloma_5168842.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Акколь                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atbasar.salexy.kz/c/peregruzhatel_metalloloma_5168840.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442500.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atbasar.salexy.kz/c/peregruzhatel_metalloloma_5168840.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Атбасар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/peregruzhatel_metalloloma_5168839.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442499.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/peregruzhatel_metalloloma_5168839.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/peregruzhatel_metalloloma_5168837.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5442497.jpg" alt="Перегружатель металлолома ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/peregruzhatel_metalloloma_5168837.html">Перегружатель металлолома </a></div>
+                <div class="description">Перегружатель металлолома с подъемной кабиной «UMG - Эксмаш» 
+Модели Е-190WН (колесный ход, полиуретан) и Е-200СН (гусеничный ход)
+Производство ЗАО «UMG - Эксмаш»   г. Тверь.
+Масса 18,6/ 20,3 тонн. Кондиционер</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/dvigatel_yamz_238_nd-5_5168520.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5441986.jpg" alt="Двигатель ЯМЗ 238 НД-5">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/dvigatel_yamz_238_nd-5_5168520.html">Двигатель ЯМЗ 238 НД-5</a></div>
+                <div class="description">Дизельный двигатель ЯМЗ 238 НД-5. Производства Ярославского завода "Автодизель". Новый со всеми документами и гарантией. Быстрая доставка по Казахстану</div>
+            </div>
+            <span class="price">3 050 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.06.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtomobili_dlya_perevozki_vzryvchatyh_veschestv_5168379.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5441606.jpg" alt="Автомобили для перевозки взрывчатых веществ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtomobili_dlya_perevozki_vzryvchatyh_veschestv_5168379.html">Автомобили для перевозки взрывчатых веществ</a></div>
+                <div class="description">Предлагаем поставку спецавтомобилей для перевозки взрывчатых материалов на шасси УРАЛ, КАМАЗ. Автомобили полностью соответствуют требованиям нормативной документации по перевозке опасных грузов и взрывчатых веществ по дорогам общего пользования</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.06.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zaysan.salexy.kz/c/proizvodstvo_i_remont_burovyh_ustanovok_5168353.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Производство и ремонт буровых установок ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zaysan.salexy.kz/c/proizvodstvo_i_remont_burovyh_ustanovok_5168353.html">Производство и ремонт буровых установок </a></div>
+                <div class="description">Предприятие изготовит буровые установки УРБ2А2, 2Д3, 2НТ, 2А2Д на любом шасси в любой комплектации, с увеличенным сроком  сроком гарантии,
+Так же произведём ремонт , модернизацию , Вашей буровой установки. 
+Сроки изготовления и ремонта минимальны</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.06.2016</time>
+                                            Зайсан                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/pogruzchik_vilochnyy_5168008.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5440801.jpg" alt="Погрузчик вилочный">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/pogruzchik_vilochnyy_5168008.html">Погрузчик вилочный</a></div>
+                <div class="description">Грузоподъемность до 2 тн. Цена окончательная</div>
+            </div>
+            <span class="price">1 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.06.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/spectehnika_v_almaty_iz_kitaya_bolee_1500_naimenovaniy_dostavka_po_kazahstanu_5167703.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5440163.jpg" alt="Спецтехника в Алматы из Китая. Более 1500 наименований. Доставка по Казахстану.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/spectehnika_v_almaty_iz_kitaya_bolee_1500_naimenovaniy_dostavka_po_kazahstanu_5167703.html">Спецтехника в Алматы из Китая. Более 1500 наименований. Доставка по Казахстану.</a></div>
+                <div class="description">Компания EGE занимается реализацией спецтехники из Китая. Рассрочка, лизинг</div>
+            </div>
+            <span class="price">100 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://esil.salexy.kz/c/avtogreyder_dz-98_5167685.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5440085.jpg" alt="Автогрейдер ДЗ-98">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://esil.salexy.kz/c/avtogreyder_dz-98_5167685.html">Автогрейдер ДЗ-98</a></div>
+                <div class="description">Автогрейдер ДЗ-98В 
+Производство г. Челябинск.
+Мощный двигатель – ЯМЗ-238 (235л.с.) Полный привод 1х3х3.
+Передний поворотный отвал-4,1м., грейдерный отвал на полноповоротной раме, рыхлитель.
+Рама  усиленная</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2016</time>
+                                            Есиль                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/avtogreyder_dz-98_5167681.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5440077.jpg" alt="Автогрейдер ДЗ-98">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/avtogreyder_dz-98_5167681.html">Автогрейдер ДЗ-98</a></div>
+                <div class="description">Автогрейдер ДЗ-98В 
+Производство г. Челябинск.
+Мощный двигатель – ЯМЗ-238 (235л.с.) Полный привод 1х3х3.
+Передний поворотный отвал-4,1м., грейдерный отвал на полноповоротной раме, рыхлитель.
+Рама  усиленная</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2016</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/spectehnika"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/spectehnika?page=18">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=14">14</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=15">15</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=16">16</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=17">17</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=18">18</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika?page=19">19</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=20">20</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=21">21</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=22">22</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=23">23</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=20">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=61"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Автомобильные запчасти в Казахстане. Продать/купить запчасти на Salexy.kz, страница 86</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа и покупка запчастей в Казахстане. Бесплатные объявления Казахстана о продаже\покупке автозапчастей.
+Страница 86." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=100&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти и аксессуары в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/tyuning_i_avtozvuk">Тюнинг и автозвук</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti">Запчасти</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/pricepy">Прицепы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">Прочие аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/protivougonnye_ustroystva">Противоугонные устройства</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtomobilnaya_elektronika">Автомобильная электроника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka">Экипировка</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">Средства для ухода за авто</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/bagazhniki_boksy">Багажники, боксы</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_dvigatel_kamaz_740_10_5109877.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319431.jpg" alt="Продам двигатель Камаз 740.10">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_dvigatel_kamaz_740_10_5109877.html">Продам двигатель Камаз 740.10</a></div>
+                <div class="description">Двигателя КАМАЗ, МАЗ, ЯМЗ, УРАЛ, ЗИЛ,в наличие новые, первая комплектация, на подставках, с паспортом, гарантия 6 месяцев, 7% скидка за наличный расчет,  договор, полный пакет документов на двигатель, Доставка по России и страны СНГ</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/avtorazbor_zapchastey_5109694.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Авторазбор запчастей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/avtorazbor_zapchastey_5109694.html">Авторазбор запчастей</a></div>
+                <div class="description">Продаются запчасти на тягачи DAF и полуприцепы Kogel и Shmitz. В ассортименте</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/kovsh_proseivayuschiy_cena_vam_ponravitsya_5109396.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318648.jpg" alt="Ковш просеивающий, цена вам понравится">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/kovsh_proseivayuschiy_cena_vam_ponravitsya_5109396.html">Ковш просеивающий, цена вам понравится</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/proseivayuschie_kovshi_1_m3_i_2_4_m3_v_nalichii_zavod_kovshey_5109395.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318639.jpg" alt="Просеивающие ковши 1 м3 и 2.4 м3 в наличии. Завод ковшей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/proseivayuschie_kovshi_1_m3_i_2_4_m3_v_nalichii_zavod_kovshey_5109395.html">Просеивающие ковши 1 м3 и 2.4 м3 в наличии. Завод ковшей</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/stancii_proseivayuschie_i_kovshi_proseivayuschie_proizvodim_5109393.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318627.jpg" alt="Станции просеивающие и ковши просеивающие производим ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/stancii_proseivayuschie_i_kovshi_proseivayuschie_proizvodim_5109393.html">Станции просеивающие и ковши просеивающие производим </a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5109391" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5109391", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kovshi_proseivayuschie_otlichnogo_kachestva_sobstvennogo_proizvodstva_5109391.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318616.jpg" alt="Ковши просеивающие отличного качества собственного производства">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kovshi_proseivayuschie_otlichnogo_kachestva_sobstvennogo_proizvodstva_5109391.html">Ковши просеивающие отличного качества собственного производства</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/proseivayuschiy_kovsh_dlya_frontalnogo_pogruzchika_5109390.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318607.jpg" alt="Просеивающий ковш для фронтального погрузчика">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/proseivayuschiy_kovsh_dlya_frontalnogo_pogruzchika_5109390.html">Просеивающий ковш для фронтального погрузчика</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/kovshi_proseivayuschie_stancii_proseivayuschie_mozhem_sdat_v_arendu_5109389.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318598.jpg" alt="Ковши просеивающие, станции просеивающие, можем сдать в аренду">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/kovshi_proseivayuschie_stancii_proseivayuschie_mozhem_sdat_v_arendu_5109389.html">Ковши просеивающие, станции просеивающие, можем сдать в аренду</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/kovshi_proseivayuschie_dlya_ekskavatorov_v_nalichii_5109388.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318590.jpg" alt="Ковши просеивающие для экскаваторов в наличии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/kovshi_proseivayuschie_dlya_ekskavatorov_v_nalichii_5109388.html">Ковши просеивающие для экскаваторов в наличии</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/proizvodstvo_proseivayuschih_kovshey_lyubogo_obema_v_peterburge_5109387.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318580.jpg" alt="Производство просеивающих ковшей любого объема в Петербурге">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/proizvodstvo_proseivayuschih_kovshey_lyubogo_obema_v_peterburge_5109387.html">Производство просеивающих ковшей любого объема в Петербурге</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/kovsh_dlya_proseivaniya_proseivayuschie_kovshi_ot_proizvoditelya_5109386.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318569.jpg" alt="Ковш для просеивания, просеивающие ковши от производителя">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/kovsh_dlya_proseivaniya_proseivayuschie_kovshi_ot_proizvoditelya_5109386.html">Ковш для просеивания, просеивающие ковши от производителя</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/kovsh_proseivayuschiy_supermoschnyy_takzhe_mozhem_sdat_v_arendu_5109385.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318559.jpg" alt="Ковш просеивающий супермощный, также можем сдать в аренду">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/kovsh_proseivayuschiy_supermoschnyy_takzhe_mozhem_sdat_v_arendu_5109385.html">Ковш просеивающий супермощный, также можем сдать в аренду</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/proseivayuschie_kovshi_1_m3_i_2_4_m3_ot_zavoda_kovshey_5109384.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318550.jpg" alt="Просеивающие ковши 1 м3 и 2.4 м3 от Завода ковшей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/proseivayuschie_kovshi_1_m3_i_2_4_m3_ot_zavoda_kovshey_5109384.html">Просеивающие ковши 1 м3 и 2.4 м3 от Завода ковшей</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/kovsh_proseivaschiy_1_m3_v_nalichii_ot_zavoda_kovshey_5109378.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318519.jpg" alt="Ковш просеиващий 1 м3 в наличии от Завода ковшей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/kovsh_proseivaschiy_1_m3_v_nalichii_ot_zavoda_kovshey_5109378.html">Ковш просеиващий 1 м3 в наличии от Завода ковшей</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/proseivayuschie_kovshi_sobstvennogo_izgotovleniya_ot_zavoda_kovshey_5109377.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318514.jpg" alt="Просеивающие ковши собственного изготовления от Завода ковшей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/proseivayuschie_kovshi_sobstvennogo_izgotovleniya_ot_zavoda_kovshey_5109377.html">Просеивающие ковши собственного изготовления от Завода ковшей</a></div>
+                <div class="description">Завод ковшей, расположенный в Петербурге (www.заводковшей.рф) производит ковши просеивающие собственного изготовления. Наши цены как минимум в 2 раза ниже, чем у посредников, которые везут просеивающие ковши из Италии</div>
+            </div>
+            <span class="price">650 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/povorotnye_planirovochnye_kovshi_dlya_ekskavatorov_v_nalichii_5109374.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318508.jpg" alt="Поворотные планировочные ковши для экскаваторов в наличии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/povorotnye_planirovochnye_kovshi_dlya_ekskavatorov_v_nalichii_5109374.html">Поворотные планировочные ковши для экскаваторов в наличии</a></div>
+                <div class="description">JCB ковш поворотный 2200 мм в наличии на Заводе ковшей. Производство ковшей поворотных по ценам, на 50% ниже, чем у др.производителей.
+Производим отвалы бульдозеров, коммунальные отвалы, снежные отвалы</div>
+            </div>
+            <span class="price">137 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/povorotnyy_kovsh_dlya_ekskavatora_shirina_kovsha_2200_mm_5109373.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318500.jpg" alt="Поворотный ковш для экскаватора, ширина ковша 2200 мм">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/povorotnyy_kovsh_dlya_ekskavatora_shirina_kovsha_2200_mm_5109373.html">Поворотный ковш для экскаватора, ширина ковша 2200 мм</a></div>
+                <div class="description">JCB ковш поворотный 2200 мм в наличии на Заводе ковшей. Производство ковшей поворотных по ценам, на 50% ниже, чем у др.производителей.
+Производим отвалы бульдозеров, коммунальные отвалы, снежные отвалы</div>
+            </div>
+            <span class="price">137 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/povorotnye_kovshi_2200_na_20-40-tonnye_ekskavatory_5109371.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318492.jpg" alt="Поворотные ковши 2200 на 20-40-тонные экскаваторы">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/povorotnye_kovshi_2200_na_20-40-tonnye_ekskavatory_5109371.html">Поворотные ковши 2200 на 20-40-тонные экскаваторы</a></div>
+                <div class="description">JCB ковш поворотный 2200 мм в наличии на Заводе ковшей. Производство ковшей поворотных по ценам, на 50% ниже, чем у др.производителей.
+Производим отвалы бульдозеров, коммунальные отвалы, снежные отвалы</div>
+            </div>
+            <span class="price">137 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/komatsu_kovsh_povorotnyy_planirovochnyy_2200_mm_5109369.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318488.jpg" alt="Komatsu ковш поворотный планировочный 2200 мм">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/komatsu_kovsh_povorotnyy_planirovochnyy_2200_mm_5109369.html">Komatsu ковш поворотный планировочный 2200 мм</a></div>
+                <div class="description">JCB ковш поворотный 2200 мм в наличии на Заводе ковшей. Производство ковшей поворотных по ценам, на 50% ниже, чем у др.производителей.
+Производим отвалы бульдозеров, коммунальные отвалы, снежные отвалы</div>
+            </div>
+            <span class="price">137 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/jcb_povorotnyy_kovsh_ryhlitel_na_40-tonnyy_ekskavator_uzkie_skalnye_kovshi_5109368.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5318480.jpg" alt="JCB поворотный ковш, рыхлитель на 40-тонный экскаватор, узкие скальные ковши">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/jcb_povorotnyy_kovsh_ryhlitel_na_40-tonnyy_ekskavator_uzkie_skalnye_kovshi_5109368.html">JCB поворотный ковш, рыхлитель на 40-тонный экскаватор, узкие скальные ковши</a></div>
+                <div class="description">JCB ковш поворотный 2200 мм в наличии на Заводе ковшей. Производство ковшей поворотных по ценам, на 50% ниже, чем у др.производителей.
+Производим отвалы бульдозеров, коммунальные отвалы, снежные отвалы</div>
+            </div>
+            <span class="price">137 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=86">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=82">82</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=83">83</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=84">84</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=85">85</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=86">86</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=87">87</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=88">88</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=89">89</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=90">90</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=91">91</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=88">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=137"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

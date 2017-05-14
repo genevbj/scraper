@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Погрузчики в Казахстане. Объявления о продаже погрузчиков</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Новые и бу Погрузчики в Казахстане. Бесплатная доска объявлений Salexy.kz
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika/pogruzchiki" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1313&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/spectehnika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" itemprop="item"><span itemprop="name">Спецтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Погрузчики в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki/frontalnye_pogruzchiki">Фронтальные погрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki/minipogruzchiki">Минипогрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki/vilochnye_pogruzchiki">Вилочные погрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki/prochie">Прочие</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/prodam_traktor_t-150k_5220294.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/16/39/1639d83792259018e7fe686650d0fe05.jpg" alt="продам трактор Т-150к">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/prodam_traktor_t-150k_5220294.html">продам трактор Т-150к</a></div>
+                <div class="description">продам трактор ХТЗ Т-150К коробка передач автомат, фронтальный погрузчик,грузоподъемность стрелы до 3 тонн.
+требуется небольшой ремонт</div>
+            </div>
+            <span class="price">2 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.05.2017</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mini_pogruzchik_lonking_5219117.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e8/35/e8357a20b29f26696db1ab63a17b7968.jpg" alt=" Мини погрузчик  Lonking модель CDM 312. ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mini_pogruzchik_lonking_5219117.html"> Мини погрузчик  Lonking модель CDM 312. </a></div>
+                <div class="description">Погрузчик ковшовый фронтальный с боковым поворотом на пневматическом ходу китайского производителя Lonking модель CDM 312</div>
+            </div>
+            <span class="price">12 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/vilochnyy_pogruzchik_lonking_5219115.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4c/f2/4cf21af554e1e332735ca6e1cb2c741e.jpg" alt="Вилочный погрузчик  Lonking  FD 30  Diesel.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/vilochnyy_pogruzchik_lonking_5219115.html">Вилочный погрузчик  Lonking  FD 30  Diesel.</a></div>
+                <div class="description">Погрузчик вилочный, Прямая контрактная поставка с завода изготовителя о компании Lonking (Шанхай).  На заказ от завода. 
+Вилочный погрузчик  Lonking  FD 30  Diesel. 
+ Модель двигателя (стандарт)Xinchai С490BPG</div>
+            </div>
+            <span class="price">4 567 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/novyy_frontalnyy_pogruzchik_lonking_5219111.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/03/ae/03ae70d502adbf2a7407b15dab048559.jpg" alt="Новый фронтальный погрузчик  Lonking LG 833N ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/novyy_frontalnyy_pogruzchik_lonking_5219111.html">Новый фронтальный погрузчик  Lonking LG 833N </a></div>
+                <div class="description">Погрузчик,  Прямая контрактная поставка с завода изготовителя о компании Lonking (Шанхай). Новый фронтальный погрузчик  Lonking LG 833N (Шанхай) 2017 года выпуска. На заказ, Новая модификация: удлинённая стрела 3100мм</div>
+            </div>
+            <span class="price">10 700 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/frontalnyy_pogruzchik_lonking_zl50nc_5219109.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7e/0d/7e0dc30ca249a415bbe13bc171a9a33a.jpg" alt="фронтальный погрузчик Lonking ZL50NC ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/frontalnyy_pogruzchik_lonking_zl50nc_5219109.html">фронтальный погрузчик Lonking ZL50NC </a></div>
+                <div class="description">Погрузчик, Прямая контрактная поставка с завода изготовителя о компании Lonking (Шанхай)
+Новый фронтальный погрузчик Lonking ZL50NC 2017 года выпуска</div>
+            </div>
+            <span class="price">17 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5218858" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5218858", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/zapchasti_xcmg_shantui_5218858.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e8/5f/e85f3bf25c4c4cc9a0bc77ddfca370f3.jpg" alt="Запчасти XCMG SHANTUI">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/zapchasti_xcmg_shantui_5218858.html">Запчасти XCMG SHANTUI</a></div>
+                <div class="description">Реализуем запчасти на китайскую спецтехнику по всему Казахстану XCMG zl50g/gn ZL30 LW300F /FN LW300KN LW400KN LW400FN LW500FN/KN LW600K/KN LW700K LW800K LW900 LW1100 LW1200 LW188 LW220 XE15 XE18 XE40 XE60 XE80 XE135 XE150 XE210 XE230 XE250 XE260 XE33</div>
+            </div>
+            <span class="price">10 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.04.2017</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/sdam_v_arendu_spectehniku_5218793.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам в аренду спецтехнику">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/sdam_v_arendu_spectehniku_5218793.html">сдам в аренду спецтехнику</a></div>
+                <div class="description">ТОО "КазТранГаз Өнімдері", Компания располагает легковыми автомобилями, микроавтобусами, автобусами, (пассажирские и грузопассажирские) и спецтехникой отечественного и иностранного производства 2012 – 2013 г.в</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.04.2017</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/xcmg_zl50gn_5218607.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="XCMG ZL50GN">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/xcmg_zl50gn_5218607.html">XCMG ZL50GN</a></div>
+                <div class="description">гарантия год на заказ и в наличии большой выбор запчастей на спецтехнику Китай</div>
+            </div>
+            <span class="price">19 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/vilochnyy_pogruzchik_lonking_fd30_5218599.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="вилочный погрузчик LONKING FD30">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/vilochnyy_pogruzchik_lonking_fd30_5218599.html">вилочный погрузчик LONKING FD30</a></div>
+                <div class="description">вилочный погрузчик до 3000кг максимальная высота подьема 3000</div>
+            </div>
+            <span class="price">4 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/shiny_17_5-25_shiny_20_5-25_shiny_5217374.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8d/24/8d2447e1a95682f277c06eb628d5c392.jpg" alt="Шины 17.5-25 шины 20.5-25 шины 23.5-25 шины усиленные с металлокордом.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/shiny_17_5-25_shiny_20_5-25_shiny_5217374.html">Шины 17.5-25 шины 20.5-25 шины 23.5-25 шины усиленные с металлокордом.</a></div>
+                <div class="description">Шины повышенной проходимости и прочности для спецтехники. Очень долго служат даже в самых трудных условиях работы. Шины новые в отличном состоянии с камерой и флипером. Шины очень крепкие и недорогие. Гарантия 1 год.
+Доставка от 4 шт</div>
+            </div>
+            <span class="price">125 731.11 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.04.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/prodam_pogruzchik_novyy_5216717.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/df/23/df2305963e2d30b946394a1cf61b7cb7.jpg" alt="продам погрузчик новый">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/prodam_pogruzchik_novyy_5216717.html">продам погрузчик новый</a></div>
+                <div class="description">Продам срочно фронтальный погрузчик XCMG LW 300 FN 
+В наличие на складе г. Актобе по адресу ул. М. Арынова, дом. 1, н. п. 17а 
+Год выпуска: 2017г – 12 месяцев гарантии. 
+Эксплуатационная масса: 10 000 кг. 
+Грузоподъемность: 3 000 кг</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2017</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_pogruzchik_novyy_5216714.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d2/67/d267551a41fee17263ae7747a3e6abfe.jpg" alt="продам погрузчик новый">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_pogruzchik_novyy_5216714.html">продам погрузчик новый</a></div>
+                <div class="description">Продам срочно фронтальный погрузчик XCMG LW 300 FN 
+В наличие на складе г. Актобе по адресу ул. М. Арынова, дом. 1, н. п. 17а 
+Год выпуска: 2017г – 12 месяцев гарантии. 
+Эксплуатационная масса: 10 000 кг. 
+Грузоподъемность: 3 000 кг</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2017</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/prodam_pogruzchik_novyy_5216707.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/05/7a/057a83b22d5ba57297107b8f431ffda9.jpg" alt="продам погрузчик новый">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/prodam_pogruzchik_novyy_5216707.html">продам погрузчик новый</a></div>
+                <div class="description">Продам срочно фронтальный погрузчик XCMG LW 300 FN 
+В наличие на складе г. Актобе по адресу ул. М. Арынова, дом. 1, н. п. 17а 
+Год выпуска: 2017г – 12 месяцев гарантии. 
+Эксплуатационная масса: 10 000 кг. 
+Грузоподъемность: 3 000 кг</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2017</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_pogruzchik_novyy_5216701.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4e/9c/4e9cf3249af224dbf4c745fa5aa1afa2.jpg" alt="продам погрузчик новый">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_pogruzchik_novyy_5216701.html">продам погрузчик новый</a></div>
+                <div class="description">Продам срочно фронтальный погрузчик XCMG LW 300 FN 
+В наличие на складе г. Актобе по адресу ул. М. Арынова, дом. 1, н. п. 17а 
+Год выпуска: 2017г – 12 месяцев гарантии. 
+Эксплуатационная масса: 10 000 кг. 
+Грузоподъемность: 3 000 кг</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2017</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_pogruzchik_5216578.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/b9/74/b97407a74b6b8eed9ba2de197e9fe063.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_pogruzchik_5216578.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/prodam_pogruzchik_5216577.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c0/05/c005f8cbae529720ffad8fd200b851e9.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/prodam_pogruzchik_5216577.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://semipalatinsk.salexy.kz/c/prodam_pogruzchik_5216574.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a8/63/a863500523197b6f1c2c409c4b0beb4e.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://semipalatinsk.salexy.kz/c/prodam_pogruzchik_5216574.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Семей                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_pogruzchik_5216572.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/dc/72/dc72abdf2554806cba88b15e9c46ac5d.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_pogruzchik_5216572.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/prodam_pogruzchik_5216570.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2e/57/2e579781ef63226f1a69d3f7e5e0756a.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/prodam_pogruzchik_5216570.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/prodam_pogruzchik_5216568.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/90/06/90064f1b956a7965ce8e5074de44f9fc.jpg" alt="продам погрузчик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/prodam_pogruzchik_5216568.html">продам погрузчик</a></div>
+                <div class="description">Новый погрузчик 2017 г.в. XCMG LW300FN. Находится в Актобе, 
+Масса 10 000 кг, грузоподъемность 3 000 кг, вместимость ковша 1</div>
+            </div>
+            <span class="price">10 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2017</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki"></a></li>
+<li class="text control back first-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki">назад</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=9">9</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=2">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika/pogruzchiki?page=9"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika">Спецтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

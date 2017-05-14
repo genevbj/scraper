@@ -7,85 +7,91 @@ class Crawler
     private $ua;
     private $proxy;
     private $options;
+    private $cache;
+    private $conn;
+    private $db;
+    private $collection;
+    private $logger;
+    private $recursion_level;
 
     function __construct($options)
     {
+	$this->logger = new Logger('echo',Logger::DEBUG);
+	$this->recursion_level = 0;
 
 	$this->options = $options;
+
         $this->headers[] = 'Accept: image/gif, image/x-bitmap, image/jpeg, image/pjpeg,text/html,application/xhtml+xml'; 
         $this->headers[] = 'Connection: Keep-Alive'; 
         $this->headers[] = 'Content-type: application/x-www-form-urlencoded;charset=UTF-8'; 
         $this->ua = (new UserAgent())->get_ua();
         $this->proxy = $this->options['use_proxy'] ? (new Proxy())->get_proxy() : '';
+
+
+	$this->options['headers'] = $this->headers;
+	$this->options['proxy'] = $this->proxy;
+	$this->options['ua'] = $this->ua;
+
+
+//	$this->cache = new Cache(['cache_dir' => $this->options['cache_dir']] ?? '' );
+
+//	$this->conn = new MongoDB\Client("mongodb://localhost:27017");
+//	$this->db = $this->conn->demo;
+//	$this->collection = $this->db->map;
+
     }
 
 
-    function get_url($url, $referrer) 
-    { 
+
+    function update_map($link=null)
+    {
+
+	$link = $link ?? $this->options['base_url'];
+
+	$this->logger->log("Memory usage (".__METHOD__.", $link , start): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+	$url=new URL($link,$this->options);
+
+	if($url->is_in_db())
+	{
+	    if($url->is_actual())
+	    {
+		if($url->is_in_cache())
+		{
+		    $this->logger->log("Check passed. Next children.");
+		    $this->traverse_url($url);
+		    return;
+		}
+	    }
+	}
+
+        $url->retrieve();
+	$this->traverse_url($url);
+	unset($url);	
+
+	
+
+    }
 
 
+    function traverse_url($url)
+    {
+	$this->logger->log("Memory usage (".__METHOD__.", ".$url->get_link().", before traverse): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+	$links=$url->get_children();
+	$this->recursion_level++;
+	for($li=0;$li<count($links);$li++)
+	{
+	    $this->update_map($links[$li]);
+	}    
+	$this->logger->log("Memory usage (".__METHOD__.", ".$url->get_link().", after traverse): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+    }
 
-        $process = curl_init($url); 
-        curl_setopt($process, CURLOPT_HTTPHEADER, $headers); 
-        curl_setopt($process, CURLOPT_HEADER, 0); 
-        curl_setopt($process, CURLOPT_USERAGENT, $useragent);
-        curl_setopt($process, CURLOPT_REFERER, $referrer);
-        curl_setopt($process, CURLOPT_TIMEOUT, 30); 
-        curl_setopt($process, CURLOPT_RETURNTRANSFER, 1); 
-        curl_setopt($process, CURLOPT_FOLLOWLOCATION, 1); 
-	curl_setopt($process, CURLOPT_SSL_VERIFYPEER, FALSE);
-	curl_setopt($process, CURLOPT_COOKIESESSION, TRUE);
-	curl_setopt($process, CURLOPT_FOLLOWLOCATION, TRUE);
-	curl_setopt($process, CURLOPT_RETURNTRANSFER, TRUE);
-
-        $this->options['use_proxy'] && curl_setopt($process, CURLOPT_PROXY, $this->proxy);
-
-        $return = curl_exec($process); 
-        curl_close($process); 
-
-        return $return; 
-    } 
 
 }
-
 
 
 
 /*
 
-function generate_ondisk_name($url)
-{
-    $result=$GLOBALS['scraper_cache'].'/'.sha1($url);
-
-    return $result;
-
-
-}
-
-
-init_ua();
-init_proxy();
-
-echolog($GLOBALS['scraper_ua']);
-echolog($GLOBALS['scraper_proxy']);
-
-$base_url = 'http://yandex.ru';
-$url = 'http://salexy.kz/';
-$this_domain = 'salexy.kz';
-
-
-
-$client = new MongoDB\Client("mongodb://localhost:27017");
-$collection = $client->demo->map;
-
-
-
-$html=get_url($url,$base_url);
-
-$fname = generate_ondisk_name($url);
-$result = $collection->insertOne( [ 'url' => $url, 'urlhash' => sha1($url), 'rank' => 0, 'status' => 200, 'retrieve__time' => time(), 'update_time' => time(), 'title' => 'NOTITLE-FIXME', 'ondisk' => $fname ] );
-
-file_put_contents($fname,$html);
 
 
 

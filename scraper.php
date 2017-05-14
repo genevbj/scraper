@@ -5,17 +5,27 @@ require 'vendor/scraper/Logger.php';
 require 'vendor/scraper/Proxy.php';
 require 'vendor/scraper/UserAgent.php';
 require 'vendor/scraper/Crawler.php';
+require 'vendor/scraper/Cache.php';
+require 'vendor/scraper/URL.php';
 
 
 
 
-$s_options=Array(
+$s_options=[
     'debug' => true,
-    'cache' => './cache',
+    'cache_dir' => './cache',
     'use_proxy' => false,
-);
+    'check_proxy' => false,
+    'check_proxy_url' => 'http://gde.ru/check_proxy.php',
+    'domain' => 'http://salexy.kz',
+    'traverse_domains' => false,
+    'base_url' => 'http://salexy.kz',
+    'db' => ['name'=>'salexy', 'driver' => 'mongodb', 'connection' => "mongodb://localhost:27017",],
+];
 
 $s=new Crawler($s_options);
+
+$s->update_map();
 
 /*
 
@@ -29,19 +39,8 @@ function generate_ondisk_name($url)
 }
 
 
-init_ua();
-init_proxy();
 
-echolog($GLOBALS['scraper_ua']);
-echolog($GLOBALS['scraper_proxy']);
-
-$base_url = 'http://yandex.ru';
-$url = 'http://salexy.kz/';
-$this_domain = 'salexy.kz';
-
-
-
-$client = new MongoDB\Client("mongodb://localhost:27017");
+$client = new MongoDB\Client();
 $collection = $client->demo->map;
 
 

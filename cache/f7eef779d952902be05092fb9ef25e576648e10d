@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Авто в Казахстане | Купить автомобиль с пробегом, продать б\у автомобиль по объявлениям на Salexy.kz, страница 59</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже/покупке легковых автомобилей в Казахстане. Продайте свой автомобиль, новый или подержанный на доске объявлений Salexy.kzСтраница 59." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/legkovye_avtomobili" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    <div class="categories-form">
+                    <fieldset>
+                        <div class="col-row">
+                                                            <div class="column">
+                                    <div class="col-row">
+                                        <div class="column">
+                                            <input placeholder="Цена от" class="text" type="text" value="" name="Filter[price][min]" id="Filter_price_min" />                                        </div>
+                                        <div class="column">
+                                            <input placeholder="Цена до" class="text" type="text" value="" name="Filter[price][max]" id="Filter_price_max" />                                        </div>
+                                    </div>
+                                </div>
+                            
+                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Год выпуска от" class="text" type="text" name="Filter[year][min]" id="Filter_year_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Год выпуска до" class="text" type="text" name="Filter[year][max]" id="Filter_year_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="col-row">
+                                            <div class="column">
+                                                <input placeholder="Пробег от" class="text" type="text" name="Filter[mileage][min]" id="Filter_mileage_min" />                                            </div>
+                                            <div class="column">
+                                                <input placeholder="Пробег до" class="text" type="text" name="Filter[mileage][max]" id="Filter_mileage_max" />                                            </div>
+                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[body_type]" id="Filter_body_type">
+<option value="" selected="selected">Тип кузова</option>
+<option value="214">Седан</option>
+<option value="215">Хетчбэк</option>
+<option value="216">Универсал</option>
+<option value="217">Внедорожник</option>
+<option value="218">Кроссовер</option>
+<option value="219">Купе</option>
+<option value="220">Кабриолет</option>
+<option value="221">Лимузин</option>
+<option value="222">Пикап</option>
+<option value="223">Фургон</option>
+<option value="224">Минивэн</option>
+<option value="225">Седан</option>
+<option value="226">Хетчбэк</option>
+<option value="227">Универсал</option>
+<option value="228">Внедорожник</option>
+<option value="229">Кроссовер</option>
+<option value="230">Купе</option>
+<option value="231">Кабриолет</option>
+<option value="232">Лимузин</option>
+<option value="233">Пикап</option>
+<option value="234">Фургон</option>
+<option value="235">Минивэн</option>
+</select>                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[transmission_type]" id="Filter_transmission_type">
+<option value="" selected="selected">Коробка передач</option>
+<option value="237">Автоматическая</option>
+<option value="238">Механическая</option>
+</select>                                        </div>
+                                    </div>
+                                                                                                                                <div class="column">
+                                        <div class="select-holder">
+                                            <select name="Filter[engine_type]" id="Filter_engine_type">
+<option value="" selected="selected">Тип двигателя</option>
+<option value="240">Бензиновый (инжектор)</option>
+<option value="241">Бензиновый (карбюратор)</option>
+<option value="242">Дизельный</option>
+<option value="243">Гибридный</option>
+<option value="244">Электро</option>
+</select>                                        </div>
+                                    </div>
+                                                                                    </div>
+                    </fieldset>
+                </div>
+                            </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=3&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Легковые автомобили в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/acura">Acura</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/alfa_romeo">Alfa Romeo</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/audi">Audi</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/bentley">Bentley</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/bmw">BMW</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/brilliance">Brilliance</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/bugatti">Bugatti</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/buick">Buick</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/byd">BYD</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/cadillac">Cadillac</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/chery">Chery</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/chevrolet">Chevrolet</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/chrysler">Chrysler</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/citroen">Citroen</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/dacia">Dacia</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/daewoo">Daewoo</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/daihatsu">Daihatsu</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/datsun">Datsun</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/dodge">Dodge</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/eagle">Eagle</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/faw">FAW</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/ferrari">Ferrari</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/fiat">Fiat</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/ford">Ford</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/geely">Geely</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/gmc">GMC</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/great_wall">Great Wall</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/honda">Honda</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/hummer">Hummer</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/hyundai">Hyundai</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/infiniti">Infiniti</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/iran_khodro">Iran Khodro</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/isuzu">Isuzu</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/jaguar">Jaguar</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/jeep">Jeep</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/kia">Kia</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lamborghini">Lamborghini</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lancia">Lancia</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/land_rover">Land Rover</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lexus">Lexus</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lifan">Lifan</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lincoln">Lincoln</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/maserati">Maserati</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/maybach">Maybach</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/mazda">Mazda</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/mercedes_Benz">Mercedes-Benz</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/mini">Mini</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/mitsubishi">Mitsubishi</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/nissan">Nissan</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/opel">Opel</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/peugeot">Peugeot</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/pontiac">Pontiac</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/porsche">Porsche</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/renault">Renault</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/rover">Rover</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/saab">Saab</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/scion">Scion</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/seat">Seat</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/skoda">Skoda</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/smart">Smart</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/ssangyong">SsangYong</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/subaru">Subaru</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/suzuki">Suzuki</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/tesla">Tesla</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/tianye">Tianye</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/toyota">Toyota</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/volkswagen">Volkswagen</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/volvo">Volvo</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/vortex">Vortex</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/lada">Лада</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/gaz">ГАЗ</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/izh">ИЖ</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/uaz">УАЗ</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/moskvich">Москвич</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/tagaz">ТагАЗ</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/bogdan">Богдан</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/zaz">ЗАЗ</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/ravon">Ravon (Uz-Daewoo)</a></li>
+                    <li class="secondary hidden"><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili/other">Прочие</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://rudniy.salexy.kz/c/prodazha_3544634.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продажа">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://rudniy.salexy.kz/c/prodazha_3544634.html">продажа</a></div>
+                <div class="description">продам пассат б3 1991 v2 седан</div>
+            </div>
+            <span class="price">4 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.06.2013</time>
+                                            Рудный                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://lisakovsk.salexy.kz/c/mashinu_3536967.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://lisakovsk.salexy.kz/c/mashinu_3536967.html">продам машину</a></div>
+                <div class="description">фольксваген гольф универсал.
+1994 года выпуска.
+цвет черный металлик.
+объем 1.8.
+5900 у.е. торг. 
+87011363650. 87777923681</div>
+            </div>
+            <span class="price">5 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.06.2013</time>
+                                            Лисаковск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://lisakovsk.salexy.kz/c/mashinu_3536899.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://lisakovsk.salexy.kz/c/mashinu_3536899.html">продам машину </a></div>
+                <div class="description">фольксваген гольф универсал. 
+1994 года выпуска.
+цвет черный металлик.
+объем 1.8.
+5.9. у.е. торг.</div>
+            </div>
+            <span class="price">5 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.06.2013</time>
+                                            Лисаковск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_3530164.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_3530164.html">автомобиль</a></div>
+                <div class="description">машина находится в гараже </div>
+            </div>
+            <span class="price">1 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mashinu_3528583.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mashinu_3528583.html">продам машину</a></div>
+                <div class="description">срочно продам машину</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.06.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3526717" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3526717", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/prodazha_avtomobilya_3526717.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4770880.jpg" alt="продажа автомобиля">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/prodazha_avtomobilya_3526717.html">продажа автомобиля</a></div>
+                <div class="description">продам  audi 80 B-4, 1993 года выпуска, автомат, объем двигателя 2.0, цвет темно-синий, в хорошем состоянии,цена 4500$, торг уместен.</div>
+            </div>
+            <span class="price">4 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.06.2013</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/leksus_350_2006_3524110.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="лексус 350 2006">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/leksus_350_2006_3524110.html">лексус 350 2006</a></div>
+                <div class="description">камера задн.вида,мультируль, люк, есть все</div>
+            </div>
+            <span class="price">32 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.06.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_3523821.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4766152.jpg" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_3523821.html">Продам</a></div>
+                <div class="description">микро автобус в хорошем состоянии</div>
+            </div>
+            <span class="price">26 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_3519298.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_3519298.html">Продам</a></div>
+                <div class="description">Продам автомобиль в отличном состоянии не требующий абсолютно вложении.  </div>
+            </div>
+            <span class="price">27 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/mercedes-benz_3515609.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Mercedes-Benz">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/mercedes-benz_3515609.html">Mercedes-Benz</a></div>
+                <div class="description">продам</div>
+            </div>
+            <span class="price">800 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/mashina_3515589.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="машина">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/mashina_3515589.html">машина</a></div>
+                <div class="description">продам мерс</div>
+            </div>
+            <span class="price">5 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.06.2013</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/ischu_rabotu_3509485.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4741736.jpg" alt="Ищу работу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/ischu_rabotu_3509485.html">Ищу работу</a></div>
+                <div class="description">Ищу работу на авто(Mersedec-Benz E240 classic) личным водителем!</div>
+            </div>
+            <span class="price">21 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.06.2013</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/_3504292.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/_3504292.html">продам</a></div>
+                <div class="description">ПРОДАМ НИССАН ТЕРАННО 3 ЯПОНКА.ПРАВЫЙ РУЛЬ.ЦВЕТ ЧЕРНЫЙ.1996 ГОДА ВЫПУСКА. ОБЬЕМ 2.7 Р50.ДВИГАТЕЛЬ ДИЗЕЛЬ. КАРОПКА АВТОМАТ В ИДЕАЛЬНОМ СОСТОЯНИЕ. 12000 У.Е. ВАРИАНТЫ:МЕНЯЕТСЯ НА СКОТ И НА СЕЛЬХОЗ ТЕХНИ</div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.06.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodaem_kalenval_mers_sprinter_3504116.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4732206.jpg" alt=" продаем каленвал мерс спринтер">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodaem_kalenval_mers_sprinter_3504116.html"> продаем каленвал мерс спринтер</a></div>
+                <div class="description"> ПРОДАЕМ КОЛЕНВАЛ НА МЕРСЕДЕС СПРИНТЕР 2.2ОБЬЕМ ДИЗЕЛЬ SDI  60000 ТЫСЯЧЬ ТЕНЬГЕ ПОСЛЕДНИЙ РЕМОНТ</div>
+            </div>
+            <span class="price">60 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.06.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_audi_a_6_perehodka_1994_g_v_7500_3493301.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам Ауди А 6, переходка, 1994 г.в., 7500 $!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_audi_a_6_perehodka_1994_g_v_7500_3493301.html">Продам Ауди А 6, переходка, 1994 г.в., 7500 $!</a></div>
+                <div class="description">Продам Ауди А 6 переходка, 1994 г.в., серебристого цвета, эл.стеклоподъёмники, титановые диски, комплект зимней резины, музыка, МР3, задняя тонировка, автосигнализация. Машина находится в наурзумском </div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.06.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/_3489743.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/_3489743.html">продам</a></div>
+                <div class="description">7 местная,центральный замок.корбератор</div>
+            </div>
+            <span class="price">5 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.06.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtomobil_3488763.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtomobil_3488763.html">Автомобиль</a></div>
+                <div class="description">Машина в идеальном состояний без вложений, после капитального ремонта. Налог уплочен, тех.осмотр пройден.Срочно!!!</div>
+            </div>
+            <span class="price">5 800 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.06.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/toyota_camry_40_3485933.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4698933.jpg" alt="Toyota Camry 40">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/toyota_camry_40_3485933.html">Toyota Camry 40</a></div>
+                <div class="description">продам Toyota Camry 40 год выпуска 2007, АКПП, объем двигателя 2,4 - американец, цвет серебристый металлик, состояние отличное, титановые диски, комплект зимних шин с желез.дисками, дополнительно уста</div>
+            </div>
+            <span class="price">24 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/vaz_21053_god_1996_cena_2500_3484068.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам ваз 21053   год 1996 цена 2500">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/vaz_21053_god_1996_cena_2500_3484068.html">продам ваз 21053   год 1996 цена 2500</a></div>
+                <div class="description">свеже рашена цвет сероголубой все новое,двигатель  с капетального ремонта!видеть надо,есть торг,,,</div>
+            </div>
+            <span class="price">2 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.06.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/_3483542.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/_3483542.html">продам</a></div>
+                <div class="description">в хорошем состоянии комплект зимней резины</div>
+            </div>
+            <span class="price">637 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.06.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=59">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=55">55</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=56">56</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=57">57</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=58">58</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=59">59</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=60">60</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=61">61</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=62">62</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=63">63</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=64">64</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=61">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/legkovye_avtomobili?page=72"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

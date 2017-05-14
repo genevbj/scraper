@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Купить запчасти в Казахстане. Объявления о продаже запчастей для автомобиля в Казахстане. , страница 67</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа бу запчастей и новых в Казахстане. Покупка и продажа запчастей для авто- и мототехники по доступным ценам в Казахстане.Страница 67." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=737&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" itemprop="item"><span itemprop="name">Запчасти и аксессуары</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_dlya_hitachi_zx330_dostavka_po_rf_5102307.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303895.jpg" alt="Форсунка Isuzu    ( Isuzu   ) для Hitachi ZX330 доставка по РФ.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_dlya_hitachi_zx330_dostavka_po_rf_5102307.html">Форсунка Isuzu    ( Isuzu   ) для Hitachi ZX330 доставка по РФ.</a></div>
+                <div class="description">Предлагаем форсунки Isuzu   / Isuzu   / Denso 095000-6360  для CDI Isuzu / Hitachi 6HK1 , Hitachi ZX330 оригинальные и аналоговые.
+
+Экспресс-доставка форсунки Isuzu    / Denso 0950006360 / Isuzu   по России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_095000-8901_denso_dlya_cdi_isuzu_hitachi_6hk1_hitachi_zx330_5102306.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303893.jpg" alt="Форсунка Isuzu   / 095000-8901 denso для CDI Isuzu / Hitachi 6HK1 , Hitachi ZX330">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_095000-8901_denso_dlya_cdi_isuzu_hitachi_6hk1_hitachi_zx330_5102306.html">Форсунка Isuzu   / 095000-8901 denso для CDI Isuzu / Hitachi 6HK1 , Hitachi ZX330</a></div>
+                <div class="description">Предлагаем оригинальные форсунки Isuzu   / Denso 095000-8901 / 095000-8903 для CDI Isuzu / Hitachi 6HK1 , Hitachi ZX330 по спеццене.
+
+Экспресс-доставка форсунки Isuzu   / Denso 0950008901 / Denso 0950008903 по России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_9_dlya_4jj1-t_hitachi_evro3_speccena_5102305.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303892.jpg" alt="Форсунка Isuzu   / Denso 9  для 4JJ1-T Hitachi Евро3.Спеццена">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_9_dlya_4jj1-t_hitachi_evro3_speccena_5102305.html">Форсунка Isuzu   / Denso 9  для 4JJ1-T Hitachi Евро3.Спеццена</a></div>
+                <div class="description">Предлагаем оригинальные форсунки Isuzu   / Denso   / Denso 9  для 4JJ1-T Hitachi Евро-3 с завода производителя.
+
+Экспресс-доставка форсунки Isuzu   / Denso   / Denso 9  по России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_dlya_isuzu_6wf1_original_5102304.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303891.jpg" alt="Форсунка Isuzu   / Isuzu    для ISUZU 6WF1 оригинал">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_dlya_isuzu_6wf1_original_5102304.html">Форсунка Isuzu   / Isuzu    для ISUZU 6WF1 оригинал</a></div>
+                <div class="description">Топливная форсунка Isuzu   / Isuzu   для Isuzu 6WF1 со склада в наличии. 
+Экспресс-доставка форсунок Isuzu   /   Isuzu до заказчика.
+
+Поставляем форсунки Isuzu    / Isuzu   оригинальные и аналоговые</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_so_sklada_speccena_5102302.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303890.jpg" alt="Форсунка Isuzu   / Isuzu   со склада.Спеццена">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_isuzu_so_sklada_speccena_5102302.html">Форсунка Isuzu   / Isuzu   со склада.Спеццена</a></div>
+                <div class="description">Поставляем со склада форсунки Isuzu    (   )/ Isuzu   (   ) для Hitachi CDI Isuzu 4HK1 / 6HK1.
+Форсунки Isuzu    /   в наличии на складе.
+
+Экспресс-доставка форсунки Isuzu   /   Isuzu в регионы</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5102301" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5102301", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_9_dlya_cdi_isuzu_4hj1_v_nalichii_5102301.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303888.jpg" alt="Форсунка Isuzu   / Denso 9  для CDI Isuzu 4HJ1 в наличии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_9_dlya_cdi_isuzu_4hj1_v_nalichii_5102301.html">Форсунка Isuzu   / Denso 9  для CDI Isuzu 4HJ1 в наличии</a></div>
+                <div class="description">Предлагаем топливную форсунку Isuzu   (  )/ Denso 9  для CDI Isuzu 4HJ1.
+
+Экспресс-доставка форсунки Denso 9  /   (  ) Isuzu в регионы</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_095000-5516_dlya_hitachi_isuzu_6wf1-t_6wg1_evro-3_c-seriya_5102300.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303884.jpg" alt="Форсунка Isuzu   / Denso  095000-5516 для Hitachi / Isuzu 6WF1-T , 6WG1 Евро-3 C-серия">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_095000-5516_dlya_hitachi_isuzu_6wf1-t_6wg1_evro-3_c-seriya_5102300.html">Форсунка Isuzu   / Denso  095000-5516 для Hitachi / Isuzu 6WF1-T , 6WG1 Евро-3 C-серия</a></div>
+                <div class="description">Форсунки Isuzu   / Denso  095000-5516 для Hitachi / Isuzu 6WF1-T , 6WG1 Евро-3 C-серия в наличии на складе.
+Топливная форсунка Isuzu    (   ) / Denso  095000-5516 оригинальная</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_095000-5012_dlya_hitachi_isuzu_4hj1_so_sklada_5102299.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303883.jpg" alt="Форсунка Isuzu   / Denso 095000-5012 для Hitachi / Isuzu 4HJ1 со склада.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_denso_095000-5012_dlya_hitachi_isuzu_4hj1_so_sklada_5102299.html">Форсунка Isuzu   / Denso 095000-5012 для Hitachi / Isuzu 4HJ1 со склада.</a></div>
+                <div class="description">Форсунки Isuzu    / Denso  095000-5014 для Hitachi / Isuzu 4HJ1 в наличии на складе.
+Топливная форсунка для Hitachi (Isuzu 4HJ1) 095000-5014 / 095000-5012 Denso  оригинальная.
+
+Экспресс-доставка по России форсунок Isuzu   /   / denso 095000-5012</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-0510_16600-8n800_dlya_nissan_x-trail_dvigatel_yd22_5102298.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303881.jpg" alt="Форсунка Denso 095000-0510 / 16600-8Н800 для Nissan X-Trail , двигатель YD22">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-0510_16600-8n800_dlya_nissan_x-trail_dvigatel_yd22_5102298.html">Форсунка Denso 095000-0510 / 16600-8Н800 для Nissan X-Trail , двигатель YD22</a></div>
+                <div class="description">Форсунки Denso  095000-0510 / 16600-8Н800 для Nissan X-Trail с двигателем YD22.
+Топливная форсунка на Nissan 095000-0510 / 16600-8Н800 Denso  оригинальная</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_bosch_0445110273_0986435165_dlya_iveco_daily_fiat_ducato_uaz_patriot_5102297.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303880.jpg" alt="Форсунка Bosch 0445110273 / 0986435165 для  Iveco Daily, Fiat Ducato, УАЗ Патриот.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_bosch_0445110273_0986435165_dlya_iveco_daily_fiat_ducato_uaz_patriot_5102297.html">Форсунка Bosch 0445110273 / 0986435165 для  Iveco Daily, Fiat Ducato, УАЗ Патриот.</a></div>
+                <div class="description">Форсунки Bosch 0445 110 273 / 0986435165 / Iveco  504088755 для Iveco Daily, Fiat Ducato, УАЗ Патриот, New Holland на двигатели 2.3JTD / 2.2TD
+Гарантия на оригинальные форсунки Bosch 0445110273 / 0986435165 bosch </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/toplivnaya_forsunka_isuzu_denso_9_dlya_cdi_isuzu_6wf1_5102295.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303879.jpg" alt="Топливная форсунка Isuzu   / Denso 9  для CDI Isuzu 6WF1">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/toplivnaya_forsunka_isuzu_denso_9_dlya_cdi_isuzu_6wf1_5102295.html">Топливная форсунка Isuzu   / Denso 9  для CDI Isuzu 6WF1</a></div>
+                <div class="description">Предлагаем форсунки Isuzu   (   )/ Denso 9  ( 9  ) для CDI ISUZU 6WF1 от производителя по низким ценам.
+Гарантия на оригинальные форсунки Isuzu    / 9  Denso.
+
+Экспресс-доставка по России форсунок Denso 9  /   для CDI Isuzu 6WF1</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_cummins_3058849_3058849r_na_cummins_v12_g28_v28_original_5102294.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303875.jpg" alt="Форсунка Cummins 3058849 / 3058849R на Cummins V12, G28, V28 оригинал ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_cummins_3058849_3058849r_na_cummins_v12_g28_v28_original_5102294.html">Форсунка Cummins 3058849 / 3058849R на Cummins V12, G28, V28 оригинал </a></div>
+                <div class="description">Предлагаем форсунку 3058849 / 3058849R на двигатель Cummins V12, G28, V28 в розницу по оптовым ценам.
+Экспресс-доставка форсунки Cummins 3058849R. 
+
+Отправляем форсунки Cummins 3058849 / 3058849R по всей России (авиа по РФ от 200 р./шт</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_cummins_3802338-rx_3802338_cummins_na_kamaz_v_nalichii_5102293.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303874.jpg" alt="Форсунка Cummins 3802338-RX / 3802338 cummins на Kamaz в наличии ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_cummins_3802338-rx_3802338_cummins_na_kamaz_v_nalichii_5102293.html">Форсунка Cummins 3802338-RX / 3802338 cummins на Kamaz в наличии </a></div>
+                <div class="description">Предлагаем в наличии со склада:
+форсунка Cummins 3802338-RX /3802338  на двигатель Cummins,  для техники KAMAZ, КАМАЗ. Форсунка Cummins 3802338 / cummins 3802338-RX оригинальная в заводской упаковке</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_weichai_kbel-p096_dlya_howo_a7_shaanxi_originalnaya_5102292.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303873.jpg" alt="Форсунка Weichai KBEL-P096 для Howo A7, Shaanxi оригинальная">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_weichai_kbel-p096_dlya_howo_a7_shaanxi_originalnaya_5102292.html">Форсунка Weichai KBEL-P096 для Howo A7, Shaanxi оригинальная</a></div>
+                <div class="description">Предлагаем форсунки Weichai KBEL-P096 для двигателей Weichai WP12, D12 Евро 3-2 на технику Shaanxi, Howo A7 в наличии.
+Экспресс-доставка форсунки Weichai KBEL-P096 по РФ..
+
+Форсунка KBEL-P096 weichai  всегда в наличии на складе КНР</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_komatsu_621_095000-0562_na_komatsu_d275a-5_5102289.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303866.jpg" alt="Форсунка Komatsu 621  / 095000-0562 на Komatsu D275A-5 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_komatsu_621_095000-0562_na_komatsu_d275a-5_5102289.html">Форсунка Komatsu 621  / 095000-0562 на Komatsu D275A-5 </a></div>
+                <div class="description">Поставляем форсунки Komatsu 621  / 095000-0562 denso на бульдозеры Komatsu D275A-5, с двигателем Komatsu SDA6D140E-2 в наличии</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_cat_293-4072_na_caterpillar_c9_s7_10r-7222_so_sklada_5102288.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303865.jpg" alt="Форсунка CAT 293-4072 на Caterpillar C9, С7 10R-7222 со склада ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_cat_293-4072_na_caterpillar_c9_s7_10r-7222_so_sklada_5102288.html">Форсунка CAT 293-4072 на Caterpillar C9, С7 10R-7222 со склада </a></div>
+                <div class="description">Предлагаем форсунку CAT 293-4072 для двигателей Caterpillar (CAT) C9, С7 10R-7222 в наличии со склада.
+Экспресс-доставка Caterpillar 293-4072 в регионы. 
+
+Отправляем форсунки CAT 293-4072 по всей России(авиа по РФ от 200 р./шт.  Ж/Д от 500 p</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/nasos-forsunka_4026222_na_dv_cummins_ism_qsm_zavodskaya_5102287.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303864.jpg" alt="Насос-форсунка 4026222 на дв. Cummins ISM/QSM заводская">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/nasos-forsunka_4026222_na_dv_cummins_ism_qsm_zavodskaya_5102287.html">Насос-форсунка 4026222 на дв. Cummins ISM/QSM заводская</a></div>
+                <div class="description">Предлагаем насос - форсунку 4026222 для двигателей Cummins ISM/QSM в розницу по оптовым ценам.
+Экспресс-доставка форсунки Cummins 4026222. 
+
+Отправляем форсунки Cummins 4026222 по всей России(авиа по РФ от 200 р./шт.  Ж/Д от 500 p./компл)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_denso_095000-5450_mitsubishi_me302143_cena_v_rossii_5102286.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303863.jpg" alt="Форсунка Denso 095000-5450 / Mitsubishi ME302143 цена в России">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_denso_095000-5450_mitsubishi_me302143_cena_v_rossii_5102286.html">Форсунка Denso 095000-5450 / Mitsubishi ME302143 цена в России</a></div>
+                <div class="description">Asia Lianhe.Ltd, предлагаем форсунку 095000-5450 / ME302143 для Mitsubishi, двигатель 6M60 7545cc оптом и в розницу.
+Отправка форсунки Denso 095000-5450 / Mitsubishi ME302143 во все регионы России (авиа по РФ от 200 р./шт.  Ж/Д от 500 p./компл)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/toplivnaya_forsunka_bosch_0445110248_optom_i_v_roznicu_5102285.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303862.jpg" alt="Топливная форсунка Bosch 0445110248 оптом и в розницу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/toplivnaya_forsunka_bosch_0445110248_optom_i_v_roznicu_5102285.html">Топливная форсунка Bosch 0445110248 оптом и в розницу</a></div>
+                <div class="description">Предлагаем форсунки Bosch 0445 110 248 ( 0445110248 ) для Iveco DAILY III 3.0D,  Fiat Ducato.
+Экспресс-доставка форсунки Bosch 0445110248 / 0445 110 248 bosch в регионы РФ.
+
+Отправляем форсунки Bosch 0445110248 по всей России</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/forsunka_isuzu_0950006369_denso_so_sklada_5102284.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303861.jpg" alt="Форсунка Isuzu   / 0950006369 Denso со склада">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/forsunka_isuzu_0950006369_denso_so_sklada_5102284.html">Форсунка Isuzu   / 0950006369 Denso со склада</a></div>
+                <div class="description">Предлагаем форсунки Isuzu   (   ) для CDI Isuzu 6HK1 / Hitachi, Hitachi ZX330 .
+Спеццена на форсунки Isuzu   / Isuzu  .
+Гарантия на оригинальные форсунки Isuzu   /   для CDI Isuzu 6HK1 / Hitachi.
+
+Экспресс-доставка форсунки   Isuzu /    Isuzu</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.08.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=67">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=63">63</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=64">64</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=65">65</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=66">66</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=67">67</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=68">68</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=69">69</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=70">70</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=71">71</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=72">72</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=69">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti?page=102"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

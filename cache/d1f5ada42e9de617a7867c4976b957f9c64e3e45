@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Культиваторы в Казахстане. Объявления о продаже сельхозтехники</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Новые и бу Культиваторы в Казахстане. Подайте объявление о продаже сельскохозяйственной техники. Бесплатная доска объявлений Salexy.kz
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/selhoz_technika/kultivatory" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1339&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/selhoz_technika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika" itemprop="item"><span itemprop="name">Сельхозтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Культиваторы в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kultivator_thema_5193296.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/90/59/90590e4492397279952a65a8bc0afe41.jpg" alt="Культиватор THEMA">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kultivator_thema_5193296.html">Культиватор THEMA</a></div>
+                <div class="description">Культиватор THEMA проводит прополку по междурядьям на растениях не выше 1 метра любых культур, от овощей, включая картофель, до кукурузы и корнеплодов.
+TEMA может быть произведена с тремя типами рамы</div>
+            </div>
+            <span class="price">964 603 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.11.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kultivator_kpc_serii_f7_5162300.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5427930.jpg" alt="Культиватор КПC, серии F7">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kultivator_kpc_serii_f7_5162300.html">Культиватор КПC, серии F7</a></div>
+                <div class="description">Культиватор КПC, серии F7
+ Назначение: Для предпосевной обработки почвы, обработки паров с одновременным боронованием на рабочей скорости до 12 км/ч. Агрегатируется с тракторами тягового класса 1,4 т.с</div>
+            </div>
+            <span class="price">110 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/mezhduryadnyy_kultivator_krn_5_6_5162299.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5427928.jpg" alt="Междурядный культиватор КРН 5,6">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/mezhduryadnyy_kultivator_krn_5_6_5162299.html">Междурядный культиватор КРН 5,6</a></div>
+                <div class="description">Междурядный культиватор КРН 5,6
+Культиватор навесной для междурядной обработки почвы КРН-5,6 предназначен для междурядной обработки 8-ми рядных посевов кукурузы, подсолнечника, клещевины и других пропашных культур, высеянных с междурядьем 600, 700, </div>
+            </div>
+            <span class="price">95 999 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/okuchivatel-popolnik_3-h-ryad-y_viraks_5162294.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5427925.jpg" alt="Окучиватель-попольник 3-х-ряд-й (Виракс)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/okuchivatel-popolnik_3-h-ryad-y_viraks_5162294.html">Окучиватель-попольник 3-х-ряд-й (Виракс)</a></div>
+                <div class="description">Окучиватель-попольник 3-х-ряд-й (Виракс)
+Предназначен для нарезки гребней, довсходовой и послевсходовой обработки междурядий с одновременным боронованием и окучиванием картофеля, сплошной и предпосевной обработки почвы</div>
+            </div>
+            <span class="price">18 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kultivator_krn-5_6_krnv-5_6_5162272.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5427869.jpg" alt="Культиватор КРН-5.6/ КРНВ-5.6">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kultivator_krn-5_6_krnv-5_6_5162272.html">Культиватор КРН-5.6/ КРНВ-5.6</a></div>
+                <div class="description">Культиватор КРН-5.6/ КРНВ-5</div>
+            </div>
+            <span class="price">95 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5162268" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5162268", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kultivator-okuchnik_bomet_wirax_5162268.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5427849.jpg" alt="Культиватор-окучник Bomet/Wirax">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kultivator-okuchnik_bomet_wirax_5162268.html">Культиватор-окучник Bomet/Wirax</a></div>
+                <div class="description">Культиватор-окучник Bomet/Wirax
+ для сплошной обработки почвы это навесное оборудование, которое используют для взрыхления почвы, для создания борозд, устранения сорняков и обработке грядок</div>
+            </div>
+            <span class="price">17 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/kultivatorkpg_serii_xe-5_5161627.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5426631.jpg" alt="КультиваторKPG , серии XE-5">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/kultivatorkpg_serii_xe-5_5161627.html">КультиваторKPG , серии XE-5</a></div>
+                <div class="description">КультиваторKPG , серии XE-5 Агрегатируется с тракторами тягового класса 1,4</div>
+            </div>
+            <span class="price">110 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/uslugi_spec_tehniki_5115152.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5330207.jpg" alt="Услуги спец техники">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/uslugi_spec_tehniki_5115152.html">Услуги спец техники</a></div>
+                <div class="description">Услуги бульдозера Т-170 в наличии 2 ед</div>
+            </div>
+            <span class="price">6 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.10.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/nahodim_rabotu_dlya_vashey_spectehniki_5112982.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5325964.jpg" alt="Находим работу для Вашей спецтехники ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/nahodim_rabotu_dlya_vashey_spectehniki_5112982.html">Находим работу для Вашей спецтехники </a></div>
+                <div class="description">  Находим работу для Вашей спецтехники по Вашим условиям, по всему региону РК, Предлагаем сотрудничество на взаимовыгодных условиях. Мы всегда найдем работу для самосвалов, экскаваторов, манипуляторов, погрузчиков и различной строительной техники</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.10.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/buldozer_dlya_karera_novyy_ot_zavoda_5106118.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5311928.jpg" alt="Бульдозер для карьера новый от завода">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/buldozer_dlya_karera_novyy_ot_zavoda_5106118.html">Бульдозер для карьера новый от завода</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная. 
+Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.09.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/buldozer_dlya_poligona_tbo_novyy_ot_zavoda_5102750.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5304856.jpg" alt="Бульдозер для полигона ТБО новый от завода">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/buldozer_dlya_poligona_tbo_novyy_ot_zavoda_5102750.html">Бульдозер для полигона ТБО новый от завода</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная. 
+Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. для мусорных полигонов и полигонов твердых бытовых отходов (ТБО)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.08.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/buldozer_bolotohod_b10mb_5102623.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5304566.jpg" alt="Бульдозер болотоход Б10МБ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/buldozer_bolotohod_b10mb_5102623.html">Бульдозер болотоход Б10МБ</a></div>
+                <div class="description">Конструктивные особенности модификации: Болотоход, 180/240 л.с., МТ, 7-катковая тележка, МПУ.
+Двигатель
+Модель	Д180П/ЯМЗ 238
+Эксплуатационная мощность, кВт (л.с</div>
+            </div>
+            <span class="price">3 680 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.08.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/arenda_buldozera_5101446.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5302227.jpg" alt="Аренда бульдозера">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/arenda_buldozera_5101446.html">Аренда бульдозера</a></div>
+                <div class="description">Бульдозер в отличном техническом состоянии. Механизаторы с огромным опытом работы. Сдаётся на любой срок. Оперативная доставка техники на объект.форма оплаты любая , полный пакет документов. Наш сайт ici</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.08.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/buldozer_b10_s_trehpozicionnym_otvalom_kupit_novyy_na_garantii_5097996.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5294975.jpg" alt="Бульдозер Б10 с трехпозиционным отвалом купить новый на гарантии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/buldozer_b10_s_trehpozicionnym_otvalom_kupit_novyy_na_garantii_5097996.html">Бульдозер Б10 с трехпозиционным отвалом купить новый на гарантии</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+ Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_b10_s_povorotnym_otvalom_kupit_novyy_na_garantii_5097995.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5294973.jpg" alt="Бульдозер Б10 с поворотным отвалом купить новый на гарантии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_b10_s_povorotnym_otvalom_kupit_novyy_na_garantii_5097995.html">Бульдозер Б10 с поворотным отвалом купить новый на гарантии</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+ Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/truboukladchik_kupit_po_vygodnoy_cene_ot_zavoda_5097344.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5293531.jpg" alt="Трубоукладчик купить по выгодной цене от завода">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/truboukladchik_kupit_po_vygodnoy_cene_ot_zavoda_5097344.html">Трубоукладчик купить по выгодной цене от завода</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов. Производство, продажа, сервисное и гарантийное обслуживание! Вся выпускаемая продукция сертифицированная.
+Трубоукладчик серии ТР,ТГ, ТО на базе серийного трактора болотохода Б10ПМБ.0121-2 , 2015 г.в</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_s_ryhlitelem_b10_kupit_po_vygodnoy_cene_5097343.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5293529.jpg" alt="Бульдозер с рыхлителем Б10 купить по выгодной цене">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_s_ryhlitelem_b10_kupit_po_vygodnoy_cene_5097343.html">Бульдозер с рыхлителем Б10 купить по выгодной цене</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+ Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_t170_kupit_novyy_ot_zavoda_izgotovitelya_5097342.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5293528.jpg" alt="Бульдозер Т170 купить новый от завода изготовителя">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_t170_kupit_novyy_ot_zavoda_izgotovitelya_5097342.html">Бульдозер Т170 купить новый от завода изготовителя</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+ Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/buldozer_bolotohod_b10_kupit_novyy_ot_zavoda_5097341.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5293526.jpg" alt="Бульдозер болотоход Б10 купить новый от завода">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/buldozer_bolotohod_b10_kupit_novyy_ot_zavoda_5097341.html">Бульдозер болотоход Б10 купить новый от завода</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов. Производство, продажа, сервисное и гарантийное обслуживание! Вся техника сертифицированная.
+ Бульдозер Б10ПМБ.0121-2В4, 2015 г.в. 
+ Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/buldozer_b10_chtz_kupit_po_vygodnoy_cene_ot_zavoda_5097339.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5293523.jpg" alt="Бульдозер Б10 ЧТЗ купить по выгодной цене от завода">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/buldozer_b10_chtz_kupit_po_vygodnoy_cene_ot_zavoda_5097339.html">Бульдозер Б10 ЧТЗ купить по выгодной цене от завода</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов . Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+ Бульдозер Б10ПМ.0101-ЕН, 2015 г.в. Шестигранная кабина увеличенного обзора</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none hidden"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory"></a></li>
+<li class="text control back first-none hidden"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory">назад</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory?page=2">2</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory?page=2">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/selhoz_technika/kultivatory?page=2"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika">Сельхозтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

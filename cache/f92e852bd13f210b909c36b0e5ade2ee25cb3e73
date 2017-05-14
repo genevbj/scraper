@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Экипировка в Казахстане. Купить экипировку в Казахстане.  Авто, мотоэкипировка - продажа, цены.</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления Казахстана о продаже зимней и летней экипировки для авто и мототехники. Бу и новая экипировка по доступным ценам в Казахстане
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=742&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" itemprop="item"><span itemprop="name">Запчасти и аксессуары</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Экипировка в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/penaly_dlya_ognetushiteley_serii_regon_5218111.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Пеналы для огнетушителей серии "REGON"">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/penaly_dlya_ognetushiteley_serii_regon_5218111.html">Пеналы для огнетушителей серии REGON</a></div>
+                <div class="description">ООО « Битнефтегаз » реализует пеналы для огнетушителей серии REGON  6, 6/9, 12 кг (от 2215 руб./шт.) </div>
+            </div>
+            <span class="price">12 329 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.04.2017</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/znak_shipy_v_astane_nakleyka_na_5210210.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7b/54/7b54fd766029f726f3b3f5a054060521.jpg" alt="Знак Шипы в Астане,наклейка на заднее стекло или багажник">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/znak_shipy_v_astane_nakleyka_na_5210210.html">Знак Шипы в Астане,наклейка на заднее стекло или багажник</a></div>
+                <div class="description">Наклейка на транспортных средствах должны быть установлены опознавательные знаки: 
+”Шипы” – в виде равностороннего треугольника белого цвета вершиной вверх с каймой красного цвета, в который вписана буква ”Ш” черного цвета (сторона треугольника – не</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.02.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/shlem_hischnik_predator_original_aerografiya_5209382.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/57/78/5778e9fcb6032dfd17f5ad47a531d3c0.jpg" alt="Шлем Хищник (Predator) Оригинал. Аэрография красная в Алматы. ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/shlem_hischnik_predator_original_aerografiya_5209382.html">Шлем Хищник (Predator) Оригинал. Аэрография красная в Алматы. </a></div>
+                <div class="description">Шлем Хищник — это вызов устаревшему подходу к дизайну мотошлемов - этот шлем для тех кто готов быть не таким как все</div>
+            </div>
+            <span class="price">549 990 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zaysan.salexy.kz/c/sumki_avtomobilnye_adr_i_ih_5189942.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сумки автомобильные ADR и их составляющие">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zaysan.salexy.kz/c/sumki_avtomobilnye_adr_i_ih_5189942.html">сумки автомобильные ADR и их составляющие</a></div>
+                <div class="description">В наличие наборы ADR для всех классов опасности (1, 1.4, 1.5, 1.6, 2.1, 2.2, 2.3, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 7, 8, 9, на одного или двух человек (от 6332 руб.)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.10.2016</time>
+                                            Зайсан                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/propal_gosnomer_443_ava_16_region_5176576.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Пропал госномер 443 ava 16 регион">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/propal_gosnomer_443_ava_16_region_5176576.html">Пропал госномер 443 ava 16 регион</a></div>
+                <div class="description">пропал госномер 443 ava 16 регион в районе от ЦДК "Ульба" до ОБЛ больницы
+Прошу вернуть за вознаграждение </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.08.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5154187" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5154187", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/uslugi_avto_chehlov_kovrikov_i_aksessuarov_iz_turcii_po_optovoy_cene_5154187.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5410815.jpg" alt="Услуги авто чехлов, ковриков и аксессуаров из Турции по оптовой цене.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/uslugi_avto_chehlov_kovrikov_i_aksessuarov_iz_turcii_po_optovoy_cene_5154187.html">Услуги авто чехлов, ковриков и аксессуаров из Турции по оптовой цене.</a></div>
+                <div class="description">Основным направлением компании является пошив автомобильных чехлов на сидения</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ortopedicheskaya_spinka-podushka_dlya_avto_i_ofisa_5153431.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409095.jpg" alt="Ортопедическая спинка-подушка для авто и офиса">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ortopedicheskaya_spinka-podushka_dlya_avto_i_ofisa_5153431.html">Ортопедическая спинка-подушка для авто и офиса</a></div>
+                <div class="description">Среднестатистический городской житель в сидячем положении проводит по 8 часов в день: автомобиль, пробки, офисное кресло, учеба, телевизор ... - то есть бОльшую часть, свободного от сна, времени. Но мало кто задумывается о комфорте</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/opletka_dlya_rulya_iz_meha_5122786.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5344657.jpg" alt="ОПЛЕТКА ДЛЯ РУЛЯ ИЗ МЕХА">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/opletka_dlya_rulya_iz_meha_5122786.html">ОПЛЕТКА ДЛЯ РУЛЯ ИЗ МЕХА</a></div>
+                <div class="description">Приятная на ощупь, из экологичных материалов, она сделает вождение более комфортным, добавит уюта и тепла в холодную погоду, и позволит сберечь руки. Руки не скользят по рулю, также удобны при повороте</div>
+            </div>
+            <span class="price">2 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/organayzer_karmany_v_avto_mezhdu_sideniy_catch_caddy_5122676.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="ОРГАНАЙЗЕР КАРМАНЫ В АВТО МЕЖДУ СИДЕНИЙ CATCH CADDY">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/organayzer_karmany_v_avto_mezhdu_sideniy_catch_caddy_5122676.html">ОРГАНАЙЗЕР КАРМАНЫ В АВТО МЕЖДУ СИДЕНИЙ CATCH CADDY</a></div>
+                <div class="description">Органайзер карманы в авто между сидений Catch Caddy. Удобно использовать в авто для хранения телефона, ключей, монет, мелочей, кредиток и прочего. Комплект 2 шт Материал пластик Размер упаковки 37*13*8см</div>
+            </div>
+            <span class="price">2 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/alkantara_galstuki_nakidki_na_sideniya_avto_5122674.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5344465.jpg" alt="АЛЬКАНТАРА ГАЛСТУКИ, НАКИДКИ НА СИДЕНИЯ АВТО">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/alkantara_galstuki_nakidki_na_sideniya_avto_5122674.html">АЛЬКАНТАРА ГАЛСТУКИ, НАКИДКИ НА СИДЕНИЯ АВТО</a></div>
+                <div class="description">АЛЬКАНТАРА ГАЛСТУКИ, НАКИДКИ НА СИДЕНИЯ АВТО. Цена 5000-50%=2500. Интернет магазин "Аиша ТВ ШОП" aisha-tvshop.kz, Самые низкие цены по городу Астана и Шымкент.
+г.Астана, проспект Абылай хана 26, интернет кафе -с 12:00 до 21:00, ежедневно</div>
+            </div>
+            <span class="price">2 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/kovriki_tureckie_universalnye_5122672.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5344462.jpg" alt="Коврики-полики для авто полиуретаново-резиновые. Турция! Оригинал!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/kovriki_tureckie_universalnye_5122672.html">Коврики-полики для авто полиуретаново-резиновые. Турция! Оригинал!</a></div>
+                <div class="description">Качественный продукт, новый полимерный материал, коврики оснащены фиксаторами, защита от западания педали газа, антискользящий рельеф, идеально подходят</div>
+            </div>
+            <span class="price">5 450 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/prodam_tent_na_a_m_gazl_5120178.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам тент на а/м ГАЗль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/prodam_tent_na_a_m_gazl_5120178.html">продам тент на а/м ГАЗль</a></div>
+                <div class="description">продам тент на а/м ГАЗель,размер 2</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2015</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/portativnoe_pusko-zaryadnoe_ustroystvo_avtomobilnoe_5100879.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5301053.jpg" alt="Портативное пуско-зарядное устройство автомобильное">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/portativnoe_pusko-zaryadnoe_ustroystvo_avtomobilnoe_5100879.html">Портативное пуско-зарядное устройство автомобильное</a></div>
+                <div class="description">Разрядился аккумулятор? Есть решение!
+Портативное пуско-зарядное устройство - 
+Power Bank Jump Starter
+- заведёт автомобиль с разряженным аккумулятором</div>
+            </div>
+            <span class="price">17 770 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.08.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/detskiy_adapter_dlya_avtomobilnogo_remnya_bezopasnosti_5061838.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5214261.jpg" alt="Детский адаптер для автомобильного ремня безопасности">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/detskiy_adapter_dlya_avtomobilnogo_remnya_bezopasnosti_5061838.html">Детский адаптер для автомобильного ремня безопасности</a></div>
+                <div class="description">Детский адаптер для автомобильного ремня безопасности, 2000тг, можно заказать оптом! Опт начинается от 5 штук</div>
+            </div>
+            <span class="price">2 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.01.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/bryzgoviki_5060814.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5212156.jpg" alt="Брызговики ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/bryzgoviki_5060814.html">Брызговики </a></div>
+                <div class="description">Продажа высококачественных брызговиков на все модели авто от 3000 тг</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.01.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/meha_i_nakidki_alkantara_5060628.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5211783.jpg" alt="Меха и накидки алькантара  ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/meha_i_nakidki_alkantara_5060628.html">Меха и накидки алькантара  </a></div>
+                <div class="description">Продажа высококачественных мехов и накидок алькантара от 15 000 тг</div>
+            </div>
+            <span class="price">15 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.01.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ochki_zashita_far_5060624.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5211772.jpg" alt="Очки (Зашита фар)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ochki_zashita_far_5060624.html">Очки (Зашита фар)</a></div>
+                <div class="description">Продажа высококачественных очков от 7 000 тг</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.01.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_bagazhnik_5047331.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5182878.jpg" alt="Продам багажник">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_bagazhnik_5047331.html">Продам багажник</a></div>
+                <div class="description">Продам багажник на крышу, ширина между креплениями 125см (жигули, москвич, нива)</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.10.2014</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

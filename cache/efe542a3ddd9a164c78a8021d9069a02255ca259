@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Объявления о продаже спецтехники в Казахстане. Купить спецтехнику бу и новую в Казахстане. , страница 30</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Спецтехника различного назначения в Казахстане. Продажа спецтехники новой и бу в Казахстане по доступным ценам.Страница 30." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=99&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Спецтехника в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/buldozery">Бульдозеры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/traktory">Тракторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/ekskavatory">Экскаваторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/pogruzchiki">Погрузчики</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory">Краны и манипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtovyshki">Автовышки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/avtobetononasosy">Автобетононасосы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/burovaya_ustanovka">Буровае установки</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/yamobur">Ямобуры</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/prochee">Прочее</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/filtry_vozdushnye_5152878.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408264.jpg" alt="Фильтры воздушные">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/filtry_vozdushnye_5152878.html">Фильтры воздушные</a></div>
+                <div class="description">Фильтры воздушные на дизель. Фильтры кассетные, круглые от производителя "Костромской Автофильтр", увеличенный ресурс, лучшая цена с доставкой по Казахстану, гарантия качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/gidrocilindr_5152865.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408253.jpg" alt="Гидроцилиндр">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/gidrocilindr_5152865.html">Гидроцилиндр</a></div>
+                <div class="description">Гидроцилиндры подъема, Гидроцилиндры опоры, Гидроцилиндры выдвижения, Гидроцилиндры навески. Напрямую от производителя "Гидросила", лучшие цены, доставка по Казахстану, гарантия качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/turbiny_5152863.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408251.jpg" alt="Турбины">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/turbiny_5152863.html">Турбины</a></div>
+                <div class="description">Турбины на дизель</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prokladki_golovki_bloka_5152862.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408250.jpg" alt="Прокладки головки блока">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prokladki_golovki_bloka_5152862.html">Прокладки головки блока</a></div>
+                <div class="description">Прокладки головки блока, прокладки гбц дизеля, МТЗ 80, МТЗ 82, МТЗ 1221, ГАЗ 53, КамАЗ, ЯМЗ 236, ЯМЗ 238, ЗМЗ, ГАЗель. Комплекты прокладок для двигателей от производителя, лучшая цена, доставка по Казахстану, гарантия качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/filtry_toplivnye_5152861.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408249.jpg" alt="Фильтры топливные">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/filtry_toplivnye_5152861.html">Фильтры топливные</a></div>
+                <div class="description">Фильтры топливные на дизель. Фильтры тонкой очистки. Фильтры грубой очистки. Всё от производителя "Костромской Автофильтр", увеличенный ресурс, лучшая цена с доставкой по Казахстану и гарантией качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5152860" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5152860", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/nasos_shesterenchatyy_nsh_5152860.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408248.jpg" alt="Насос шестеренчатый НШ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/nasos_shesterenchatyy_nsh_5152860.html">Насос шестеренчатый НШ</a></div>
+                <div class="description">Насосы НШ от производителя "Гидросила", лучшие цены, доставка по Казахстану, гарантия качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/gidroraspredeliteli_5152858.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408247.jpg" alt="Гидрораспределители">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/gidroraspredeliteli_5152858.html">Гидрораспределители</a></div>
+                <div class="description">Гидрораспределители от производителя "Гидросила" по лучшей цене с доставкой по Казахстану и гарантией качества</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/dvigatel_mtz_5152857.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408246.jpg" alt="Двигатель МТЗ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/dvigatel_mtz_5152857.html">Двигатель МТЗ</a></div>
+                <div class="description">Двигатели в сборе. Любые запчасти на двигатели, КПП, сцепление в наличии и на заказ. Напрямую от производителя, лучшие цены, доставка по Казахстану, гарантия качества. Двигатели Д 245 для переоборудования зил 130 на дизель</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/dvigatel_zil_5152856.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408245.jpg" alt="Двигатель ЗиЛ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/dvigatel_zil_5152856.html">Двигатель ЗиЛ</a></div>
+                <div class="description">Двигатели в сборе. Любые запчасти на двигатели, КПП, сцепление в наличии и на заказ. Напрямую от производителя, лучшие цены, доставка по Казахстану, гарантия качества. Двигатели Д 245 для переоборудования зил 130 на дизель</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/prodam_traktor_5152826.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408213.jpg" alt="Продам трактор">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/prodam_traktor_5152826.html">Продам трактор</a></div>
+                <div class="description">Породам трактор.В хорошем состояний,резина новая.1984 года выпуска.Возможен торг</div>
+            </div>
+            <span class="price">700 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ushtobe.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152819.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408205.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ushtobe.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152819.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Уштобе                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ucharal.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152818.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408203.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ucharal.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152818.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Ушарал                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://tekeli.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152817.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408201.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://tekeli.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152817.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Текели                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taldykorgan.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152816.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408199.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taldykorgan.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152816.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Талдыкорган                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://talgar.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152815.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408197.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://talgar.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152815.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Талгар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://sarkand.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152814.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408195.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://sarkand.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152814.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Сарканд                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152813.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408193.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152813.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kaskelen.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152812.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408191.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kaskelen.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152812.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Каскелен                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kapchagay.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152811.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408189.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kapchagay.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152811.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Капчагай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://esik.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152810.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408187.jpg" alt="Бульдозер  ПТ-10 в наличии Актобе ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://esik.salexy.kz/c/buldozer_pt-10_v_nalichii_aktobe_5152810.html">Бульдозер  ПТ-10 в наличии Актобе </a></div>
+                <div class="description">Продам Бульдозер ПТ-10М
+Двигатель – ЯМЗ
+Мощность – 132 (180) л. с</div>
+            </div>
+            <span class="price">15 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.04.2016</time>
+                                            Есик                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/spectehnika"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/spectehnika?page=30">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=26">26</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=27">27</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=28">28</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=29">29</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=30">30</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika?page=31">31</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=32">32</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=33">33</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=34">34</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika?page=35">35</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=32">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika?page=61"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

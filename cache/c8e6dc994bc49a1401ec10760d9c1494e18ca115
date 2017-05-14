@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Прочие объявления о продаже транспортных средств в Казахстане., страница 23</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже прочих видов транспорта в Казахстане. Бесплатная доска объявлений Salexy.kzСтраница 23." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/prochee" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/prochee" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=103&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Прочее в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/stend_tnvd_sd12psb_analog_dd-1004_k_5096863.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292422.jpg" alt="Стенд ТНВД SD12PSB (аналог ДД-1004 К)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/stend_tnvd_sd12psb_analog_dd-1004_k_5096863.html">Стенд ТНВД SD12PSB (аналог ДД-1004 К)</a></div>
+                <div class="description">Стенд ТНВД SD12PSB (аналог ДД-1004 К) в наличии в г. Екатеринбург</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ttn-420_stanok_dlya_rastochki_tormoznyh_barabanov_i_tormoznyh_nakladok_5096862.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292420.jpg" alt="ТТН-420 Станок для расточки тормозных барабанов и тормозных накладок">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ttn-420_stanok_dlya_rastochki_tormoznyh_barabanov_i_tormoznyh_nakladok_5096862.html">ТТН-420 Станок для расточки тормозных барабанов и тормозных накладок</a></div>
+                <div class="description">ТТН-420
+Станок для расточки тормозных барабанов и тормозных накладок
+Станок токарного типа с ручным приводом поперечной подачи каретки и с комбинированным (ручным и механическим) приводом продольной подачи суппорта предназначен для расточки тормозн</div>
+            </div>
+            <span class="price">330 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/m216e_ustanovka_dlya_moyki_agregatov_gruzovyh_i_legkovyh_avtomobiley_5096860.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292417.jpg" alt="М216Е Установка для мойки агрегатов грузовых и легковых автомобилей ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/m216e_ustanovka_dlya_moyki_agregatov_gruzovyh_i_legkovyh_avtomobiley_5096860.html">М216Е Установка для мойки агрегатов грузовых и легковых автомобилей </a></div>
+                <div class="description">М216Е Установка для мойки агрегатов грузовых и легковых автомобилей 
+Предназначена для мойки агрегатов, двигателей, трансмиссий и деталей грузовых и легковых автомобилей (далее агрегатов)</div>
+            </div>
+            <span class="price">618 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/solidolonagnetatel_ruchnoy_5096859.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292416.jpg" alt="Солидолонагнетатель ручной">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/solidolonagnetatel_ruchnoy_5096859.html">Солидолонагнетатель ручной</a></div>
+                <div class="description">Солидолонагнетатель ручной
+Технические характеристики
+Ёмкость бака 20Кг
+Производительность 7,5 г за одно нажатие
+Длина рукоятки 430 мм 
+Вес 10 кг
+Цена: 12000 руб</div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ustanovka_ttn-60_s_ruchnym_privodom_5096858.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292415.jpg" alt="Установка ТТН-60  с ручным приводом">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ustanovka_ttn-60_s_ruchnym_privodom_5096858.html">Установка ТТН-60  с ручным приводом</a></div>
+                <div class="description">Установка ТТН-60  с ручным приводом
+Применяется для выпрессовки (запрессовки) шкворня,  оси соединяющей поворотную цапфу с балкой переднего моста без демонтажа передней подвески автомобиля в условиях автотранспортных предприятий и станций техническо</div>
+            </div>
+            <span class="price">89 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5096856" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5096856", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/diagnosticheskiy_stend_m-108_5096856.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292413.jpg" alt="Диагностический стенд М-108">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/diagnosticheskiy_stend_m-108_5096856.html">Диагностический стенд М-108</a></div>
+                <div class="description">Диагностический стенд М-108 
+Предназначен для проверки форсунок Common Rail производства Bosch, Delphi, Denso, Siemens в том числе и пьезо</div>
+            </div>
+            <span class="price">560 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/pnevmaticheskiy_stend_ttn-410_5096854.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292409.jpg" alt="Пневматический стенд ТТН-410">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/pnevmaticheskiy_stend_ttn-410_5096854.html">Пневматический стенд ТТН-410</a></div>
+                <div class="description">Пневматический стенд ТТН-410, предназначен для клепки  фрикционных накладок тормозных колодок, дисков сцепления, а также предназначен для расклепки заклепок диаметром до 10 мм при замене изношенных накладок в условиях автотранспортных предприятий и с</div>
+            </div>
+            <span class="price">98 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/stend_05e_5096853.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292408.jpg" alt="Стенд 05Э ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/stend_05e_5096853.html">Стенд 05Э </a></div>
+                <div class="description">Стенд 05Э 
+Предназначен для диагностики и  регулировки ТНВД  отечественного и импортного производства с механическим и электронным управлением до 12 секций включительно</div>
+            </div>
+            <span class="price">830 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/domkrat_pnevmaticheskiy_polarus_7_t_5096849.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292406.jpg" alt="Домкрат пневматический POLARUS 7 т">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/domkrat_pnevmaticheskiy_polarus_7_t_5096849.html">Домкрат пневматический POLARUS 7 т</a></div>
+                <div class="description">Домкрат пневматический POLARUS 7 т
+Пневматический подкатной домкрат грузоподъемностью 7 тонн подходит для всех видов автомобилей. 
+Устойчивый благодаря внутреннему телескопическому цилиндру</div>
+            </div>
+            <span class="price">27 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/m-106_stend_dlya_ispytaniya_i_regulirovki_forsunok_5096846.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292403.jpg" alt="М-106: стенд для испытания и регулировки форсунок">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/m-106_stend_dlya_ispytaniya_i_regulirovki_forsunok_5096846.html">М-106: стенд для испытания и регулировки форсунок</a></div>
+                <div class="description">М-106: стенд для испытания и регулировки форсунок
+Стенд М-106 предназначен для испытания и регулировки всех типов форсунок автомобильных и тракторных дизелей</div>
+            </div>
+            <span class="price">22 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/press_napolnyy_p40_5096844.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292394.jpg" alt="Пресс напольный П40">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/press_napolnyy_p40_5096844.html">Пресс напольный П40</a></div>
+                <div class="description">Пресс напольный П40
+Пресс напольный 40 т с ручным и пневмоприводом. 
+Начало формы
+Конец формы
+Гаражный гидравлический пресс. Насос в комплекте. Силовой цилиндр оснащен манометром</div>
+            </div>
+            <span class="price">79 060 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ds-9_gruzovoy_skaner_kitay_evropa_ssha_5096842.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292390.jpg" alt="DS-9 Грузовой сканер Китай, Европа, США ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ds-9_gruzovoy_skaner_kitay_evropa_ssha_5096842.html">DS-9 Грузовой сканер Китай, Европа, США </a></div>
+                <div class="description">DS-9 Грузовой сканер Китай, Европа, США 
+ОПИСАНИЕ
+Технические характеристики: 
+• Процессор 200 МГц SAMSUNG ARM 2410A SMD
+• Питание 12/24В/3A Постоянное напряжение
+• Дисплей 8-дюймовый TFT Цветной сенсорный экран
+• Разрешение 600*800 Матрица
+• </div>
+            </div>
+            <span class="price">115 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ustanovka_dlya_promyvki_maslyanoy_sistemy_art-122_5096841.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292387.jpg" alt="Установка для промывки масляной системы Арт-122  ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ustanovka_dlya_promyvki_maslyanoy_sistemy_art-122_5096841.html">Установка для промывки масляной системы Арт-122  </a></div>
+                <div class="description">Установка для промывки масляной системы Арт-122  
+Установка для промывки масляной системы ДВС пневматическая. Позволяет мягко и без ущерба для двигателя очистить масляные каналы от продуктов износа и отложений масел</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ustanovka_dlya_zameny_masla_akpp_art-322_5096840.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292384.jpg" alt="Установка для замены масла АКПП арт-322 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ustanovka_dlya_zameny_masla_akpp_art-322_5096840.html">Установка для замены масла АКПП арт-322 </a></div>
+                <div class="description">Установка для замены масла АКПП арт-322 
+Установка для промывки и замены жидкости в автоматических коробках передач. Электропитание 220В</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/pribor_dlya_ispytaniya_i_regulirovki_dizelnyh_forsunok_s60h_5096839.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292380.jpg" alt="Прибор для испытания и регулировки дизельных форсунок S60H">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/pribor_dlya_ispytaniya_i_regulirovki_dizelnyh_forsunok_s60h_5096839.html">Прибор для испытания и регулировки дизельных форсунок S60H</a></div>
+                <div class="description">Прибор для испытания и регулировки дизельных форсунок S60H
+Предназначен для испытания и регулировки форсунок дизельных двигателей на станционных и передвижных диагностических и ремонтных установок</div>
+            </div>
+            <span class="price">15 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/gidrotester_gt-600m_5096836.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292378.jpg" alt="ГИДРОТЕСТЕР ГТ-600М">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/gidrotester_gt-600m_5096836.html">ГИДРОТЕСТЕР ГТ-600М</a></div>
+                <div class="description">ГИДРОТЕСТЕР ГТ-600М
+Диагностический комплект «Гидротестер ГТ-600М» предназначен для определения технического состояния гидроагрегатов в грузоподъёмных кранов, прокатных станов, прессов и оборудования различного назначения гидроприводах машин, станко</div>
+            </div>
+            <span class="price">170 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/maslosbornik_5096834.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292377.jpg" alt="Маслосборник ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/maslosbornik_5096834.html">Маслосборник </a></div>
+                <div class="description">Маслосборник 
+Технические характеристики:
+Вакуум (Mpa): 0 ~ -0,1 
+Рабочее давление (Bar/Psi): 8-10 / 114-145 
+Емкость бака (л): 80 
+Скорость всасывания (л/мин): 1</div>
+            </div>
+            <span class="price">17 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/chetyrehstoechnyy_podemnik_pp16_5096830.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292367.jpg" alt="Четырехстоечный подъемник ПП16">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/chetyrehstoechnyy_podemnik_pp16_5096830.html">Четырехстоечный подъемник ПП16</a></div>
+                <div class="description">Четырехстоечный подъемник ПП16
+Подъем за колеса двухосных автомобилей и автобусов с диаметром колесного диска от 20 до 22 дюймов общей массой до 16 тонн. 
+Устанавливается на полу с допускаемым удельным давлением более 10 кг/см2</div>
+            </div>
+            <span class="price">340 430 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/stend_dlya_proverki_elektrooborudovaniya_skif_5096827.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5292366.jpg" alt="Стенд для проверки электрооборудования «СКИФ»">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/stend_dlya_proverki_elektrooborudovaniya_skif_5096827.html">Стенд для проверки электрооборудования «СКИФ»</a></div>
+                <div class="description">Стенд для проверки электрооборудования «СКИФ»
+Стенд предназначен для контроля технического состояния и регулировки снятого с автомобилей электрооборудования в условиях цехов автотранспортных предприятий и СТО
+Стенд позволяет выполнять:
+• Испытание</div>
+            </div>
+            <span class="price">78 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2015</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/kamaz_gaz_3309_gaz_3307_udlinenie_maz_4371_zubrenok_zil_5301_bychok_5096534.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5291914.jpg" alt="Камаз Газ 3309 Газ 3307 Удлинение Маз 4371 зубренок Зил 5301 бычок">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/kamaz_gaz_3309_gaz_3307_udlinenie_maz_4371_zubrenok_zil_5301_bychok_5096534.html">Камаз Газ 3309 Газ 3307 Удлинение Маз 4371 зубренок Зил 5301 бычок</a></div>
+                <div class="description">Удлиняем а/м такие как Газон, Газ 3307, Газ 3309, Маз 4371 зубренок Зил 5301 бычок
+Удлинение рамы под кузов длиной 5,1 и  6,2 м, 7,2 м колесные базы увеличатся на 800 мм и на 1300 мм</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2015</time>
+                                            Актау                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/prochee"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/prochee?page=23">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=19">19</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=20">20</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=21">21</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=22">22</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=23">23</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/prochee?page=24">24</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=25">25</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=26">26</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=27">27</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=28">28</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/prochee?page=25">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/prochee?page=46"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

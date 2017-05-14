@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jquery.maskedinput.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<title itemprop='name'>Подать бесплатное объявление в Казахстане | Разместить объявление бесплатно в Казахстане на Salexy.kz</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Для того, чтобы подать бесплатное объявление на Salexy.kz вам необходимо совершить несколько простых действий. Разместите объявление без регистрации и его увидеть тысячи жителей города %city_rod%. Дать объявление вместе с Salexy.kz Легко!" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                <script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div id="main">
+
+    <div class="breadcrumb-holder">
+        <div class="info-box">
+            <div class="inner">
+                <p>Salexy.kz - это более <strong class="orange">2 миллионов</strong> посетителей в месяц <br>и более <strong class="orange">5 миллионов</strong> актуальных объявлений</p>
+            </div>
+        </div>
+                <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Подать объявление в Казахстане</h1></span></li></ul>    </div>
+    <div class="two-columns-holder">
+        <div class="main-content">
+                        <form id="post_form" class="default-form new-item-form" action="/post" method="post">
+            <fieldset>
+                                    <div id="" class="row inline short"><label for="Users_email">Email</label><div class="input-text  requared"><input row-class="row inline short" class="text req" name="Users[email]" id="Users_email" type="text" maxlength="255" /></div></div>                
+
+                <div class="row inline short" style="display:none;">
+                    <label for="name">Имя</label>
+                    <div class="input-text requared">
+                        <input row-class="row inline short" class="text req" name="name" id="name" type="text" maxlength="255"/>
+                    </div>
+                </div>
+
+                <div class="region-group">
+                    <div class="row inline short"><label for="for_Регион">Регион</label><div class="holder"><div class="select-holder requared"><select id="Region" row-class="row inline short" class="req" name="Регион">
+<option value="">Выберите регион</option>
+<option value="1115">Акмолинская область</option>
+<option value="1122">Актюбинская область</option>
+<option value="1131">Алматинская область</option>
+<option value="1136">Атырауская область</option>
+<option value="1137">Восточно-Казахстанская область</option>
+<option value="1144">Жамбылская область</option>
+<option value="1147">Западно-Казахстанская область </option>
+<option value="1148">Карагандинская область</option>
+<option value="1154">Костанайская область</option>
+<option value="1156">Кызылординская область</option>
+<option value="1159">Мангистауская область</option>
+<option value="1161">Павлодарская область</option>
+<option value="1162">Северо-Казахстанская область</option>
+<option value="1167">Южно-Казахстанская область</option>
+</select></div></div></div>
+                    <div class="row inline short"><label for="AInfoForm_geo_id">Город</label><div class="holder"><div class="select-holder requared"><select row-class="row inline short" class="req" name="AInfoForm[geo_id]" id="AInfoForm_geo_id">
+</select></div></div></div>                </div>
+
+                <div class="row inline short"><label for="AInfoForm_district_id">Район</label><div class="holder"><div class="select-holder"><select row-class="row inline short" name="AInfoForm[district_id]" id="AInfoForm_district_id">
+</select></div></div></div>
+                <div class="category-group">
+                    <div class="row inline"><label for="for_Категория">Категория</label><div class="holder"><div class="select-holder requared"><select class="categories first req" id="section" name="Категория">
+<option value="">Выберите категорию</option>
+<option value="2">Автомобили и мотоциклы</option>
+<option value="846">Для бизнеса</option>
+<option value="953">Для детей</option>
+<option value="982">Для дома и дачи</option>
+<option value="1006">Животные и Растения</option>
+<option value="1485">Мобильные устройства</option>
+<option value="952">Мода, личные вещи</option>
+<option value="104">Недвижимость</option>
+<option value="149">Работа</option>
+<option value="1165">Услуги</option>
+<option value="1229">Хобби и отдых</option>
+<option value="847">Электронная техника</option>
+</select></div></div></div>                </div>
+
+                <input name="AInfoForm[category_id]" id="AInfoForm_category_id" type="hidden" />
+                <div id="" class="row inline last"><label for="AInfoForm_title">Заголовок</label><div class="input-text  requared"><input class="text req" row-class="row inline last" name="AInfoForm[title]" id="AInfoForm_title" type="text" maxlength="120" /></div></div>                                <div class="row inline price last">
+                <div class="row inline"><label for="AInfoForm_content">Полное описание</label><div class="input-text  requared"><textarea name="AInfoForm[content]" id="AInfoForm_content"></textarea></div></div>                </div>
+                <div class="row inline price last">
+                    <label class="price-title">Цена (стоимость услуги)</label>
+                    <div class="subrow">
+                        <div class="input-text"><input class="text" name="AInfoForm[price]" id="AInfoForm_price" type="text" /></div>
+                        <label>тг.</label>
+                    </div>
+                </div>
+
+                
+
+                <div class="row inline mobile-inline last">
+                    <label for="torg">Торг уместен</label>
+                    <div class="check-holder">
+                        <input id="ytAInfoForm_torg" type="hidden" value="0" name="AInfoForm[torg]" /><input name="AInfoForm[torg]" id="AInfoForm_torg" value="1" type="checkbox" />                    </div>
+                </div>
+
+                <div id="additional_fields"  class="last">
+                    <div id="fields">
+                                            </div>
+                </div>
+                <div id="" class="row inline last"><label for="AInfoForm_address">Адрес</label><div class="input-text "><input class="text" row-class="row inline last" name="AInfoForm[address]" id="AInfoForm_address" type="text" maxlength="80" /></div></div>
+                <div class="row inline short last">
+                    <label for="AInfoForm_title">Мобильный телефон</label>
+                    <div class="input-text requared">
+                        <input class="text input-type-tel" id="AInfoForm_phone" name="AInfoForm[phone]" type="text" maxlength="255" />                    </div>
+                </div>
+
+                <div id="" class="row inline last"><label for="AInfoForm_contact_person">Контактное лицо</label><div class="input-text  requared"><input class="text req" row-class="row inline last" name="AInfoForm[contact_person]" id="AInfoForm_contact_person" type="text" maxlength="255" /></div></div>
+                <div class="row inline last">
+                    <label>Фотографии <span class="text">Вы можете добавить не более 12 фотографий в своем объявлении.</span></label>
+                    <div id="aform_images" class="photo-block">
+                        <ul>
+                            <li class="add-photo">
+                                <div class="img-holder"><a href="#"></a></div>
+                                <input type="file">
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row inline last">
+                    <label for="AInfoForm_video_code">Видео с YouTube</label>
+                    <div class="input-text"><input class="text" placeholder="Например: https://www.youtube.com/watch?v=quW5pZ0j1-4" name="AInfoForm[video_code]" id="AInfoForm_video_code" type="text" /></div>
+                </div>
+                <div class="row inline last" id="service" style="display:none;"></div>
+                <div class="row inline submit last">
+                    <label class="empty"><a href="#">&nbsp;</a></label>
+                    <div class="holder">
+                        <div class="btns-holder">
+                            <input id="post-item" type="submit" value="Разместить"/>
+                                                    </div>
+                        <span class="info-text">Обращаем Ваше внимание, что поля, помеченные <br>* обязательны к заполнению</span>
+                    </div>
+                </div>
+
+            </fieldset>
+            </form>        </div>
+        <aside id="sidebar" class="ad-rules">
+                            <div class="item">
+                    <h3 class="active">Как продать быстрее?</h3>
+                    <ul>
+                        <li>Сделайте осмысленный заголовок, передающий суть объявления!</li>
+                        <li>Добавьте фотографии.</li>
+                        <li>Опишите товар или услугу подробно.</li>
+                        <li>Укажите реальную цену.</li>
+                    </ul>
+                </div>
+                <div class="item">
+                    <h3>Важные правила</h3>
+                    <ul>
+                        <li>Не размещайте несколько одинаковых объявлений.</li>
+                        <li>Не указывайте контактные данные в заголовке и тексте объявления. Для этого есть специальные поля!</li>
+                        <li>Не пишите цену в заголовке и тексте. Для цены есть отдельное поле!</li>
+                        <li>Не предлагайте товары и услуги, нарушающие законы или нормы морали.</li>
+                    </ul>
+                </div>
+                <div class="item">
+                    <h3>Где я?</h3>
+                    <p>Вы на странице размещения объявления крупнейшей доски объявлений Казахстана salexy.kz</p>
+                    <p>Подайте объявление в вашем городе прямо сейчас!</p>
+                </div>
+            
+        </aside>
+    </div>
+</div>
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/fileuploader.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery.mask.definitions={'i':'[0-9]'};
+jQuery("#AInfoForm_phone").mask("+7? (iii) iii-ii-ii",{'placeholder':'_'});
+
+        function getDistrict() {
+                var value = $('#AInfoForm_geo_id').val();
+                var label = $('#AInfoForm_district_id').parents('.row').find('label');
+                var mid = new Array(1961, 1966, 1977, 1980, 1981, 1991, 1992);
+
+                $.get('/post/getDistricts',{'geo_id':value}, function(response){
+                    if (response&&response!='') {
+                        $('#AInfoForm_district_id').html(response).parents('.row').show();
+                    } else {
+                        $('#AInfoForm_district_id').html('').parents('.row').hide();
+                    }
+                    $('#AInfoForm_district_id').selectmenu('refresh');
+                });
+
+                if ($.inArray( parseInt(value), mid)>-1) {
+                    label.text('Метро');
+                } else {
+                    label.text('Район');
+                }
+
+                if (value) {
+                    var options, street;
+                    options = { serviceUrl:'/city/StreetList?geo_id='+value };
+                }
+            }
+
+            //Подгружаем города районы при выборе города
+            $('#Region').selectmenu({
+                width : 'auto',
+                change:function(event,ui) {
+                    if($(this).val()!=''){
+                        $('#AInfoForm_geo_id').load('/post/getCities',{ region_id: $(this).val() }, function(){
+                            $('#AInfoForm_geo_id').selectmenu('refresh');
+                            getDistrict();
+                        });
+                        $('#AInfoForm_geo_id').parents('.row').show();
+                        
+                        if($('#AInfoForm_geo_id').val()!='' && $('#AInfoForm_category_id').val()!=''){
+                            $.post(
+                                '/post/getServices',
+                                {geo:$('#AInfoForm_geo_id').val(), category:$('#AInfoForm_category_id').val()},
+                                function(response){
+                                    if(response){
+                                        $('#service').html(response);
+                                        $('.last').show();
+                                    }
+                                }
+                            );
+                        }
+                        
+                        
+                    }else{
+                        $('#AInfoForm_geo_id').parents('.row').hide();
+                        $('#AInfoForm_district_id').html('').parents('.row').hide();
+                        $('.last').hide();
+                        
+                    }
+                }
+            });
+            
+
+            //Подгружаем районы при выборе города
+            $('#AInfoForm_geo_id').selectmenu({
+                width : 'auto',
+                change:function(event,ui) {
+                
+                    if($(this).val()!=''){
+                        if($('#AInfoForm_geo_id').val()!='' && $('#AInfoForm_category_id').val()!=''){
+                            $.post(
+                                '/post/getServices',
+                                {geo:$('#AInfoForm_geo_id').val(), category:$('#AInfoForm_category_id').val()},
+                                function(response){
+                                    if(response){
+                                        $('#service').html(response);
+                                        $('.last').show();
+                                    }
+                                }
+                            );
+                        }
+                        getDistrict();  
+                    }else{
+                        $('#AInfoForm_district_id').html('').parents('.row').hide();
+                        $('.last').hide();
+                    }            
+                }
+            });
+            
+            //Подгружаем районы, если город уже выбран
+            if($('#AInfoForm_geo_id').val()) {
+                getDistrict();  
+            }
+            if($('#AInfoForm_geo_id option').length==0) {
+                $('#AInfoForm_geo_id').closest('.row').hide();
+                
+            }
+            $('#post_form input').keyup(function() {
+                $('#ct').val(Number($('#ct').val())+1);
+            });
+            var addct = document.createElement('input');
+            addct.type = 'hidden';
+            addct.id = 'ct';
+            addct.name = 'ct';
+            addct.value = '0';
+            document.getElementById('post_form').appendChild(addct);
+    
+
+        new qq.FileUploaderBasic({
+            params: {},
+            button: $('#aform_images .add-photo')[0],   //DOM элемент, а не jquery объект!
+            action: '/post/uploadFile', //адрес серверного скрипта
+            allowedExtensions: ['jpg', 'jpeg', 'gif', 'png'],
+            onSubmit:function(id){
+                if($('#aform_images ul li').length == 13){
+                    alert('Загружено максимальное количество фотографий');
+                    return false;
+                }
+                $('#aform_images ul').append('<li class="loading" data-id="' + id + '"><div class="img-holder"><img src="/images/ajax-loader.gif" alt="Загрузка изображения"></div></li>');
+            },
+            onComplete: function(id, fileName, responseJSON){
+                if (responseJSON.status == true) {
+                    var file = responseJSON.folder+responseJSON.filename;
+                    var item = $('#aform_images li[data-id='+id+']');
+                    item.find('img').attr('src', responseJSON.crop);
+                    item.append($('<input type="hidden" name="Images[]">').val(responseJSON.image_id));
+                    item.append('<span class="title"><a href="#" class="delete">Удалить</a></span>');
+                    item.removeClass('loading');
+                } else {
+                    $('#aform_images li[data-id='+id+']').remove();
+                    if (responseJSON.message) {
+                        message = responseJSON.message;
+                    } else {
+                        message = 'Произошла ошибка при загрузке изображения, попробуйте позже';
+                    }
+    
+                    $.magnificPopup.open({
+                        items: {
+                            src: '<div class="white-popup">'+message+'</div>',
+                            type: 'inline'
+                        }
+                    })
+                }
+
+            },
+            showMessage: function(message){
+                $.magnificPopup.open({
+                    items: {
+                        src: '<div class="white-popup">'+message+'</div>',
+                        type: 'inline'
+                    }
+                });
+            }
+        });
+
+    
+
+        $('#aform_images').on('click', '.delete', function(){
+        $(this).closest('li').remove();
+        return false;
+        });
+    
+
+    $(document).on('change', '.categories.first', function() {
+        var self = this;
+
+        //Если выбрана категория
+        if ($(self).val()) {
+
+           if ($('.job-description')) { 
+                if ($(self).val() == 149) {
+                    $('.job-description').show(0);
+                } else {
+                    $('.job-description').hide(0);
+                }
+            }
+        }
+    })
+
+
+    
+    function setCategories(obj) {
+        
+        var self = obj;
+        var el = $(obj);
+
+        var realty = ($('#section').val()==104);
+        var job = ($('#section').val()==149);
+
+        if(realty) $('label[for=AInfoForm_address]').text('Адрес объекта');
+        else $('label[for=AInfoForm_address]').text('Адрес');
+
+        if(job) $('.price-title').text('Зарплата');
+        else $('.price-title').text('Цена (стоимость услуги)');
+
+        $('#additional_fields').hide();
+
+        $(self).parents('.row').nextAll('.subcategory').remove();
+
+        //Если выбрана категория
+        if ($(self).val()) {
+            //Получаем список подкатегорий
+            $.post('/post/getSubcategory', {category: el.val()}, function(response) {
+                if(response){
+                    //Если подкатегории получены       
+                    //Проверяем, есть ли у данной категории уже выведенные подкатегории
+                    if($(self).parents('.row').nextAll('.subcategory').length == 0){
+                        // Если нет подкатегорий, то выводим подкатегории
+                        $(self).closest('.category-group').append(response);
+                        $('.subcategory select').selectmenu({
+                            width : 'auto',
+                            change:function(event,ui) {
+                                setCategories(this);
+                            }
+                        });
+                        var priceTitle = el.find('option[value='+ el.val() +']').attr('data-price');
+                        if (priceTitle) {
+                            $('.price .price-title').text(priceTitle);
+                        }
+                    }
+                }else{
+                    //Если категория последнего уровня получаем поля
+                    $('#AInfoForm_category_id').val(el.val());
+                    $.post('/post/getFields', {category:el.val()}, function(response){
+                        if(response){
+                            $('#additional_fields').html(response);
+                            $('#additional_fields select').selectmenu({width : 'auto'});
+                            $('#additional_fields').show();
+                        }
+                    });
+                     if($('#AInfoForm_geo_id').val()!='' && $('#AInfoForm_category_id').val()!=''){
+                         $.post(
+                            '/post/getServices',
+                            {geo:$('#AInfoForm_geo_id').val(), category:$('#AInfoForm_category_id').val()},
+                            function(response){
+                                if(response){
+                                    $('#service').html(response);
+                                    $('.last').show();
+                                }
+                            }
+                        );
+                    }  
+                }   
+            })
+        }else{
+            $('.last').hide();
+        }
+        
+         
+        
+        
+    }
+
+    $('.categories').selectmenu({
+        width : 'auto',
+        change:function(event,ui) {
+             setCategories(this);
+        }
+    });
+    
+     $('.last').hide();
+    
+    
+
+        $('#post_form input[type=submit]').click(function () {
+            var button = $(this);
+            button.addClass('loading');
+            button.val('Проверяем...');
+            $.post('/post/validate', $('#post_form').serialize(), function (r) {
+                r = JSON.parse(r)
+                if (!$.isArray(r) && !$.isEmptyObject(r)) {
+                    $('.error-text').remove();
+                    $('.error').removeClass('error');
+
+                    for (var item in r) {
+                        if (item == 'AInfoForm_category_id') {
+                            $('.category-group select:last').addClass('error');
+                            $('.category-group .select-holder:last').addClass('error');
+                        } else if (item=='AInfoForm_geo_id') {
+                            $('.region-group select').addClass('error');
+                            $('.region-group .select-holder').addClass('error');
+                        } else {
+                            $('#' + item).addClass('error');
+                            $('#' + item).parents('.input-text').append($('<div class="error-text">').text(r[item][0]));
+                            $('#' + item).closest('.row').find('select, .select-holder').addClass('error');
+                        }
+                    }
+                    var error = $('.error').get(0)
+                    if (error) {
+                        $('html, body').animate({
+                            scrollTop: $(error).offset().top-50
+                        }, 200);
+                    }
+                    button.removeClass('loading');
+                    button.val('Публиковать');
+                    return false;
+                } else {
+                    button.val('Подождите...');
+                    $('#post_form').submit();
+                    return true;
+                }
+            });
+
+            console.log($('#AInfoForm_category_id').val());
+
+            return false;
+        })
+    
+});
+/*]]>*/
+</script>
+</body>
+</html>

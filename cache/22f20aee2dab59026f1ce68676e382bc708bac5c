@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Транспорт в Казахстане | Объявления о продаже б/у транспорта на Salexy.kz, страница 25</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже любых транспортных средств в Казахстане. Самые актуальные объявления о продаже автомобильного транспорта на Salexy.kzСтраница 25." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=2&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Автомобили и мотоциклы в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/legkovye_avtomobili">Легковые автомобили</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/gruzovye_avtomobili">Грузовые автомобили</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/motocikly">Мотоциклы и мототехника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/avtobusy">Автобусы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika">Спецтехника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/selhoz_technika">Сельхозтехника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/vodnyy_transport">Водный транспорт</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari">Запчасти и аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/shiny_i_diski">Шины и диски</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/prochee">Прочее</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_dlya_okleyki_taksi_5209788.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bb/06/bb06772b56c5f178025555201969dde1.jpg" alt="Пленка для оклейки такси">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_dlya_okleyki_taksi_5209788.html">Пленка для оклейки такси</a></div>
+                <div class="description">В наличии желтая глянцевая автомобильная пленка для оклейки такси. Желтый глянец отлично ложится на кузов автомобиля. Пленка хорошо тянется.
+В наличии - 4 оттенка</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zhidkaya_rezina_razlichnye_cveta_5209787.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5a/2b/5a2b914bc9aefabea3a8036252eec1d8.jpg" alt=" Жидкая резина различные цвета">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zhidkaya_rezina_razlichnye_cveta_5209787.html"> Жидкая резина различные цвета</a></div>
+                <div class="description">В наличии жидкая резина 450 мл, 550 мл. Жидкая пленка хорошо снимается, легко наносится</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/tonirovochnaya_plenka_5_hp_carbon_5209786.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2d/5d/2d5dfec817f62760ff2d156468f7d5f6.jpg" alt="Тонировочная пленка 5 HP Carbon">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/tonirovochnaya_plenka_5_hp_carbon_5209786.html">Тонировочная пленка 5 HP Carbon</a></div>
+                <div class="description">тонировка HP Carbon
+Светопропускаемость - 5%, 15%, 35%
+Не выгорает на солнце.
+- 2 слоя
+- Металлизированная
+- Оттенок/Цвет: Нейтральный, Супер Черный
+- Толщина: 1,5 mil
+- Срок службы - 5 лет.
+Атермальная тонировка.
+Не выгорает на солнце</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/tonirovochnaya_plenka_rulonami_assortiment_5209785.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4c/02/4c02f7b3b669e26a89afc781bc7c2c29.jpg" alt=" Тонировочная пленка рулонами, ассортимент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/tonirovochnaya_plenka_rulonami_assortiment_5209785.html"> Тонировочная пленка рулонами, ассортимент</a></div>
+                <div class="description">Предлагаем самые низкие цены на качественную тонировочную пленку без посредников! Предоставляем бесплатный образец материала для проверки качества!
+Доставка по Алматы, отправка по Казахстану</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtomobilnye_plenki_alkantara_samokleyuschayasya_5209753.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/97/e4/97e4b047b92c86ac0486eda2758931fd.jpg" alt="Автомобильные пленки, алькантара самоклеющаяся">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtomobilnye_plenki_alkantara_samokleyuschayasya_5209753.html">Автомобильные пленки, алькантара самоклеющаяся</a></div>
+                <div class="description">В наличии виниловые пленки по оптовым ценам.
+Без выходных, звоните до 22:00
+Самовывоз: Алматы
+Есть доставка!
+Интернет-магазин Тонируй.кз Тонирование.кз
+Продаем от 1 метра. Все позиции можно приобрести рулонами ( 30 метров</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5209752" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5209752", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/bordovaya_alkantara_avtomobilnaya_zamsha_1_5m_5209752.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/80/fe/80fe7391e6d93a6c0b13f8eaa91cc4e3.jpg" alt="Бордовая алькантара, автомобильная замша 1.5м">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/bordovaya_alkantara_avtomobilnaya_zamsha_1_5m_5209752.html">Бордовая алькантара, автомобильная замша 1.5м</a></div>
+                <div class="description">В наличии самоклеющаяся алькантара Темно-красная ( Бордовая).
+Также в наличии алькантара самоклейка черная, красная, бордовая ( темно-красная), серая, темно-серая, бежевая, песочная, слоновая кость, белая, синяя, фиолетовая, темно-синяя и тд</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_shlifovannyy_metall_chernyy_vinil_5209751.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/18/43/1843bedcfb1b5f6efb07e046f5a98e19.jpg" alt="Пленка шлифованный металл черный, винил">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_shlifovannyy_metall_chernyy_vinil_5209751.html">Пленка шлифованный металл черный, винил</a></div>
+                <div class="description">Виниловая автомобильная пленка шлифованный алюминий черного цвета имеет текстуру затертого металла. Данная виниловая пленка имитирует красивый зашлифованный металлический оттенок под солнечными лучами</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/alkantara_samokleyuschayasya_koreya_peschanyy_cvet_5209750.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/10/81/1081d3d23b889117146ce3cb58f41557.jpg" alt="Алькантара самоклеющаяся Корея, Песчаный цвет">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/alkantara_samokleyuschayasya_koreya_peschanyy_cvet_5209750.html">Алькантара самоклеющаяся Корея, Песчаный цвет</a></div>
+                <div class="description">В наличии оригинальная самоклеющаяся алькантара производства Кореи Песчаного цвета. ( Decoin. )
+Преимущества данного материала:
+Растяжение в 4 стороны.
+При растяжении не лысеет.
+Не выгорает.
+Очень приятная на ощупь</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/karbonovaya_plenka_pod_lakom_karbon_5209749.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/27/03/2703b19ead6fd4c8f4d3c77cba80faa0.jpg" alt="Карбоновая пленка под лаком, карбон 2Д">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/karbonovaya_plenka_pod_lakom_karbon_5209749.html">Карбоновая пленка под лаком, карбон 2Д</a></div>
+                <div class="description">Виниловая пленка 2д карбон под лаком
+Цвета: черный, золотистый, синий, белый, красный.
+Карбон под лаком максимально похож на настоящий карбон. Отлично подходит для отделки салона и кузова автомобиля</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_matovyy_hrom_zelenoe_yabloko_5209748.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/fe/3b/fe3bba3eeec6bcf0bcff1d63ac2b1b0e.jpg" alt="Пленка матовый хром зеленое яблоко Wrap">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_matovyy_hrom_zelenoe_yabloko_5209748.html">Пленка матовый хром зеленое яблоко Wrap</a></div>
+                <div class="description">В наличии зеленый матовый хром от TeckWrap.
+Пленка отлично ложится на авто.
+Легко тянется, имеет воздушные каналы.
+Ширина пленки - 152см</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/samokleyuschayasya_zamsha_alkantara_sinyaya_5209747.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/24/cc/24cc977df79231881aba457160312a26.jpg" alt="Самоклеющаяся замша, алькантара синяя">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/samokleyuschayasya_zamsha_alkantara_sinyaya_5209747.html">Самоклеющаяся замша, алькантара синяя</a></div>
+                <div class="description">несколько видов ворсов.
+2 оттенка синего цвета: более темный и светлый синий цвет самоклеющейся алькантары, светло-синяя алькантара, темно-синяя алькантара.
+Мягкая и приятная на ощупь. Остается красивый рисунок</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtovinil_matovyy_hrom_myatnyy_5209745.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/dc/08/dc08292fa8ea7807792db4cb7eb715df.jpg" alt=" Автовинил Матовый хром мятный, ментоловый металлик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtovinil_matovyy_hrom_myatnyy_5209745.html"> Автовинил Матовый хром мятный, ментоловый металлик</a></div>
+                <div class="description">Пленка на авто матовый хром ( металлик )
+Автопленка Ментоловый матовый хром ( изумрудный. ) в наличии!
+Также в наличии много цвнтов матовых хромов и других видов автовинила.
+Акция! от 10 метров 
+Отличное качество пленки.
+Толщина 150 мкр</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_glyancevaya_golubaya_avtoplenki_5209744.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bb/ea/bbea9ad35ff5cd400aae3b0513d78951.jpg" alt="Пленка глянцевая голубая, автопленки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_glyancevaya_golubaya_avtoplenki_5209744.html">Пленка глянцевая голубая, автопленки</a></div>
+                <div class="description">Глянцевая виниловая пленка для оклейки автомобиля. Пленка самоклеющаяся голубого цвета. Пленка универсальная подходит для полной оклейки кузова авто, вставок в салоне автомобиля, мебели, бытовой техники и т.д</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtoplenka_almaznaya_kroshka_salatovaya_5209743.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/55/78/55784ecc7d561f02284cd1def6cf8825.jpg" alt="Автопленка алмазная крошка салатовая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtoplenka_almaznaya_kroshka_salatovaya_5209743.html">Автопленка алмазная крошка салатовая</a></div>
+                <div class="description">Виниловая пленка алмазная крошка салатового цвета.
+Цвета в наличии алмазной крошки: черный, белый, фиолетовый, лайм, синий, красный, вишневый, салатовый, зеленый, хаки, голубой, темно-синий, светло-синий, бордовый, оранжевый, серая, золотая и др..</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/toner_na_fary_kislotnyy_salatovaya_5209741.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a6/58/a658627c06f8f2c99ddaa96cf0de41f5.jpg" alt="Тонер на фары кислотный, салатовая тонировка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/toner_na_fary_kislotnyy_salatovaya_5209741.html">Тонер на фары кислотный, салатовая тонировка</a></div>
+                <div class="description">В наличии тонировочная пленка на оптику салатовая. Кислотная пленка для фар используется для тонирования фонарей и противотуманок.
+Также в наличии огромный ассортимент тонеров на фары:
+Хамелеон, глянцевый тонер, матовый, алмазная крошка на фары</div>
+            </div>
+            <span class="price">2 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_dlya_bronirovaniya_kapota_5209740.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/67/34/6734f9b00e08754bc596f83a23c1b6b5.jpg" alt=" Пленка для бронирования капота, автопленки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_dlya_bronirovaniya_kapota_5209740.html"> Пленка для бронирования капота, автопленки</a></div>
+                <div class="description">В наличии защитная прозрачная автомобильная пленка. Пленка подходит для оклейки капота автомобиля, после нанесения автопленка совсем незаметная</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_pod_kamuflyazh_zimniy_avtovinil_5209739.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2d/97/2d97dc2e447b1996ac4bde558f52ed9e.jpg" alt="Пленка под камуфляж зимний, автовинил">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_pod_kamuflyazh_zimniy_avtovinil_5209739.html">Пленка под камуфляж зимний, автовинил</a></div>
+                <div class="description">В наличии пленка под камуфляж зиминий. 8 видов камуфляжной пленки</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/matovaya_belaya_plenka_vog_5209738.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/95/9a/959a18d33e7a5986860d3e0502010aa9.jpg" alt="Матовая белая пленка Vog">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/matovaya_belaya_plenka_vog_5209738.html">Матовая белая пленка Vog</a></div>
+                <div class="description">Виниловая пленка Белая матовая Premium класса Voguard
+В наличии имеются разные расцветки и текстуры данного бренда.
+Voguard является отличным материалом для оклейки автомобиля</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/matovaya_zolotaya_plenka_avtovinil_5209737.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/34/59/345938a1f249f8bececb10c61b011fed.jpg" alt="Матовая золотая пленка, автовинил">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/matovaya_zolotaya_plenka_avtovinil_5209737.html">Матовая золотая пленка, автовинил</a></div>
+                <div class="description">Матовая виниловая пленка золотистого цвета. Также в наличии: матовая пленка черная, серая, зеленая, белая, фиолетовая, красная, синяя, ментоловая, оранжевая, голубая, хаки, розовая.
+Пленка высокого качества.
+Возушные каналы есть</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/fioletovyy_matovyy_hrom_wrap_5209736.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/75/51/7551f9eeb7587542eca5f0f8605f5025.jpg" alt=" Фиолетовый матовый хром Wrap, автовинил">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/fioletovyy_matovyy_hrom_wrap_5209736.html"> Фиолетовый матовый хром Wrap, автовинил</a></div>
+                <div class="description">Виниловая автомобильная пленка матовый хром Фиолетового цвета</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly?page=25">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=21">21</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=22">22</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=23">23</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=24">24</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=25">25</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly?page=26">26</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=27">27</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=28">28</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=29">29</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly?page=30">30</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly?page=27">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly?page=500"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+        </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

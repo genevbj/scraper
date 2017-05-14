@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Автомобильные запчасти в Казахстане. Продать/купить запчасти на Salexy.kz, страница 2</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа и покупка запчастей в Казахстане. Бесплатные объявления Казахстана о продаже\покупке автозапчастей.
+Страница 2." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=100&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти и аксессуары в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/tyuning_i_avtozvuk">Тюнинг и автозвук</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti">Запчасти</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/pricepy">Прицепы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">Прочие аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/protivougonnye_ustroystva">Противоугонные устройства</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtomobilnaya_elektronika">Автомобильная электроника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka">Экипировка</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">Средства для ухода за авто</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/bagazhniki_boksy">Багажники, боксы</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/katok_opornyy_e4_01_23_003sb_5219644.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Каток опорный Э4.01.23.003сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/katok_opornyy_e4_01_23_003sb_5219644.html">Каток опорный Э4.01.23.003сб</a></div>
+                <div class="description">Э4.01.23.003сб опорный каток нового образца для тагильского
+экскаватора ЭО-5126. Устанавливается на ходовую часть экскаватора в количестве 14 штук.
+Крепится при помощи болтов к раме экскаватора на 8 отверстий, по 4 на
+каждом бугеле</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/blok_zolotnikov_eo_5122a_04_23_000-1sb_5219641.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Блок золотников ЭО.5122А.04.23.000-1сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/blok_zolotnikov_eo_5122a_04_23_000-1sb_5219641.html">Блок золотников ЭО.5122А.04.23.000-1сб</a></div>
+                <div class="description">ЭО.5122А.04.23.000-1сб Блок золотников применяется на экскаваторах ЭО-5122,ЭО-5124,ЭО-5124А,ЭО-5221,ЭО-5225, производства ВЭКС, ЭО-5126 производства ОАО НПК "Уралвагонзавод". Заводское исполнение. Масса 12,5 кг</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/gidrocilindr_rukoyati_eo-5126_eo-5126_29_08_000_5219638.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроцилиндр рукояти ЭО-5126 ЭО-5126.29.08.000">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/gidrocilindr_rukoyati_eo-5126_eo-5126_29_08_000_5219638.html">Гидроцилиндр рукояти ЭО-5126 ЭО-5126.29.08.000</a></div>
+                <div class="description">ЭО-5126.29.08.000 Гидроцилиндр рукояти для гусеничного экскаватора ЭО-5126 производства ОАО НПК Уралвагонзавод.
+Крепится к стреле и рукояти экскаватора ЭО-5126, отвечает за работу рукояти. Устанавливается на экскаватор в количестве одной штуки</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/reduktor_razdatochnyy_eo-5126_e4_11_08_000sb-8_5219636.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Редуктор раздаточный ЭО-5126 Э4.11.08.000сб-8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/reduktor_razdatochnyy_eo-5126_e4_11_08_000sb-8_5219636.html">Редуктор раздаточный ЭО-5126 Э4.11.08.000сб-8</a></div>
+                <div class="description">Э4.11.08.000сб-8 Редуктор насосной установки для гусеничных экскаватора ЭО-5126, ЭО-5225, ЭО-5124, ЭО-5124А, для колесного экскаватора ЭО-33211. Редуктор Э4.11.08.000 комплектуется гидронасосами 313.3.112.507</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/rychag_povorotnyy_verhniy_pravyy_e20_01_04_031-3_5219635.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Рычаг поворотный верхний правый Э20.01.04.031-3">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/rychag_povorotnyy_verhniy_pravyy_e20_01_04_031-3_5219635.html">Рычаг поворотный верхний правый Э20.01.04.031-3</a></div>
+                <div class="description">Э20.01.04.031-3 верхний правый поворотный рычаг применяется в ходовой системе экскаватора ЭО-33211 производства ОАО НПК Уралвагонзавод. В наличии и под заказ с минимальными сроками поставок. Заводского производства</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5219634" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5219634", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/katok_podderzhivayuschiy_eo-5126_e4_01_14_002sb_5219634.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Каток поддерживающий ЭО-5126 Э4.01.14.002сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/katok_podderzhivayuschiy_eo-5126_e4_01_14_002sb_5219634.html">Каток поддерживающий ЭО-5126 Э4.01.14.002сб</a></div>
+                <div class="description">Э4.01.14.002сб поддерживающий каток для гусеничного экскаватора ЭО-5126 ОАО НПК Уралвагонзавод. Применяется также на гусеничных экскаваторах ЭО-5124,ЭО-5124А,ЭО-5221,ЭО-5225,ЭО-5126</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/gidroapparat_reguliruyuschiy_e4_06_09_000sb_5219633.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроаппарат регулирующий Э4.06.09.000СБ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/gidroapparat_reguliruyuschiy_e4_06_09_000sb_5219633.html">Гидроаппарат регулирующий Э4.06.09.000СБ</a></div>
+                <div class="description">Э4.06.09.000СБ Гидроаппарат регулирующий для гусеничного экскаватора ЭО-5126 производства Уралвагонзавод.
+Также применяется на экскаваторах ЭО-5122,ЭО-5124,ЭО-5124А,ЭО-5221,ЭО-5126,ЭО-5225 производства ВЭКС, идет под каталожным номером 5124.09.06</div>
+            </div>
+            <span class="price">6 111 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/os_strela-rukoyat_33211_30_00_001_5219631.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Ось стрела-рукоять 33211.30.00.001">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/os_strela-rukoyat_33211_30_00_001_5219631.html">Ось стрела-рукоять 33211.30.00.001</a></div>
+                <div class="description">33211.30.00.001 ось скрепляет между собой рукоять и стрелу колесного
+экскаватора ЭО-33211. Ось 33211.30.00.001 применяется на экскаваторах ЭО-33211, ЭО-33211А, ЭО-33211АК
+производства ОАО НПК "УралВагонЗавод", г. Нижний тагил</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/os_strely_eo-5126_02_00_004_5219630.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Ось стрелы ЭО-5126.02.00.004">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/os_strely_eo-5126_02_00_004_5219630.html">Ось стрелы ЭО-5126.02.00.004</a></div>
+                <div class="description">Ось ЭО-5126.02.00.004 соединяет стрелу гусеничного экскаватора ЭО-5126 с поворотной платформой. Масса — 43кг. В наличии большой выбор запчастей на экскаваторы ЭО-5126, ЭО-5225, ЭО-5221, ВЭКС 30L.
+
+Доставка по регионам РФ и СНГ</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/reduktor_bortovoy_e20_24_05_080sb_eo-33211_5219526.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Редуктор бортовой Э20.24.05.080сб ЭО-33211">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/reduktor_bortovoy_e20_24_05_080sb_eo-33211_5219526.html">Редуктор бортовой Э20.24.05.080сб ЭО-33211</a></div>
+                <div class="description">Э20.24.05.080сб бортовой колесный редуктор для экскаватора ЭО-33211
+производства ОАО "НПК УралВагонЗавод". Применяется в ведущем мосту
+экскаватора ЭО-33211. В редуктор Э20.24.05.080сб входят следующие
+запасные части:
+1. Корпус водила Э20.01.04</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/support_e20_01_04_014_5219525.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Суппорт Э20.01.04.014">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/support_e20_01_04_014_5219525.html">Суппорт Э20.01.04.014</a></div>
+                <div class="description">Э20.01.04.014 суппорта применяются в тормозной системе переднего и
+заднего мостов колесного экскаватора ЭО-33211 ОАО "НПК
+УралВагонЗавод". Суппорт отвечает Э20.01.04.014 за торможение экскаватора,
+комплектуется торомзными колодками Э20.01.04.025</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/tyaga_kovsha_e4_29_02_000sb_5219524.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Тяга ковша Э4.29.02.000сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/tyaga_kovsha_e4_29_02_000sb_5219524.html">Тяга ковша Э4.29.02.000сб</a></div>
+                <div class="description">Тяга ковшевая Э4.29.02.000сб применяется для управления ковшом
+экскаватора ЭО-5126 г. Нижний Тагил. Тяга скрепляет между собой ковш,
+рычаги ковша и гидроцилиндр ковша. В наличии, на складе. Заводского
+производства</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/tyaga_poperechnaya_e20_80_002sb_5219523.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Тяга поперечная Э20.80.002сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/tyaga_poperechnaya_e20_80_002sb_5219523.html">Тяга поперечная Э20.80.002сб</a></div>
+                <div class="description">Э20.80.002сб поперечная тяга для колесного экскаватора ЭО-33211 производства ОАО НПК Уралвагонзавод. В наличии и под заказ с минимальными сроками поставок. Заводского производства</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/shesternya_e4_03_01_017_5219521.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Шестерня Э4.03.01.017">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/shesternya_e4_03_01_017_5219521.html">Шестерня Э4.03.01.017</a></div>
+                <div class="description">4.03.01.017 — шестерня (бегунок) поворотного редуктора
+Э4.03.01.100сб, который применяется на гусеничных экскаваторах
+ЭО-5126, ЭО-5225, ЭО-5221, ВЭКС-30L. Шестерня Э4.03.01</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/kolodka_tormoznaya_e20_01_04_025_5219518.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Колодка тормозная Э20.01.04.025">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/kolodka_tormoznaya_e20_01_04_025_5219518.html">Колодка тормозная Э20.01.04.025</a></div>
+                <div class="description">Э20.01.04.025 тормозные колодки применяются на колесных экскаваторах ЭО-33211, ЭО-33211А, ЭО-33211АК производства ОАО НПК "УРАЛВАГОНЗАВОД".
+Тормозная колодка Э20.01.04.025 крепится к суппорту Э20.01.04</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/kollektor_centralnyy_eo-33211_e20_01_06_001sb_5219509.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Коллектор центральный ЭО-33211 Э20.01.06.001сб">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/kollektor_centralnyy_eo-33211_e20_01_06_001sb_5219509.html">Коллектор центральный ЭО-33211 Э20.01.06.001сб</a></div>
+                <div class="description">20.01.06.001сб коллектор центральный крепится к раме хода экскаватора при помощи болтов, устанавливается на раму по оси вращения платформы.
+Центральный коллектор Э20.01.06</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/gidrocilindr_autrigera_e20_01_11_001sb-1_5219498.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроцилиндр аутригера Э20.01.11.001СБ-1">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/gidrocilindr_autrigera_e20_01_11_001sb-1_5219498.html">Гидроцилиндр аутригера Э20.01.11.001СБ-1</a></div>
+                <div class="description">Э20.01.11.001СБ-1 гидроцилиндр аутригера применяется на колесных экскаваторах ЭО-33211, ЭО-33211А, ЭО-33211АК производства ОАО НПК "УРАЛВАГОНЗАВОД" в системе гидрооборудования шасси.
+Назначение гидроцилиндра Э20.01.11</div>
+            </div>
+            <span class="price">121 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/gidrocilindr_rukoyati_12_208_0_000-1_5219494.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроцилиндр рукояти 12.208.0.000-1">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/gidrocilindr_rukoyati_12_208_0_000-1_5219494.html">Гидроцилиндр рукояти 12.208.0.000-1</a></div>
+                <div class="description">12.208.0.000-1 гидроцилиндр рукояти применяется на колесных экскаваторах ЭО-33211, ЭО-33211А, ЭО-33211АК производства ОАО НПК "УРАЛВАГОНЗАВОД".
+Масса - 170 кг. Гидроцилиндр 12.208.0</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/gidrocilindr_povorota_koles_e20_80_022sb-1_5219492.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Гидроцилиндр поворота колес Э20.80.022сб-1">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/gidrocilindr_povorota_koles_e20_80_022sb-1_5219492.html">Гидроцилиндр поворота колес Э20.80.022сб-1</a></div>
+                <div class="description">Э20.80.022сб-1 гидроцилиндр поворота колес применяется на колесных экскаваторах ЭО-33211, ЭО-33211А, ЭО-33211АК производства ОАО НПК "УРАЛВАГОНЗАВОД" в системе гидрооборудования шасси</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/koleso_napravlyayuschee_4227_16_24_100_5219490.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Колесо направляющее 4227.16.24.100">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/koleso_napravlyayuschee_4227_16_24_100_5219490.html">Колесо направляющее 4227.16.24.100</a></div>
+                <div class="description">4227.16.24.100 направляющее колесо применяется в ходовой части гусеничных экскаваторов ЭО-4225, ЭО-4225А, ЭО-4225А-07, ЭО-4225А-061, ЕТ-26-20 Ковровского Экскаваторного Завода (г. Ковров)</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.04.2017</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=2">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=2">2</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=4">4</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=5">5</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=6">6</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=7">7</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=10">10</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=4">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=137"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

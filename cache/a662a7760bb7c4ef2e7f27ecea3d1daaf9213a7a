@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Прочие объявления о продаже транспортных средств в Казахстане., страница 12</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Объявления о продаже прочих видов транспорта в Казахстане. Бесплатная доска объявлений Salexy.kzСтраница 12." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/prochee" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/prochee" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=103&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Прочее в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/antiblikovyy_kozyrek_dlya_avtomobilya_5155161.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5413021.jpg" alt="Антибликовый козырек для автомобиля">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/antiblikovyy_kozyrek_dlya_avtomobilya_5155161.html">Антибликовый козырек для автомобиля</a></div>
+                <div class="description">Материал, из которого изготовлены два солнцезащитных козырька See-Clear Visor, по своим свойствам аналогичен тому, который используется в шлемах пилотов военной авиации. Дневной козырек поглощает лишний свет и сглаживает перепады его интенсивности</div>
+            </div>
+            <span class="price">1 990 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/avtostrahovanie_bystro_vygodno_nadezhno_5154926.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="АВТОСТРАХОВАНИЕ! Быстро! Выгодно! Надежно!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/avtostrahovanie_bystro_vygodno_nadezhno_5154926.html">АВТОСТРАХОВАНИЕ! Быстро! Выгодно! Надежно!</a></div>
+                <div class="description">Автострахование и все виды страхования! 
+
+Самые выгодные условия! Скидки от 10%!
+
+Работаем со всеми страховыми компаниями, в любое удобное для Вас время!
+
+При страховании нескольких автомобилей, соответственно размер скидки увеличивается!
+
+Ин</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/avtoelektrika_5154817.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5422641.jpg" alt="Автоэлектрика установка сигнализация ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/avtoelektrika_5154817.html">Автоэлектрика установка сигнализация </a></div>
+                <div class="description">Автоэлектрика замена электропроводки на грузовых и легковых автомашин ремонт стартеров генераторов установка сигнализации и навигацио́нных спу́тниковых систе́м  доп- оборудования любой сложности Возможно ВЫЕЗД на место,запуск автомобилей,,,</div>
+            </div>
+            <span class="price">1 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/podmetalno-uborochnaya_mashina_agata_zm-2000_5154703.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5412141.jpg" alt="Подметально-уборочная машина AGATA ZM-2000">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/podmetalno-uborochnaya_mashina_agata_zm-2000_5154703.html">Подметально-уборочная машина AGATA ZM-2000</a></div>
+                <div class="description">Подметально-уборочная машина AGATA ZM-2000 
+предназначена для уборки твёрдых поверхностей</div>
+            </div>
+            <span class="price">1 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/remont_restavraciya_lobovyh_stekol_skoly_treschiny_nedorogo_5154052.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5410520.jpg" alt="Ремонт (реставрация) лобовых стекол. Сколы, трещины. Недорого.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/remont_restavraciya_lobovyh_stekol_skoly_treschiny_nedorogo_5154052.html">Ремонт (реставрация) лобовых стекол. Сколы, трещины. Недорого.</a></div>
+                <div class="description">НЕДОРОГО РЕМОНТ (РЕСТАВРАЦИЯ) ЛОБОВЫХ СТЕКОЛ. СКОЛОВ И ТРЕЩИН. ЕСТЬ ВЫЕЗД.  САМ НАХОЖУСЯ Р-Н ПАРКА ГОРЬКОГО. 
+Под сколом понимают такое повреждение, когда от поверхности отрывается небольшая часть стеклянного слоя</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5154039" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5154039", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://temirtau.salexy.kz/c/kuplyu_ne_rabochie_akkumulyatory_5154039.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5410454.jpg" alt="Куплю не рабочие аккумуляторы">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://temirtau.salexy.kz/c/kuplyu_ne_rabochie_akkumulyatory_5154039.html">Куплю не рабочие аккумуляторы</a></div>
+                <div class="description">Куплю свенцовые не рабочие Аккумуляторы, 150 тг за кг. Состояние не имеет значение. Звонить с 10.00 до 20.00</div>
+            </div>
+            <span class="price">180 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.04.2016</time>
+                                            Темиртау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/giroskutery_optom_iz_kitaya_5153467.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409225.jpg" alt="Гироскутеры оптом из Китая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/giroskutery_optom_iz_kitaya_5153467.html">Гироскутеры оптом из Китая</a></div>
+                <div class="description">Оптовая продажа гироскутеров из Китая. Необычное и экологически чистое средство для передвижения по городу. 
+Перемещаться на устройстве можно вперед, назад,
+а также осуществлять повороты</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/giroskutery_optom_iz_kitaya_5153466.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409222.jpg" alt="Гироскутеры оптом из Китая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/giroskutery_optom_iz_kitaya_5153466.html">Гироскутеры оптом из Китая</a></div>
+                <div class="description">Оптовая продажа гироскутеров из Китая. Необычное и экологически чистое средство для передвижения по городу. 
+Перемещаться на устройстве можно вперед, назад,
+а также осуществлять повороты</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/giroskutery_optom_iz_kitaya_5153465.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409218.jpg" alt="Гироскутеры оптом из Китая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/giroskutery_optom_iz_kitaya_5153465.html">Гироскутеры оптом из Китая</a></div>
+                <div class="description">Оптовая продажа гироскутеров из Китая. Необычное и экологически чистое средство для передвижения по городу. 
+Перемещаться на устройстве можно вперед, назад,
+а также осуществлять повороты</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/giroskutery_optom_iz_kitaya_5153463.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409211.jpg" alt="Гироскутеры оптом из Китая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/giroskutery_optom_iz_kitaya_5153463.html">Гироскутеры оптом из Китая</a></div>
+                <div class="description">Оптовая продажа гироскутеров из Китая. Необычное и экологически чистое средство для передвижения по городу. 
+Перемещаться на устройстве можно вперед, назад,
+а также осуществлять повороты</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/giroskutery_optom_iz_kitaya_5153462.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5409206.jpg" alt="Гироскутеры оптом из Китая">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/giroskutery_optom_iz_kitaya_5153462.html">Гироскутеры оптом из Китая</a></div>
+                <div class="description">Оптовая продажа гироскутеров из Китая. Необычное и экологически чистое средство для передвижения по городу. 
+Перемещаться на устройстве можно вперед, назад,
+а также осуществлять повороты</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtostrahovanie_kruglosutochno_5153402.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Автострахование  круглосуточно">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtostrahovanie_kruglosutochno_5153402.html">Автострахование  круглосуточно</a></div>
+                <div class="description">Услуги авто-страхованию: Комеск Омыр, Номад, Нур полис, Евразия, Казахинстрах, Номад, Аманат, Халык полис, Казком полис. 
+РАБОТАЕМ КРУГЛОСУТОЧНО!!!
+
+Доставка полисов</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/trebuetsya_rabotnik_na_shinomontazh_5153330.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="требуется работник на шиномонтаж">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/trebuetsya_rabotnik_na_shinomontazh_5153330.html">требуется работник на шиномонтаж</a></div>
+                <div class="description">требуется работник на шиномонтаж. С опытом работы</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_avtobusa_s_voditelem_v_gorode_shymkent_5153077.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408555.jpg" alt="Аренда автобуса с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_avtobusa_s_voditelem_v_gorode_shymkent_5153077.html">Аренда автобуса с водителем в городе Шымкент</a></div>
+                <div class="description">Воспользуйтесь услугами аренды комфортабельных автобусов транспортной компании «Гранд Алем» по городу Шымкент</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_mikroavtobusa_s_voditelem_v_gorode_shymkent_5153075.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408545.jpg" alt="Аренда микроавтобуса с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_mikroavtobusa_s_voditelem_v_gorode_shymkent_5153075.html">Аренда микроавтобуса с водителем в городе Шымкент</a></div>
+                <div class="description">Микроавтобусы с водителем в аренду предлагает транспортная компания «Гранд Алем» в городе Шымкент</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_minivena_s_voditelem_v_gorode_shymkent_5153070.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408536.jpg" alt="Аренда минивена с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_minivena_s_voditelem_v_gorode_shymkent_5153070.html">Аренда минивена с водителем в городе Шымкент</a></div>
+                <div class="description">Транспортная компания «Гранд Алем» предлагает услуги аренды минивэна с водителем в городе Шымкент. К вашим услугам минивэны марок Hyundai, Toyota, Volkswagen, Mercedes, вместимостью до 8 мест</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_vnedorozhnika_s_voditelem_v_gorode_shymkent_5153069.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408530.jpg" alt="Аренда внедорожника с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_vnedorozhnika_s_voditelem_v_gorode_shymkent_5153069.html">Аренда внедорожника с водителем в городе Шымкент</a></div>
+                <div class="description">Транспортная компания «Гранд Алем» предлагает большой выбор внедорожников с водителем в аренду по городу Шымкент. К вашему вниманию представлены проверенные внедорожники от известных марок Мерседес, Лексус, Тойота</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_avto_predstavitelskogo_klassa_s_voditelem_v_gorode_shymkent_5153068.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408526.jpg" alt="Аренда авто представительского класса с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_avto_predstavitelskogo_klassa_s_voditelem_v_gorode_shymkent_5153068.html">Аренда авто представительского класса с водителем в городе Шымкент</a></div>
+                <div class="description">Транспортная компания «Гранд Алем» представляет вашему вниманию услуги аренды авто представительского класса по городу Шымкент</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_avto_biznes_klassa_s_voditelem_v_gorode_shymkent_5153063.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408518.jpg" alt="Аренда авто бизнес класса с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_avto_biznes_klassa_s_voditelem_v_gorode_shymkent_5153063.html">Аренда авто бизнес класса с водителем в городе Шымкент</a></div>
+                <div class="description">Услуга аренды авто бизнес класса в транспортной компани «Гранд Алем» превосходно подойдет для передвижения по городу Шымкент и решения деловых вопросов</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_avto_s_voditelem_v_gorode_shymkent_5153062.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5408507.jpg" alt="Аренда авто с водителем в городе Шымкент">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_avto_s_voditelem_v_gorode_shymkent_5153062.html">Аренда авто с водителем в городе Шымкент</a></div>
+                <div class="description">Транспортная компания "Гранд Алем" предлагает широкий выбор автомобилей в аренду с водителем по городу Шымкент. К Вашим услугам комфортные легковые автомобили самых известных брендов Тайота, Мерседес, Хюндай, Киа</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/prochee"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/prochee?page=12">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=8">8</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=9">9</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=10">10</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=11">11</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=12">12</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/prochee?page=13">13</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=14">14</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=15">15</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=16">16</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=17">17</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/prochee?page=14">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/prochee?page=46"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

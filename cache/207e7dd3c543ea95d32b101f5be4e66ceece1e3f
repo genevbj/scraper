@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Краны и манипуляторы в Казахстане. Объявления Казахстана о продаже кранов</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Новые и бу Краны и манипуляторы в Казахстане. Бесплатная доска объявлений Salexy.kz
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/spectehnika/krany_manipulatory" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1320&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/spectehnika" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika" itemprop="item"><span itemprop="name">Спецтехника</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Краны и манипуляторы в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/avtokrany">Автокраны</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/bashennyy_kran">Башенные краны</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/kmu">КМУ</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/gidromanipulyatory">Гидроманипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/manipulyatory">Манипуляторы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika/krany_manipulatory/prochie">Прочие</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_5216261.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_5216261.html">Продам</a></div>
+                <div class="description">Башенный кран КБ309ХЛ; КБ402В; КБ403Б; КБ405.1А; КБ408.21.02; КБ271А. 
+Гусеничные краны РДК250; ДЭК251; МКГ40; КС.
+Козловые и мостовые краны.
+Комплектующие части б/у к данным кранам. Проведем демонтаж, погрузку, доставку данной спецтехники</div>
+            </div>
+            <span class="price">500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.04.2017</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/uslugi_manipulyatora_5214867.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/74/2e/742e4b2d8a5d25ded00cac38863f9aff.jpg" alt="Услуги манипулятора">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/uslugi_manipulyatora_5214867.html">Услуги манипулятора</a></div>
+                <div class="description">кран 3 тонны
+авто 6 тонн
+г</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2017</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/uslugi_arenda_krana_ks_4361_5213939.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/bf/ba/bfba0e2cf18f82dbade095f84dc2f627.jpg" alt="Услуги, аренда крана КС 4361 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/uslugi_arenda_krana_ks_4361_5213939.html">Услуги, аренда крана КС 4361 </a></div>
+                <div class="description">Аренда долгосрочная крана КС 4361,г/п 10тн., высота подьема до 12 м.,с крановщиком. ГСМ за счет арендатора. Нал., безнал. ТОО. Оплата по факту</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.03.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/uslugi_avtovyshka_17_metrov_manipulyator_5213321.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e6/8c/e68c76f9cd34818258039ab9430afac8.jpg" alt="Услуги автовышка 17 метров, манипулятор, эвакуатор, грузоперевозки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/uslugi_avtovyshka_17_metrov_manipulyator_5213321.html">Услуги автовышка 17 метров, манипулятор, эвакуатор, грузоперевозки</a></div>
+                <div class="description">Манипулятор, эвакуатор, авто вышка, кран До 8 тон. Вылет стрелы до 17 метров, грузоподъемность машины 10 т</div>
+            </div>
+            <span class="price">1 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.03.2017</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kokshetau.salexy.kz/c/manipulyator_evakuator_avtovyshka_kran_gruzoperevozki_5213309.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a3/f7/a3f77369f639aa062bc558eaee304a5e.jpg" alt="Услуги манипулятор, эвакуатор, автовышка, кран, грузоперевозки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kokshetau.salexy.kz/c/manipulyator_evakuator_avtovyshka_kran_gruzoperevozki_5213309.html">Услуги манипулятор, эвакуатор, автовышка, кран, грузоперевозки</a></div>
+                <div class="description">Манипулятор, эвакуатор, авто вышка, кран До 8 тон. Вылет стрелы до 17 метров, грузоподъемность машины 10 т</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.03.2017</time>
+                                            Кокшетау                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5211867" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5211867", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taraz.salexy.kz/c/uslugi_avtokrana_5211867.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/74/f0/74f077f47d998ac8e26949831ce1da90.jpg" alt="Услуги автокрана">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taraz.salexy.kz/c/uslugi_avtokrana_5211867.html">Услуги автокрана</a></div>
+                <div class="description">Оказываем услуги автокрана и спецтехники погрузчик, экскаватор и многое другое. Нал перечисления все документы. Город и область и рк</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.03.2017</time>
+                                            Тараз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/gruzoperevozki_uslugi_manipulyatora_v_almaty_5211460.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d8/85/d8851ace7113c046ae2b157c681ee02b.jpg" alt="Грузоперевозки, услуги манипулятора В алматы от 5000 тыс/час">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/gruzoperevozki_uslugi_manipulyatora_v_almaty_5211460.html">Грузоперевозки, услуги манипулятора В алматы от 5000 тыс/час</a></div>
+                <div class="description">Грузоперевозки, Манипулятор любых сложностей без выходных!ширина кузова 2,45, длина 6,50 + лопата 1,5м. длина крана 8м</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.02.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/prodam_avtokran_fablok_5211123.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a6/a6/a6a60cfe30861a394641d4af17e4a60a.jpg" alt="Продам автокран Fablok">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/prodam_avtokran_fablok_5211123.html">Продам автокран Fablok</a></div>
+                <div class="description">Продам автокран Fablok 1991 года, грузоподъемность 28 тонн, вылет стрела 24 метра</div>
+            </div>
+            <span class="price">6 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.02.2017</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/usluga_arenda_avtokrana_5210321.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a2/33/a233fbabb6d961770eca960660619dec.jpg" alt="Услуга аренда автокрана ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/usluga_arenda_avtokrana_5210321.html">Услуга аренда автокрана </a></div>
+                <div class="description">Предлагаем услугу автокрана Zoomlion QY25 с опытным оператором. автокран 2014 г. длина основной стрелы 38 метров</div>
+            </div>
+            <span class="price">7 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.02.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_deshevo_krany_bashennye_marki_5202965.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/39/05/3905474f512eae13e846b6e08f2b7c50.jpg" alt="Продам дешево краны башенные марки КБ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_deshevo_krany_bashennye_marki_5202965.html">Продам дешево краны башенные марки КБ</a></div>
+                <div class="description">Продаем краны башенные марки КБ-403, 405, 408. Состояние рабочее.
+КБ-403 1991 г. в., КБ-403Б 1990 г.в.- 1200 000 руб., КБ-405.1А в наличие 5 ед. 1987-1991 г. в.- 1150 000 руб., КБ-408 1991 г.в.- 1800 000 руб</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.12.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_kb-308_v_otlichnom_rabochem_5202964.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8c/1d/8c1da5e25aeba263740a2b2d12b1f2bc.jpg" alt="Продам КБ-308 в отличном рабочем состоянии">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_kb-308_v_otlichnom_rabochem_5202964.html">Продам КБ-308 в отличном рабочем состоянии</a></div>
+                <div class="description">Продам полноповоротный башенный кран на рельсовом ходу КБ-308. Предназначен для возведения зданий высотой до 36 метров и массой монтируемых элементов до 8 тонн.
+При максимальном вылете стрелы 25 метров грузоподъемность 4 тонны. Кран 1987 г.в</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.12.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/gidromotory_gidronasosy_5201758.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/dc/79/dc797fa1887ea476ae06ddaf7b8b4734.jpg" alt="Гидромоторы,гидронасосы">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/gidromotory_gidronasosy_5201758.html">Гидромоторы,гидронасосы</a></div>
+                <div class="description">Продам г/моторы, г/насосы 310.3.112; 310.3.56;  310.112; 310.2.112; 303.3.112.501; 313.3.112.5004; 210.12</div>
+            </div>
+            <span class="price">80 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.12.2016</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/uslugi_arendy_krana_bashennogo_kb-408_21_5197187.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/b3/f5/b3f5d1c190c51a6b920c670545dc5195.jpg" alt="Услуги аренды крана башенного КБ-408.21">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/uslugi_arendy_krana_bashennogo_kb-408_21_5197187.html">Услуги аренды крана башенного КБ-408.21</a></div>
+                <div class="description">Кран башенный на рельсовом ходу. Грузоподъемность 10 т., на конце стрелы 3 т., высота подъема до 72 м., с длиной стрелы 40 м.
+ТО 2 раза в неделю, аварийный выезд 24\7</div>
+            </div>
+            <span class="price">900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.11.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kran_bashennyy_qtz125_5194527.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Кран  башенный QTZ125 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kran_bashennyy_qtz125_5194527.html">Кран  башенный QTZ125 </a></div>
+                <div class="description">грузоподъёмность	8 тонн
+вылет  стрелы	50 метров
+высота подъёма	28,6 метров
+год выпуска	2007 год</div>
+            </div>
+            <span class="price">25 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2016</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-1001_5193649.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/f3/df/f3df5d99a6276b3218df25e0bc75b2b4.jpg" alt="Дизель-электрический кран ДЭК-1001">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-1001_5193649.html">Дизель-электрический кран ДЭК-1001</a></div>
+                <div class="description">Продам дизель-электрический кран ДЭК-1001 с длиной стрелы (основная/максимальная) 15,0/70,0 метров грузоподъемностью 100 тонн. Работа от электрической сети 380В/50Г. Встроенная дизель-генераторная установка, мощностью 150 кВт</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-401_5193648.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/91/08/91083d105a1a850a818cc4e2c73730a9.jpg" alt="Дизель-электрический кран ДЭК-401">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-401_5193648.html">Дизель-электрический кран ДЭК-401</a></div>
+                <div class="description">Продам дизель-электрический кран ДЭК-401 грузоподъемностью 40 тонн. Длина стрелы (основная/максимальная) 15,0/50,0 метров. Масса груза при передвижении 40 тонн</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-321_5193647.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3b/66/3b66a024279c9224c2b3cad610d9ce5e.jpg" alt="Дизель-электрический кран ДЭК-321">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-321_5193647.html">Дизель-электрический кран ДЭК-321</a></div>
+                <div class="description">Продам дизель-электрический кран ДЭК-321 грузоподъемностью 32 тонны, длина стрелы (основная/максимальная) 14,0/32,75 м. Масса груза при передвижении 32 тонны</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-251_5193646.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/da/82/da82f9d73b3f31e025715e9f0e495e2f.jpg" alt="Дизель-электрический кран ДЭК-251">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/dizel-elektricheskiy_kran_dek-251_5193646.html">Дизель-электрический кран ДЭК-251</a></div>
+                <div class="description">Продам дизель-электрический кран ДЭК-251 длина стрелы (основная/максимальная) 14,0/32,75 метров, грузоподъемностью 25 тонн. Высота подъема груза - 32,3 метра. Масса груза при передвижении - 25 тонн. Работа от электрической сети 380В/50Г</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/avtokran_ks-65717_5193644.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5c/7b/5c7b45576037834917830eb08abb0e03.jpg" alt="Автокран КС-65717">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/avtokran_ks-65717_5193644.html">Автокран КС-65717</a></div>
+                <div class="description">Продам автомобильный кран КС-65717 с длиной стрелы 34 метра грузоподъемностью 50 тонн на шасси Камаз 8х4 и 8х8, опорный контур 7,8х7,4/6,6м. Состояние новое.  Комфортабельная кабина оператора с мониторами обзора, управления и безопасности</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/avtokran_ks-55733_5193642.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/ac/30/ac3067e4c365664581093a0fa0b8defb.jpg" alt="Автокран КС-55733">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/avtokran_ks-55733_5193642.html">Автокран КС-55733</a></div>
+                <div class="description">Продам автомобильный кран КС-55733 с длиной стрелы 33 метра грузоподъемностью 32 тонны на шасси Камаз, опорный контур 5,4х6,1 м. Состояние новое</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory"></a></li>
+<li class="text control back first-none hidden"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory">назад</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory">1</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=2">2</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=3">3</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=4">4</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=2">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/spectehnika/krany_manipulatory?page=4"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/spectehnika">Спецтехника в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

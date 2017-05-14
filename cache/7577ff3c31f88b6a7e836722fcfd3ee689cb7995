@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Автомобильные запчасти в Казахстане. Продать/купить запчасти на Salexy.kz, страница 40</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа и покупка запчастей в Казахстане. Бесплатные объявления Казахстана о продаже\покупке автозапчастей.
+Страница 40." />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            <link rel="canonical" href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari" />
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/zapchasti_i_aksessuari" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=100&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Запчасти и аксессуары в Казахстане</h1></span></li></ul></div>
+    <div class="categories-block">
+        <a href="#" class="title">
+            <span class="def-msg">Показать</span>
+            <span class="open-msg">Скрыть</span>
+            подкатегории
+        </a>
+        <div class="c-filter">
+            <a href="#" rel="nofollow" class="all">все</a>
+            <a href="#" rel="nofollow" class="popular active">популярные</a>
+        </div>
+        <ul class="categories-list">
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/tyuning_i_avtozvuk">Тюнинг и автозвук</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/zapchasti">Запчасти</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/pricepy">Прицепы</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/aksessuary">Прочие аксессуары</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/protivougonnye_ustroystva">Противоугонные устройства</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtomobilnaya_elektronika">Автомобильная электроника</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/ekipirovka">Экипировка</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/avtohimiya">Средства для ухода за авто</a></li>
+                    <li class=""><a href="http://salexy.kz/avtomobili_i_motocikly/zapchasti_i_aksessuari/bagazhniki_boksy">Багажники, боксы</a></li>
+                </ul>
+    </div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_kpp_i_reduktora_kamaz_5182585.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/e3/97/e397f54ee26060463c175d7877a194f2.jpg" alt="Продаю КПП и редуктора КамАЗ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_kpp_i_reduktora_kamaz_5182585.html">Продаю КПП и редуктора КамАЗ</a></div>
+                <div class="description">В городе Барнаул наша компания занимается поставками редукторов и коробок, запасных частей, узлов и агрегатов как новых, так и после капитального ремонта по выгодным ценам (имеется собственный грузовой авторазбор) для грузовой техники КамАЗ</div>
+            </div>
+            <span class="price">250 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_dvigateli_kamaz_5182582.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/86/ab/86abff809879a4ab8fc09d5fe486dc52.jpg" alt="Продаю двигатели КамАЗ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_dvigateli_kamaz_5182582.html">Продаю двигатели КамАЗ</a></div>
+                <div class="description">В городе Барнаул наша компания занимается поставками двигателей, запасных частей, узлов и агрегатов как новых, так и после капитального ремонта по выгодным ценам (имеется собственный грузовой авторазбор) для грузовой техники КамАЗ</div>
+            </div>
+            <span class="price">1 900 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/raspredval_5267994_cummins_isf_2_8_5182579.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/b3/e8/b3e83e049257b642ac9ca627e7f8b4b9.jpg" alt="Распредвал 5267994 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/raspredval_5267994_cummins_isf_2_8_5182579.html">Распредвал 5267994 cummins isf 2.8</a></div>
+                <div class="description">Продам распредвал 5267994 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">26 250 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_dvigateli_kamaz_5182578.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/9c/7c/9c7c639309c7b2e1806604249ae4cff3.jpg" alt="Продаю двигатели КамАЗ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_dvigateli_kamaz_5182578.html">Продаю двигатели КамАЗ</a></div>
+                <div class="description">В городе Барнаул наша компания занимается поставками двигателей, запасных частей, узлов и агрегатов как новых, так и после капитального ремонта по выгодным ценам (имеется собственный грузовой авторазбор) для грузовой техники КамАЗ</div>
+            </div>
+            <span class="price">1 900 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prokladka_gbc_5257187_cummins_isf_2_8_5182576.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/db/7d/db7d238d30b63892c933667f9e8caa63.jpg" alt="Прокладка ГБЦ 5257187 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prokladka_gbc_5257187_cummins_isf_2_8_5182576.html">Прокладка ГБЦ 5257187 cummins isf 2.8</a></div>
+                <div class="description">Продам оригинальную прокладку ГБЦ 5257187 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">9 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5182573" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5182573", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/porshen_dvigatelya_4995266_cummins_isf_2_8_5182573.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c4/56/c45686cd326a4596cba1824772ca8e49.jpg" alt="Поршень двигателя 4995266 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/porshen_dvigatelya_4995266_cummins_isf_2_8_5182573.html">Поршень двигателя 4995266 cummins isf 2.8</a></div>
+                <div class="description">Продам оригинальный поршень 4995266 двигателя cummins isf 2.8 для автомобиля Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">12 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/pompa_5269784_neoriginal_cummins_isf_2_8_5182556.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/61/fe/61fea32e72741642610432c9c08fee55.jpg" alt="Помпа 5269784 неоригинал cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/pompa_5269784_neoriginal_cummins_isf_2_8_5182556.html">Помпа 5269784 неоригинал cummins isf 2.8</a></div>
+                <div class="description">Продам помпу 5269784 неоригинал ноа двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">15 750 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/pompa_5269784_original_cummins_isf_2_8_5182555.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/32/27/3227c19d50962c18468aeb6df10c869a.jpg" alt="Помпа 5269784 оригинал cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/pompa_5269784_original_cummins_isf_2_8_5182555.html">Помпа 5269784 оригинал cummins isf 2.8</a></div>
+                <div class="description">Продам помпу 5269784 оригинал на двигатель cummins isf 2.8 для автомобиля Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">26 250 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/podogrev_ohlazhdayuschey_zhidkosti_5262804_cummins_isf_2_8_3_8_5182552.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2c/ac/2cac6c4bf1d6130f0e3e7847e65395e0.jpg" alt="Подогрев охлаждающей жидкости 5262804 cummins isf 2.8/3.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/podogrev_ohlazhdayuschey_zhidkosti_5262804_cummins_isf_2_8_3_8_5182552.html">Подогрев охлаждающей жидкости 5262804 cummins isf 2.8/3.8</a></div>
+                <div class="description">Продам подогрев охлаждающей жидкости 220V 550W 5262804 на двигатель cummins isf 2.8/3.8 для автомобилей Газель-Бизнес,Газель NEXT,Валдай,ПАЗ,Газон NEXT.Отправляю из Новосибирска любой ТК и автобусом </div>
+            </div>
+            <span class="price">10 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/podogrev_masla_v_poddone_4946432_cummins_isf_2_8_3_8_5182549.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/10/3e/103e859348001074db2e3b4d619cec35.jpg" alt="Подогрев масла в поддоне 4946432 cummins isf 2.8/3.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/podogrev_masla_v_poddone_4946432_cummins_isf_2_8_3_8_5182549.html">Подогрев масла в поддоне 4946432 cummins isf 2.8/3.8</a></div>
+                <div class="description">Продам подогрев масла в поддоне 220V 175W 4946432 на двигатель cummins isf 2.8/3.8 для автомобилей Газель-Бизнес,Газель NEXT,Валдай,ПАЗ,Газон NEXT. Отправляю из Новосибирска любой ТК и автобусом </div>
+            </div>
+            <span class="price">18 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/nagrevatel_vpusknogo_vozduha_5289774_cummins_isf_2_8_5182546.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/90/fc/90fc61fa3ab0950d8dc1d8c0e119063f.jpg" alt="Нагреватель впускного воздуха 5289774 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/nagrevatel_vpusknogo_vozduha_5289774_cummins_isf_2_8_5182546.html">Нагреватель впускного воздуха 5289774 cummins isf 2.8</a></div>
+                <div class="description">Продам нагреватель воздуха во впускном коллекторе 5289774 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">14 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/poddon_dvigatelya_5302120_cummins_isf_2_8_5182542.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/9f/c4/9fc4935d928858d667c64370105bd996.jpg" alt="Поддон двигателя 5302120 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/poddon_dvigatelya_5302120_cummins_isf_2_8_5182542.html">Поддон двигателя 5302120 cummins isf 2.8</a></div>
+                <div class="description">Продам поддон двигателя с отверстием под подогрев  5302120 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">31 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/trubka_toplivnaya_ot_tnvd_k_rampe_5272516_cummins_isf_2_8_5182538.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/73/56/7356938125fd2d331787622c8d9aeba1.jpg" alt="Трубка топливная от тнвд к рампе 5272516 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/trubka_toplivnaya_ot_tnvd_k_rampe_5272516_cummins_isf_2_8_5182538.html">Трубка топливная от тнвд к рампе 5272516 cummins isf 2.8</a></div>
+                <div class="description">Продам оригинальную трубку топливную от тнвд к рампе 5272516 на двигатель cummins isf 2.8 для автомобилей Газель-бизнес,Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">10 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/kryshka_termostata_5263134_cummins_isf_2_8_5182536.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4f/9a/4f9ac5ef0bb7ab33c1fcd321e436575d.jpg" alt="Крышка термостата 5263134 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/kryshka_termostata_5263134_cummins_isf_2_8_5182536.html">Крышка термостата 5263134 cummins isf 2.8</a></div>
+                <div class="description">Продам крышку термостата 5263134 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">2 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/generator_5318120_cummins_isf_2_8_5182534.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/00/b9/00b9e8255670fc50a9d9123a5cf3c8ac.jpg" alt="Генератор 5318120 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/generator_5318120_cummins_isf_2_8_5182534.html">Генератор 5318120 cummins isf 2.8</a></div>
+                <div class="description">Продам генератор 5318120 контакт игольчатый (фишка) на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">52 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/vstavka_ogranichitel_kompressii_5255315_cummins_isf_2_8_5182461.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/be/6d/be6d50f90e6891fffd19e619f566acd8.jpg" alt="Вставка ограничитель компрессии 5255315 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/vstavka_ogranichitel_kompressii_5255315_cummins_isf_2_8_5182461.html">Вставка ограничитель компрессии 5255315 cummins isf 2.8</a></div>
+                <div class="description">Продам вставку ограничителя компрессии 5255315 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес,Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">1 050 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/nasos_vakuumnyy_wabco_5282085_cummins_isf_2_8_5182459.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5e/4c/5e4c39514d44be6d2dbabb923887246f.jpg" alt="Насос вакуумный WABCO 5282085 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/nasos_vakuumnyy_wabco_5282085_cummins_isf_2_8_5182459.html">Насос вакуумный WABCO 5282085 cummins isf 2.8</a></div>
+                <div class="description">Продам насос вакуумный WABCO 5282085 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес, Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">28 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/masloohladitel_5266955_cummins_isf_2_8_5182458.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/20/cd/20cd13e1ba94cf7b95985bece91d6455.jpg" alt="Маслоохладитель 5266955 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/masloohladitel_5266955_cummins_isf_2_8_5182458.html">Маслоохладитель 5266955 cummins isf 2.8</a></div>
+                <div class="description">Продам оригинальный маслоохладитель 5266955 на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес, Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">26 250 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/remontnyy_nabor_dxb-2_8zhn6846_na_dvigatel_cummins_isf_2_8_5182457.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/b3/52/b3527309137685f90747d5b7098b5e48.jpg" alt="Ремонтный набор DXB-2.8ZHN6846 на двигатель cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/remontnyy_nabor_dxb-2_8zhn6846_na_dvigatel_cummins_isf_2_8_5182457.html">Ремонтный набор DXB-2.8ZHN6846 на двигатель cummins isf 2.8</a></div>
+                <div class="description">Продам ремонтный набор DXB-2.8ZHN6846 ( все прокладки+сальники коленвала+маслосъёмные колпачки ) на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес, Газель NEXT.Отправляю из Новосибирска любой ТК и автобусом </div>
+            </div>
+            <span class="price">47 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/kryshka_cepi_5264443_cummins_isf_2_8_5182453.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/a2/2e/a22e18ed89fd4b6c3262f8a806bb7dc3.jpg" alt="Крышка цепи 5264443 cummins isf 2.8">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/kryshka_cepi_5264443_cummins_isf_2_8_5182453.html">Крышка цепи 5264443 cummins isf 2.8</a></div>
+                <div class="description">Продам крышку цепи 5264443 в сборе с прокладкой и болтами на двигатель cummins isf 2.8 для автомобилей Газель-Бизнес, Газель NEXT. Отправляю из Новосибирска любой ТК и автобусом . Расчёт наличный, безналичный и перевод на карту сбербанка</div>
+            </div>
+            <span class="price">6 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">08.09.2016</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+<ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari"></a></li>
+<li class="text control back first-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=40">назад</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=36">36</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=37">37</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=38">38</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=39">39</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=40">40</a></li>
+<li class="page active"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=41">41</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=42">42</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=43">43</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=44">44</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=45">45</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=42">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/zapchasti_i_aksessuari?page=137"></a></li></ul>
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

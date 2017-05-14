@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+        <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/2d3ba0b7/pager.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/magnific/magnific-popup.min.css" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/jquery.fancybox.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.css?v=2.1.4" />
+<link rel="stylesheet" type="text/css" href="/themes/2015-04/css/all.css?v=24.17.22" />
+<link rel="stylesheet" type="text/css" href="/assets/20345a8a/select2.css" />
+<script type="text/javascript" src="/assets/e279048a/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/e279048a/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script type="text/javascript" src="//yastatic.net/share2/share.js"></script>
+<script type="text/javascript" src="/assets/20345a8a/select2.min.js"></script>
+<title itemprop='name'>Самосвалы Маз в Казахстане. Купить самосвал Маз новый или с пробегом в Казахстане.</title>
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "http://salexy.kz",
+        "logo": "http://salexy.kz/themes/2015-04/images/logo_kz.png"
+        }
+    </script>
+
+            <meta name="description" content="Продажа самосвалов Маз в Казахстане. Купить самосвал Маз новый или с пробегом на доске объявлений Salexy.kz.
+" />
+                <link rel="icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/favicon_salexy.kz.ico" type="image/x-icon">
+    
+    <meta name="viewport" content="width=device-width">
+
+    
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+            
+</head>
+<body>
+
+            <!-- Google Tag Manager -->
+            <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZKZJ5"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NZKZJ5');</script>
+            <!-- End Google Tag Manager -->
+        <div id="main-wrapper">
+    <div id="wrapper">
+        <header id="header">
+            <div class="top-holder clear">
+                <strong class="logo">
+                    <a href="http://salexy.kz">
+                        <img src="/themes/2015-04/images/logo_kz.png" alt="">
+                    </a>
+                </strong>
+                <div class="btns-holder">
+                    <noindex>
+                                        <div class="btn-holder">
+                        <a href="http://salexy.kz/favorite" class="btn favorite" rel="nofollow" title="Избранное">0</a>
+                    </div>
+                    <div class="btn-holder">
+                        <a href="http://salexy.kz/login" class="btn kabinet" rel="nofollow" title="Войти в личный кабинет">Войти</a>                    </div>
+                    </noindex>
+                    <div class="btn-holder">
+                        <a href="/post" class="btn btn-add" title="Это бесплатно">Подать объявление</a>
+                    </div>
+                </div>
+
+                    <noindex>
+        <form action="/avtomobili_i_motocikly/gruzovye_avtomobili/samosval/maz" method="get">        <div class="default-form search-form">
+            <fieldset>
+                <div class="inner-holder">
+                    <div class="holder" >
+                        <div class="inner">
+                            <div class="select-holder" onclick="window.location = '/city/index';return false;">
+                                <input style="width:99%;" type="hidden" value="1" name="Filter[geo]" id="Filter_geo" />
+                            </div>
+                            <div id="district-selector" class="select-holder" style="display:none;">
+                                <select name="Filter[district_id]" id="Filter_district_id">
+<option value="">Район или станция метро</option>
+</select>                            </div>
+                            <div class="input-holder">
+                                <input placeholder="Введите ключевое слово или номер объявления для поиска по доске объявлений" class="text" id="Filter_search_string" type="text" name="Filter[search_string]" />                                                            </div>
+                        </div>
+                    </div>
+                    <div class="btn-holder">
+                        <input type="submit" value="Искать" class="btn blue">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+                                    </form>    </noindex>
+<script>
+    $("#Filter_geo").prop("disabled", true);
+    </script>
+
+            </div>
+        </header>
+        <div id="main">
+            <div class="breadcrumb-holder">
+    <noindex><a href="/subscribe/set?city_id=1&category_id=1350&filter=" rel="nofollow" class="subscribe">Подписаться на новые</a></noindex>
+    <div class="btn-back">
+        <a href="/avtomobili_i_motocikly/gruzovye_avtomobili/samosval" class="btn default back">назад</a>
+    </div>
+    <a href="#" class="btn clarify">Уточнить</a>
+        <ul class="breadcrumb" itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList">
+<li><a href="/">Объявления</a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly" itemprop="item"><span itemprop="name">Автомобили и мотоциклы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/gruzovye_avtomobili" itemprop="item"><span itemprop="name">Грузовые автомобили</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://salexy.kz/avtomobili_i_motocikly/gruzovye_avtomobili/samosval" itemprop="item"><span itemprop="name">Самосвалы</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="active" itemprop="name"><h1>Маз в Казахстане</h1></span></li></ul></div>
+<div class="two-columns-holder">
+    <div class="main-content">
+        <ul class="product-list">
+            <li class="info-box">
+                <div id="yandex_ad_item_top" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_top", {
+                stat_id: 1,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                                                                
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/maz_samosval_2012_2013goda_bez_probega_5173281.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5451590.jpg" alt="МАЗ самосвал 2012,2013года без пробега">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/maz_samosval_2012_2013goda_bez_probega_5173281.html">МАЗ самосвал 2012,2013года без пробега</a></div>
+                <div class="description">МАЗ-551605, 2013 года,г/п 20т,ЯМЗ 238 турбо,330 л,с.Самосвал с завода,
+Наше руководство расматривает рассрочку на 12 месяцев,
+а так же лизинг и кредит.со стоянки завода,низкая цена.
+Гарантия и обслуживание</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.07.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_novyy_samosvalnyy_avtomobil_maz_5170803.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5446215.jpg" alt="Продам новый самосвальный автомобиль МАЗ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_novyy_samosvalnyy_avtomobil_maz_5170803.html">Продам новый самосвальный автомобиль МАЗ</a></div>
+                <div class="description">Продам новый самосвальный автомобиль МАЗ-6501В5-481-000, цвет оранжевый, г/п 20 тн, кабина со спальным местом, кондиционер, тип кузова овального сечения</div>
+            </div>
+            <span class="price">14 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.07.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/yamz_238_m2_238_d1_236m2_i_dr_5159973.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5423401.jpg" alt="ЯМЗ 238 М2, 238 Д1, 236М2 и др">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/yamz_238_m2_238_d1_236m2_i_dr_5159973.html">ЯМЗ 238 М2, 238 Д1, 236М2 и др</a></div>
+                <div class="description">Продаю двигатель на МАЗ! Основной комплектации! 
+ЯМЗ  238м2   с  (240л/с) = 280 т.р.,   
+ЯМЗ  238д1 турбо (330л/с) = 380т.р. 
+ЯМЗ  238НД3 = 350т,
+ЯМЗ  238НД5 = 450т.р.
+ЯМЗ  236М2 (180 л/с) =220 т.р.,
+ЯМЗ  236НЕ2 турбо(230л/с) = 320т.р</div>
+            </div>
+            <span class="price">1 100 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.05.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/privetstvuetsya_obmen_na_odnokomnatnuyu_kvartiru_v_chernovom_variante_s_doplatoy_5146771.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Приветствуется обмен на однокомнатную квартиру в черновом варианте с доплатой">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/privetstvuetsya_obmen_na_odnokomnatnuyu_kvartiru_v_chernovom_variante_s_doplatoy_5146771.html">Приветствуется обмен на однокомнатную квартиру в черновом варианте с доплатой</a></div>
+                <div class="description">В хорошем состояние </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.03.2016</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/pogruzchik-shtabeler_lt-72b_5115739.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5331423.jpg" alt="Погрузчик-Штабелер ЛТ-72Б">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/pogruzchik-shtabeler_lt-72b_5115739.html">Погрузчик-Штабелер ЛТ-72Б</a></div>
+                <div class="description">Погрузчик-штабелер ЛТ-72Б предназначен для штабелевки сортиметнов, погрузки их на лесовозные автопоезда, сортировки древесины на береговых и нижних складах, сброски сортиментов в воду</div>
+            </div>
+            <span class="price">16 704 306 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5115737" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5115737", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/mashina_valochno-trelevochnaya_vm-4b_5115737.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5331421.jpg" alt="Машина валочно-трелевочная ВМ-4Б">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/mashina_valochno-trelevochnaya_vm-4b_5115737.html">Машина валочно-трелевочная ВМ-4Б</a></div>
+                <div class="description">Машина валочно-трелевочная ВМ-4Б на базе трактора ТТ-4М предназначена для комплексной механизации лесосечных работ при сплошных рубках: спиливание и направленная валка деревьев, погрузка комлей спиленных деревьев и выравнивание комлей</div>
+            </div>
+            <span class="price">16 998 884 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/trelevochnyy_traktor_t-147_5115736.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5331407.jpg" alt="Трелевочный трактор Т-147">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/trelevochnyy_traktor_t-147_5115736.html">Трелевочный трактор Т-147</a></div>
+                <div class="description">Гусеничный трелевочный трактор Т-147 предназначен для трелевки крупномерного и среднего леса в полупогруженном состоянии, окучивания хлыстов и деревьев с высотой штабеля до 1 метра, а так же для работы с различными навесными и прицепными лесозаготови</div>
+            </div>
+            <span class="price">11 249 317 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zhanaosen.salexy.kz/c/truboukladchik_chetra_tg-503_tg-301_tg-222_tg-122_tg-321_5109792.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319232.jpg" alt="Трубоукладчик ЧЕТРА ТГ-503, ТГ-301, ТГ-222, ТГ-122, ТГ-321">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zhanaosen.salexy.kz/c/truboukladchik_chetra_tg-503_tg-301_tg-222_tg-122_tg-321_5109792.html">Трубоукладчик ЧЕТРА ТГ-503, ТГ-301, ТГ-222, ТГ-122, ТГ-321</a></div>
+                <div class="description">Торговый Дом «Трактора Поволжья» предлагает к поставке ГАРАНТИЙНЫЕ трубоукладчики Промтрактор "ЧЕТРА". ТГ-503Я, вес 65 тонн, г/п 50-102 тонны.  ТГ-301Я, вес 44 тонны, г/п 31-65 тонн. ТГ-222Я, вес 32 тонны, г/п 21-43 тонны. ТГ-122Я, вес 22</div>
+            </div>
+            <span class="price">5 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Жанаозен                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shahtinsk.salexy.kz/c/kran-truboukladchik_chetra_tg503_tg301_tg222_221_tg122_121_tm_120_5109750.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319158.jpg" alt=" Кран-трубоукладчик ЧЕТРА ТГ503, ТГ301, ТГ222/221, ТГ122/121, ТМ 120	">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shahtinsk.salexy.kz/c/kran-truboukladchik_chetra_tg503_tg301_tg222_221_tg122_121_tm_120_5109750.html"> Кран-трубоукладчик ЧЕТРА ТГ503, ТГ301, ТГ222/221, ТГ122/121, ТМ 120	</a></div>
+                <div class="description">Торговый Дом «Трактора Поволжья» предлагает к поставке ГАРАНТИЙНЫЕ трубоукладчики Промтрактор "ЧЕТРА". ТГ-503Я, вес 65 тонн, г/п 50-102 тонны.  ТГ-301Я, вес 44 тонны, г/п 31-65 тонн. ТГ-222Я, вес 32 тонны, г/п 21-43 тонны. ТГ-122Я, вес 22</div>
+            </div>
+            <span class="price">5 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Шахтинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://abay.salexy.kz/c/truboukladchik_chetra_tg-503_tg-301_tg-222_tg-122_tg-321_5109742.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5319152.jpg" alt="Трубоукладчик ЧЕТРА ТГ-503, ТГ-301, ТГ-222, ТГ-122, ТГ-321">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://abay.salexy.kz/c/truboukladchik_chetra_tg-503_tg-301_tg-222_tg-122_tg-321_5109742.html">Трубоукладчик ЧЕТРА ТГ-503, ТГ-301, ТГ-222, ТГ-122, ТГ-321</a></div>
+                <div class="description">ООО Торговый дом "Трактора Поволжья" предлагает к поставке трубоукладчик Промтрактор ЧЕТРА ТГ-503Я на базе трактора Т-35.01 после капитального ремонта. технические характеристики: масса 65 тонн, двигатель ЯМЗ-850</div>
+            </div>
+            <span class="price">8 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.09.2015</time>
+                                            Абай                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/organizaciya_prodaet_vezdehod_chetra_tm-_120_tm-_130_5108841.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317297.jpg" alt="Организация продаёт вездеход ЧЕТРА ТМ- 120, ТМ- 130 	">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/organizaciya_prodaet_vezdehod_chetra_tm-_120_tm-_130_5108841.html">Организация продаёт вездеход ЧЕТРА ТМ- 120, ТМ- 130 	</a></div>
+                <div class="description">
+ООО ТД "Трактора Поволжья" продает после капитального ремонта 2015 года Вездеход ЧЕТРА ТМ- 120, ТМ- 130. характеристики:  двигатель ЯМЗ- 236Б2 мощностью 250 л/ с, масса вездехода 11 тонн, грузоподъемность 3 тонны. Исполнение УХЛ (-40 +40)</div>
+            </div>
+            <span class="price">6 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/kran-_truboukladchik_chetra_tg-122_g_p_20-25_tonn_5108840.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317296.jpg" alt="Кран- трубоукладчик ЧЕТРА ТГ-122 г/п 20-25 тонн">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/kran-_truboukladchik_chetra_tg-122_g_p_20-25_tonn_5108840.html">Кран- трубоукладчик ЧЕТРА ТГ-122 г/п 20-25 тонн</a></div>
+                <div class="description">ТД Трактора Поволжья предлагает к поставке   Трубоукладчик ЧЕТРА ТГ-122 продам после капитального ремонта, на базе легкого трактора Т-11.01, массой 22 тонны, устанавливаются двигатель КАМИНЗ или ЯМЗ-236ДК-7 мощностью 180 л/с</div>
+            </div>
+            <span class="price">5 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/gusenichnyy_truboukladchik_chetra_tg-222_g_p_25-30_tonn_5108839.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317295.jpg" alt="Гусеничный трубоукладчик ЧЕТРА ТГ-222 г/п 25-30 тонн">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/gusenichnyy_truboukladchik_chetra_tg-222_g_p_25-30_tonn_5108839.html">Гусеничный трубоукладчик ЧЕТРА ТГ-222 г/п 25-30 тонн</a></div>
+                <div class="description">ТД Трактора Поволжья предлагает к поставке  Трубоукладчик Промтрактор ЧЕТРА ТГ- 222  после капитального ремонта, масса 30 тонн, устанавливается двигатель КАМИНЗ или ЯМЗ-238НД4-1, мощность двигателя - 238 л/с</div>
+            </div>
+            <span class="price">6 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/kran-_truboukladchik_chetra_tg-301_g_p_35-40_tonn_5108838.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317294.jpg" alt="Кран- трубоукладчик ЧЕТРА ТГ-301 г/п 35-40 тонн ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/kran-_truboukladchik_chetra_tg-301_g_p_35-40_tonn_5108838.html">Кран- трубоукладчик ЧЕТРА ТГ-301 г/п 35-40 тонн </a></div>
+                <div class="description">ТД Трактора Поволжья предлагает к поставке  Трубоукладчик Промтрактор ЧЕТРА ТГ-301, продам после капитального ремонта, масса 40 тонн, уникальная ширина гусениц 710 мм, которая позволяет работать на болотистой местности</div>
+            </div>
+            <span class="price">7 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/gusenichnyy_truboukladchik_chetra_tg-321_g_p_40-45_tonn_5108837.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317293.jpg" alt="Гусеничный трубоукладчик ЧЕТРА ТГ-321 г/п 40-45 тонн">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/gusenichnyy_truboukladchik_chetra_tg-321_g_p_40-45_tonn_5108837.html">Гусеничный трубоукладчик ЧЕТРА ТГ-321 г/п 40-45 тонн</a></div>
+                <div class="description">
+ТД Трактора Поволжья предлагает к поставке Трубоукладчик  ЧЕТРА ТГ-321 после капитального ремонта, массой 50 тонн, где установлен двигатель МТУ (Германия), ТМЗ, ЯМЗ-8501.10 мощностью 409 л/с</div>
+            </div>
+            <span class="price">7 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/realizuem_truboukladchik_gusenichnyy_truboukladchik_chetra_tg-503_5108836.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5317292.jpg" alt="Реализуем трубоукладчик  гусеничный трубоукладчик ЧЕТРА ТГ-503 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/realizuem_truboukladchik_gusenichnyy_truboukladchik_chetra_tg-503_5108836.html">Реализуем трубоукладчик  гусеничный трубоукладчик ЧЕТРА ТГ-503 </a></div>
+                <div class="description">ООО Торговый дом "Трактора Поволжья" продает трубоукладчик Промтрактор ЧЕТРА ТГ-503Я на базе трактора Т-35.01 после капитального ремонта. технические характеристики: масса 65 тонн, двигатель ЯМЗ-850</div>
+            </div>
+            <span class="price">8 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.09.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/svaeboynaya_mashina_sp49_v_nalichii_kupit_po_vygodnoy_cene_5093604.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5286517.jpg" alt="Сваебойная машина СП49 в наличии купить по выгодной цене">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/svaeboynaya_mashina_sp49_v_nalichii_kupit_po_vygodnoy_cene_5093604.html">Сваебойная машина СП49 в наличии купить по выгодной цене</a></div>
+                <div class="description">Челябинский Завод Промышленных Тракторов. Производство, продажа, сервисное и гарантийное обслуживание спецтехники! Вся техника сертифицированная.
+После полного капитального ремонта в заводских условиях</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.06.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                    
+                
+                
+                        <li class="info-box">
+                <div id="yandex_ad_item_pre_last" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_pre_last", {
+                stat_id: 3,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>            </li>
+                    </ul>
+    </div>
+    <aside id="sidebar">
+        
+
+        <div class="info-box">
+            <div class="img-holder">
+                <div id="yandex_ad_R-147355-1"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-1",
+                renderTo: "yandex_ad_R-147355-1",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>            </div>
+        </div>
+
+        
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
+        
+    </aside>
+</div>
+
+
+
+<ul class="relink-category">
+            <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
+                <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly">Автомобили и мотоциклы в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/gruzovye_avtomobili">Грузовые автомобили в Казахстане</a>
+                    </li>
+            <li>
+                                        <a href="http://salexy.kz/avtomobili_i_motocikly/gruzovye_avtomobili/samosval">Самосвалы в Казахстане</a>
+                    </li>
+    </ul>
+
+
+        </div>
+    </div>
+    <footer id="footer">
+        <div class="inner">
+            <div class="right-img-holder">
+                                <img src="/themes/2015-04/images/16.png" alt="Возрастные ограничения" title="Возрастные ограничения">
+            </div>
+            <span class="copyright">2003-2017 &copy; salexy.kz</span>
+
+                        <nav>
+    <ul class="bottom-link-menu">
+            <li><a href="/">Объявления</a></li>
+            <li><a href="/post">Добавить</a></li>
+            <li><a href="/p/usloviya">Условия</a></li>
+            <li><a href="/p/reklamodatelyam">Реклама</a></li>
+            <li><a href="/p/kontakty">Контакты</a></li>
+        </ul>
+</nav>        </div>
+            </footer>
+    </div>
+<script type="text/javascript" src="/themes/2015-04/js/magnific/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.placeholder.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/jquery.fancybox.pack.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-buttons.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/fancybox/helpers/jquery.fancybox-thumbs.js?v=2.1.4"></script>
+<script type="text/javascript" src="/themes/2015-04/js/form.js"></script>
+<script type="text/javascript" src="/themes/2015-04/js/jquery.main.js?v=24.17.22"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+
+            if ($(".categories-list li.secondary").length) $(".c-filter").show();
+            $(".c-filter").on("click", ".all", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li").removeClass("hidden");
+                return false;
+            })
+            $(".c-filter").on("click", ".popular", function(){
+                $(".c-filter a.active").removeClass("active");
+                $(this).addClass("active");
+                
+                $(".categories-list li.secondary").addClass("hidden");
+                return false;
+            })
+
+        
+jQuery('#Filter_geo').select2({'formatNoMatches':function(){return "Совпадений не найдено";},'formatInputTooShort':function(input,min){return "Начните вводить название города";},'formatInputTooLong':function(input,max){return "Please enter "+(input.length-max)+" less characters";},'formatSelectionTooBig':function(limit){return "Вы можете выбрать только "+limit+" значений";},'formatLoadMore':function(pageNumber){return "Показать больше...";},'formatSearching':function(){return "Поиск...";},'placeholder':'Город','minimumInputLength':0,'ajax':{'url':'/city/ajaxData','quietMillis':0,'dataType':'json','data': function(term, page) {
+                                                return {
+                                                    q: term,
+                                                    page_limit: 10,
+                                                };
+                                            },'results': function(data, page){
+                                                return {results: data};
+                                           }},'formatResult':function(data){
+                                            if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'formatSelection': function(data) {
+                                             if(data.level>2 && data.region_title) return data.title + " ("+data.region_title+")";
+                                            else return data.title;
+                                        },'initSelection': function(element, callback){
+                                            var id = $(element).val();
+                                            if (id !== "") {
+                                                $.ajax("/city/ajaxDataSelected?id=" + id, {
+                                                    dataType: "json"
+                                                }).done(function(data) { callback(data); });
+                                            }
+                                       }});
+jQuery('#Filter_search_string').autocomplete({'minLength':'3','position':{'my':'right-9 top+9','at':'right bottom'},'select':function(event, ui){
+                                                $("#Filter_search_string").val(ui.item.value);
+                                                $("#header .default-form").submit();
+                                            },'source':'/site/searchAuto'});
+});
+/*]]>*/
+</script>
+</body>
+</html>
