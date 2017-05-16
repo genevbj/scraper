@@ -13,9 +13,13 @@ require 'vendor/scraper/URL.php';
 
 $s_options=[
     'debug' => true,
+    'max_sim_downloads' => 10,
+    'max_documents_per_session' => 20,
     'cache_dir' => './cache',
     'use_proxy' => false,
     'check_proxy' => false,
+    'single_ua_per_session' => true,
+    'single_proxy_per_session' => true,
     'check_proxy_url' => 'http://gde.ru/check_proxy.php',
     'domain' => 'http://salexy.kz',
     'traverse_domains' => false,
@@ -25,94 +29,11 @@ $s_options=[
 
 $s=new Crawler($s_options);
 
-$s->update_map();
+set_time_limit(0);
 
-/*
-
-function generate_ondisk_name($url)
+//while(true)
 {
-    $result=$GLOBALS['scraper_cache'].'/'.sha1($url);
-
-    return $result;
-
-
+    $s->run_session();
 }
 
 
-
-$client = new MongoDB\Client();
-$collection = $client->demo->map;
-
-
-
-$html=get_url($url,$base_url);
-
-$fname = generate_ondisk_name($url);
-$result = $collection->insertOne( [ 'url' => $url, 'urlhash' => sha1($url), 'rank' => 0, 'status' => 200, 'retrieve__time' => time(), 'update_time' => time(), 'title' => 'NOTITLE-FIXME', 'ondisk' => $fname ] );
-
-file_put_contents($fname,$html);
-
-
-
-if (preg_match_all('/href="([^#"]*)"/i', $html, $urlMatches, PREG_PATTERN_ORDER)) 
-{
-
-	// garbage collect
-	unset($html, $urlMatches[0]);
-
-	// iterate over each link found on the page
-	foreach ($urlMatches[1] as $k => $link) {
-
-	    $link = trim($link);
-	    if (strlen($link) === 0) $link = '/';
-
-	    // don't allow more than maxDepth forward slashes in the URL
-///	if ($this->maxDepth > 0
-//                && strpos($link, 'http') === false
-//                && substr_count($link, '/') > $this->maxDepth) 
-//	{
-//		continue;
-//	}
-
-	    // check for a relative path starting with a forward slash
-	    if (strpos($link, 'http') === false && strpos($link, '/') === 0) 
-	    {
-		// update the link with the full domain path
-                $link = $this_domain . $link;
-	    }
-            // check for a same directory reference
-            else if (strpos($link, 'http') === false && strpos($link, '/') === false) 
-	    {
-		if (strpos($link, 'www.') !== false) continue;
-                $link = $this_domain . '/' . $link;
-            }
-	    // dont index email addresses
-	    else if (strpos($link, 'mailto:') !== false) 
-	    {
-		continue;
-	    }
-	    // skip link if it isnt on the same domain
-	    else if (strpos($link, $this_domain) === false) {
-                        continue;
-	    }
-
-	    // only add request if this is the first time in this session
-//	    $link_id = $this->checkIfFirstRequest($link);
-//	    if ($link_id === true) {
-//	    	$this->addRequest($link);
-//	    } else {
-//		// update the inbound link count
-//		$this->updateInboundCount($link_id);
-//	    }
-
-	    echo "$link\n";
-	}
-
-	// garbage collect
-	unset($urlMatches);
-}
-
-#$html = str_get_html($str);
-#echo $html->find('div div div', 0)->innertext . '<br>'; // result: "ok"
-
-*/

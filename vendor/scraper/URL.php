@@ -22,7 +22,7 @@ class URL
     private $children;
     private $ignore_ext;
     private $leaf_ext;
-
+    private $curl_context;
 
     function __construct($link,$options)
     {
@@ -51,10 +51,10 @@ class URL
 	$this->collection->createIndex(['url' => 1], ['unique' => true]);
 
 
-	$a = $this->collection->find(['url' => $this->link], ['url', 'update_time', 'retrieved', 'retrieve_time','parsed'])->toArray();
+	$a = $this->collection->find(['url' => $this->link])->toArray();
 
 	$this->is_in_db = count($a) > 0;
-	$this->retry_count = $a[count($a)-1]['retry_count'] ?? 0;
+	$this->retry_count = $a[0]['retry_count'] ?? 0;
 	$this->logger->log("Age: ".$this->retry_count);
 
 	if($this->is_in_db)
@@ -75,11 +75,43 @@ class URL
 	$this->logger->log("Actual - ".($this->is_actual?"OK":"FAIL"));
 	$this->logger->log("On disk - ".($this->is_in_cache?"OK":"FAIL"));
 
-	$this->find_children('db');
+//	$this->find_children('db');
 
 	$this->logger->log("Memory usage (".__METHOD__.", ".$link.", after construct): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
     }
 
+
+    function &get_context()
+    {
+	return $this->curl_context;
+    }
+
+
+    function &create_context() 
+    { 
+
+	$this->logger->log("Memory usage (".__METHOD__.", ".$this->link.", before): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+
+        $this->curl_context = curl_init($this->link); 
+        curl_setopt($this->curl_context, CURLOPT_HTTPHEADER, $this->headers); 
+        curl_setopt($this->curl_context, CURLOPT_HEADER, 0); 
+        curl_setopt($this->curl_context, CURLOPT_USERAGENT, $this->ua);
+//        curl_setopt($this->curl_context, CURLOPT_REFERER, $referrer);
+        curl_setopt($this->curl_context, CURLOPT_TIMEOUT, 30); 
+        curl_setopt($this->curl_context, CURLOPT_RETURNTRANSFER, 1); 
+        curl_setopt($this->curl_context, CURLOPT_FOLLOWLOCATION, 1); 
+	curl_setopt($this->curl_context, CURLOPT_SSL_VERIFYPEER, FALSE);
+	curl_setopt($this->curl_context, CURLOPT_COOKIESESSION, TRUE);
+	curl_setopt($this->curl_context, CURLOPT_FOLLOWLOCATION, TRUE);
+	curl_setopt($this->curl_context, CURLOPT_RETURNTRANSFER, TRUE);
+
+        $this->options['use_proxy'] && curl_setopt($this->curl_context, CURLOPT_PROXY, $this->proxy);
+
+	$this->logger->log("Memory usage (".__METHOD__.", ".$this->link.", after): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+
+	return $this->curl_context;
+	
+    }
 
     function retrieve() 
     { 
@@ -87,23 +119,10 @@ class URL
 	$this->logger->log("Loading ".$this->link);
 	$this->logger->log("Memory usage (".__METHOD__.", ".$this->link.", before): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
 
-        $process = curl_init($this->link); 
-        curl_setopt($process, CURLOPT_HTTPHEADER, $this->headers); 
-        curl_setopt($process, CURLOPT_HEADER, 0); 
-        curl_setopt($process, CURLOPT_USERAGENT, $this->ua);
-//        curl_setopt($process, CURLOPT_REFERER, $referrer);
-        curl_setopt($process, CURLOPT_TIMEOUT, 30); 
-        curl_setopt($process, CURLOPT_RETURNTRANSFER, 1); 
-        curl_setopt($process, CURLOPT_FOLLOWLOCATION, 1); 
-	curl_setopt($process, CURLOPT_SSL_VERIFYPEER, FALSE);
-	curl_setopt($process, CURLOPT_COOKIESESSION, TRUE);
-	curl_setopt($process, CURLOPT_FOLLOWLOCATION, TRUE);
-	curl_setopt($process, CURLOPT_RETURNTRANSFER, TRUE);
+        $this->create_context();
 
-        $this->options['use_proxy'] && curl_setopt($process, CURLOPT_PROXY, $this->proxy);
-
-        $this->html = curl_exec($process); 
-        curl_close($process); 
+        $this->html = curl_exec($this->curl_context); 
+        curl_close($this->curl_context); 
 
 	$this->cache->save($this->link,$this->html);
 
@@ -225,7 +244,7 @@ class URL
 		{
 		    if (strpos($link, '.'.$ext) !== false) 
 		    {
-			$this->logger->log("Found ($link). Ignore by extention \n";
+			$this->logger->log("Found ($link). Ignore by extention \n");
 			$ignore_url = true;
 		    }
 		}
@@ -234,7 +253,7 @@ class URL
 		{
 		    if (strpos($link, $this->domain.$iu) !== false) 
 		    {
-			$this->logger->log("Found ($link). Ignore by uri \n";
+			$this->logger->log("Found ($link). Ignore by uri \n");
 			$ignore_url = true;
 		    }
 		}
@@ -243,7 +262,7 @@ class URL
 		{
 		    if (strpos($link, '.'.$ext) !== false) 
 		    {
-			$this->logger->log("Found ($link). Ignore leaf on \n";
+			$this->logger->log("Found ($link). Ignore leaf on \n");
 			$ignore_url = true;
 		    }
 		}
