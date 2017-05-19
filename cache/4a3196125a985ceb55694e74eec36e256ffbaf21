@@ -146,6 +146,50 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/modelnye_avtochehly_5070476.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5234644.jpg" alt="Модельные авточехлы ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/modelnye_avtochehly_5070476.html">Модельные авточехлы </a></div>
+                <div class="description">Изготовление автомобильных чехлов по индивидуальному заказу. Преобразите салон автомобиля по цене конвейерного производства!
+Материалы: экокожа, автомобильный велюр, жаккард. Огромный выбор расцветки.
+Индивидуальный пошив</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.03.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://semipalatinsk.salexy.kz/c/avtochehly_semey_5067748.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5228730.jpg" alt="Авточехлы Семей">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://semipalatinsk.salexy.kz/c/avtochehly_semey_5067748.html">Авточехлы Семей</a></div>
+                <div class="description">Компания SEM AUTO MOTORS - Это полный комплекс авто-услуг. 
+● Автозапчасти на все автомобили 
+*Новые и Б/У, оригинал и дубликаты. 
+*Самые короткие сроки доставки - до 2х дней. 
+*100% гарантия возврата средств</div>
+            </div>
+            <span class="price">14 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.02.2015</time>
+                                            Семей                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/poshiv_avtochehlov_5066668.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5225978.jpg" alt="пошив авточехлов">
                     </a>
@@ -213,7 +257,38 @@ Lexus LX 570- 16</div>
             <time datetime="01-01">11.02.2015</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5065947" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5065947", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/lateksnye_avtomobilnye_kovriki_5065947.html">
@@ -251,38 +326,7 @@ Lexus LX 570- 16</div>
             <time datetime="01-01">11.02.2015</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5065934" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5065934", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/avtomagazin_rashodnikov_i_aksessuarov_5065934.html">
@@ -529,44 +573,6 @@ Lexus LX 570- 16</div>
                 <div class="description">Высококачественные авточехлы Persona выполнены в изысканном дизайне со спокойными цветовыми решениями</div>
             </div>
             <span class="price">17 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/chehly_comfort-combo_velyur_krasnyy_5052362.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193674.jpg" alt="Чехлы Comfort-Combo велюр Красный">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/chehly_comfort-combo_velyur_krasnyy_5052362.html">Чехлы Comfort-Combo велюр Красный</a></div>
-                <div class="description">Ортопедические авточехлы Comfort-Combo обладают объёмной формой, которая эффективно поддерживает тело человека во время движения</div>
-            </div>
-            <span class="price">14 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/chehly_persona_ekokozha_5052361.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193672.jpg" alt="Чехлы Persona, экокожа">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/chehly_persona_ekokozha_5052361.html">Чехлы Persona, экокожа</a></div>
-                <div class="description">Высококачественные авточехлы Persona выполнены в изысканном дизайне со спокойными цветовыми решениями</div>
-            </div>
-            <span class="price">18 000 тг.</span>
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">10.11.2014</time>

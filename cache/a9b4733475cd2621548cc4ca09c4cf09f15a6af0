@@ -316,6 +316,70 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/zadniy_toyota_highlander_2002g_3684430.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам задний toyota highlander 2002г">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/zadniy_toyota_highlander_2002g_3684430.html">продам задний toyota highlander 2002г</a></div>
+                <div class="description">продам toyota highlander 2002г, объем 3, 4wd. Золотистого цвета. В отличном состоянии. за 22000$
+
+
+</div>
+            </div>
+            <span class="price">22 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/prodazha_avto_3683940.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продажа авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/prodazha_avto_3683940.html">продажа авто</a></div>
+                <div class="description">продам хонда црв 2002 г.в., кроссовер, техосмотр пройден, вложений не требует. Цена 16 500 у.е., торг</div>
+            </div>
+            <span class="price">16 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2013</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aksai.salexy.kz/c/bmw_x6_2009_3680569.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5014460.jpg" alt="Bmw x6 2009">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aksai.salexy.kz/c/bmw_x6_2009_3680569.html">Bmw x6 2009</a></div>
+                <div class="description">Я одного владельца автомобиля и автомобиль был куплен новым, и я только
+
+использовал его достаточно не более 2 months.It все еще находится в отличном состоянии и ниже
+
+особенности автомобиля ..</div>
+            </div>
+            <span class="price">550 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.07.2013</time>
+                                            Аксай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://uralsk.salexy.kz/c/prodam_avtomobil_3678180.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5011792.jpg" alt="Продам автомобиль">
                     </a>
@@ -351,7 +415,38 @@
             <time datetime="01-01">26.07.2013</time>
                                             Уральск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3675254" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3675254", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/prodazha_3675254.html">
@@ -408,38 +503,7 @@
             <time datetime="01-01">25.07.2013</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_3670399" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_3670399", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/zapchasti_v_astane_dlya_gaz_gazel_uaz_3670399.html">
@@ -666,63 +730,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">13.07.2013</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/razyskivayu_avtomobil_3613471.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="разыскиваю автомобиль">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/razyskivayu_avtomobil_3613471.html">разыскиваю автомобиль</a></div>
-                <div class="description">Очень важно! Ищу автомобиль (или тех.паспорт или гос.номера) марки Москвич М 2141. Цвет белый. Гос.номер Z 842 DBM. Может находиться в любом городе Казахстана. Заранее премного благодарен</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.07.2013</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://taldykorgan.salexy.kz/c/_3612819.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://taldykorgan.salexy.kz/c/_3612819.html">продам</a></div>
-                <div class="description">Nissan cefiro. 1995 г.в. об. двиг. 2л.цвет серебро, отлич. состояния</div>
-            </div>
-            <span class="price">6 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.07.2013</time>
-                                            Талдыкорган                     </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/prodam_legkovoy_avtomobil_3610470.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам легковой автомобиль">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_legkovoy_avtomobil_3610470.html">Продам легковой автомобиль</a></div>
-                <div class="description">Срочно продам Wolkswagen Passat B3 универсал,3800$ торг,1990г.,1,8,черный,состояние среднее,на ходу.</div>
-            </div>
-            <span class="price">3 800 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.07.2013</time>
-                                            Костанай                    </div>
             </div>
 </li>                                    
                 

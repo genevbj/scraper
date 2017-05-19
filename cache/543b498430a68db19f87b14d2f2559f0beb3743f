@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/razyskivayu_avtomobil_3613471.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="разыскиваю автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/razyskivayu_avtomobil_3613471.html">разыскиваю автомобиль</a></div>
+                <div class="description">Очень важно! Ищу автомобиль (или тех.паспорт или гос.номера) марки Москвич М 2141. Цвет белый. Гос.номер Z 842 DBM. Может находиться в любом городе Казахстана. Заранее премного благодарен</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.07.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://taldykorgan.salexy.kz/c/_3612819.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://taldykorgan.salexy.kz/c/_3612819.html">продам</a></div>
+                <div class="description">Nissan cefiro. 1995 г.в. об. двиг. 2л.цвет серебро, отлич. состояния</div>
+            </div>
+            <span class="price">6 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.07.2013</time>
+                                            Талдыкорган                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_legkovoy_avtomobil_3610470.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам легковой автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_legkovoy_avtomobil_3610470.html">Продам легковой автомобиль</a></div>
+                <div class="description">Срочно продам Wolkswagen Passat B3 универсал,3800$ торг,1990г.,1,8,черный,состояние среднее,на ходу.</div>
+            </div>
+            <span class="price">3 800 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">13.07.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodam_nivu_3608133.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Продам Ниву">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">11.07.2013</time>
                                             Уральск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3596326" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3596326", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/opel_ascona_3596326.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">09.07.2013</time>
                                             Актобе                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_3584878" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_3584878", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/_3584878.html">
@@ -666,63 +723,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">01.07.2013</time>
                                             Экибастуз                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_avtomashinu_3549911.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам автомашину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_avtomashinu_3549911.html">Продам автомашину</a></div>
-                <div class="description">1994 года выпуска, цвет баклажан, двигатель 2,8. Автомат, салон велюр, диски оригинал, черепашки, титановые, европейский, центральный замок. В хорошем состоянии.</div>
-            </div>
-            <span class="price">9 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">01.07.2013</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://satpaev.salexy.kz/c/mersedes-benz_190_3548289.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/4808885.jpg" alt="Mersedes-Benz 190">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://satpaev.salexy.kz/c/mersedes-benz_190_3548289.html">Mersedes-Benz 190</a></div>
-                <div class="description">Продам Mersedes-Benz 190, седан, 1.8, бензин, КПП АКПП, черный, тонировка, люк, CD, MP3, USB, ABS, сигнализация, вложений не требует.</div>
-            </div>
-            <span class="price">6 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">01.07.2013</time>
-                                            Сатпаев                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/prodam_mersedes_s180_2002_g_3544887.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/4802916.jpg" alt="Продам Мерседес С180 2002 г.">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_mersedes_s180_2002_g_3544887.html">Продам Мерседес С180 2002 г.</a></div>
-                <div class="description">седан, 1.8 л, бензин, КПП механика, 300 км, с пробегом, серебристый, литые диски, противотуманки, корректор фар, обогрев зеркал, велюр, дерево, CD, ГУР, ABS, SRS, центрозамок, кондиционер, круиз контр</div>
-            </div>
-            <span class="price">16 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.06.2013</time>
-                                            Костанай                    </div>
             </div>
 </li>                                    
                 

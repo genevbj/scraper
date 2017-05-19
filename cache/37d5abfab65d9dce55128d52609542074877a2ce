@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/vozmu_na_podselenie_1-2_devushek_v_1komn_kv_3158410.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Возьму на подселение 1-2 девушек в 1комн кв.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/vozmu_na_podselenie_1-2_devushek_v_1komn_kv_3158410.html">Возьму на подселение 1-2 девушек в 1комн кв.</a></div>
+                <div class="description">Возьму на подселение 1-2 девушек в 1комн кв., бостандыкский район</div>
+            </div>
+            <span class="price">20 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.04.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kvartiu_3155914.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдаю квартиу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kvartiu_3155914.html">сдаю квартиу, орбита 1 11дом</a></div>
+                <div class="description">ерва ремонт холодельник стералный машина кабел телевидения интернет чистый подъезд </div>
+            </div>
+            <span class="price">60 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">24.04.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/sdayu_3147296.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдаю">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/sdayu_3147296.html">Сдаю</a></div>
+                <div class="description">Сдам 2-х комнатную квартиру</div>
+            </div>
+            <span class="price">80 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.04.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/devushku_na_podselenie_3144928.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Девушку на подселение">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/devushku_na_podselenie_3144928.html">Девушку на подселение</a></div>
+                <div class="description">Девушку на подселение, на длительный срок, в центре города</div>
+            </div>
+            <span class="price">30 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.04.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/1_kvartiru_3131226.html">
                             <img src="/themes/2015-04/images/nf.png" alt="сниму 1 квартиру!!!">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">19.04.2013</time>
                                             Усть-Каменогорск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3128444" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3128444", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://atyrau.salexy.kz/c/2_komnatnaya_srochno_3128444.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">16.04.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_3111545" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_3111545", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/nedvizhimost_3111545.html">
@@ -551,84 +627,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">06.04.2013</time>
                                             Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/posutochno_kvartiry_na_levom_beregu_3063066.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/3233451.jpg" alt="сдам посуточно квартиры на левом берегу">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/posutochno_kvartiry_na_levom_beregu_3063066.html">сдам посуточно квартиры на левом берегу, ул Сарайшык</a></div>
-                <div class="description">сдам посуточно по часам понедельно 2 ком квартиры на левом берегу ЖК Тулпар рядом Керуен Байтерек 
-ЖК Лазурный квартал рядом МИД
-квартиры чистые упакованые Интернет</div>
-            </div>
-            <span class="price">10 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">05.04.2013</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/kvartira_2h_komnatnaya_3056811.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/3221065.jpg" alt="квартира 2х комнатная ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/kvartira_2h_komnatnaya_3056811.html">квартира 2х комнатная , гоголя 96</a></div>
-                <div class="description">2х квартира в самом центре города (Бородинский магазин), рядом супермаркет, ресторан. Кухня и зал студия, спальня изолирована, машинка автомат, микроволновая печь, кондиционер, телевизор LED, в зале б</div>
-            </div>
-            <span class="price">8 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">03.04.2013</time>
-                                            Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://uralsk.salexy.kz/c/1-komnatnuyu_kv_3056498.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдам 1-комнатную кв">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://uralsk.salexy.kz/c/1-komnatnuyu_kv_3056498.html">сдам 1-комнатную кв, гагарина185</a></div>
-                <div class="description">срочно сдам благоустроенную квартиру в уральске район "детсад"на длительный срок</div>
-            </div>
-            <span class="price">38 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">03.04.2013</time>
-                                            Уральск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kaskelen.salexy.kz/c/arenda_3034858.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Аренда">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kaskelen.salexy.kz/c/arenda_3034858.html">Аренда, ул.Жангозина,дом 12,кв.20</a></div>
-                <div class="description">Сдаю 2-х комнатную квартиру с отдельным с/у,гор.вода есть.Недорого. </div>
-            </div>
-            <span class="price">20 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">31.03.2013</time>
-                                            Каскелен                    </div>
             </div>
 </li>                                    
                 

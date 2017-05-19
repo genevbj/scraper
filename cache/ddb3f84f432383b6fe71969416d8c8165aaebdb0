@@ -217,6 +217,25 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/srochno_prodam_mitsubishi_delica_5078071.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5252418.jpg" alt="срочно продам Mitsubishi Delica">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/srochno_prodam_mitsubishi_delica_5078071.html">срочно продам Mitsubishi Delica</a></div>
+                <div class="description">минивэн, 2.5 л, бензин, правый руль, КПП автомат, на ходу, белый, тонировка, противотуманки, велюр, ГУР, налог уплачен, техосмотр пройден, вложений не требует, Гур 4 ведущий, панорамная крыша, турбанадув, кондер, фаркоп, кенгурятник</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.04.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/mitsubishi_delica_1994_goda_5076840.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5249597.jpg" alt="Mitsubishi Delica 1994 года">
                     </a>
@@ -293,32 +312,13 @@
             <time datetime="01-01">12.03.2015</time>
                                             Уральск                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://atyrau.salexy.kz/c/avto_5068920.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5231255.jpg" alt="авто">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://atyrau.salexy.kz/c/avto_5068920.html">авто</a></div>
-                <div class="description">1</div>
-            </div>
-            <span class="price">8 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">26.02.2015</time>
-                                            Атырау                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5064788" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_5068920" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5064788", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5068920", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -344,6 +344,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/avto_5068920.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5231255.jpg" alt="авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/avto_5068920.html">авто</a></div>
+                <div class="description">1</div>
+            </div>
+            <span class="price">8 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.02.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/mitsubishi_carisma_1996g_v_5000_torg_5064788.html">
@@ -620,25 +639,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">30.05.2014</time>
                                             Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kyzylorda.salexy.kz/c/mitsubishi_space_wagon_prodam_5031093.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5151342.jpg" alt="Mitsubishi Space Wagon продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kyzylorda.salexy.kz/c/mitsubishi_space_wagon_prodam_5031093.html">Mitsubishi Space Wagon продам</a></div>
-                <div class="description">Mitsubishi Space Wagon  тонировка, люк, багажник, противотуманки, корректор фар, велюр, CD, MP3, ГУР, ABS, зимний режим, спортивный режим, центрозамок, кондиционер, подогрев сидений, налог уплачен, техосмотр пройден, вложений не требует</div>
-            </div>
-            <span class="price">7 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.05.2014</time>
-                                            Кызылорда                    </div>
             </div>
 </li>                                    
                 

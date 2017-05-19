@@ -316,6 +316,64 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://rudniy.salexy.kz/c/prodam_5160917.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://rudniy.salexy.kz/c/prodam_5160917.html">продам</a></div>
+                <div class="description">Пежо 3008 2014 гв гур abs климат контроль подогрев сидений </div>
+            </div>
+            <span class="price">4 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.05.2016</time>
+                                            Рудный                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/mersedes_s430_4matik_5160711.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5424967.jpg" alt="Мерседес S430 4матик">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/mersedes_s430_4matik_5160711.html">Мерседес S430 4матик</a></div>
+                <div class="description">
+литые диски, тонировка, люк, кожа, дерево, аудиосистема, встроенный телефон, CD, CD-чейнджер, DVD, DVD-чейнджер, ГУР, ABS, SRS, зимний режим, спортивный режим, полный электропакет, центрозамок, кондиционер, климат-контроль, круиз-контроль, подогрев</div>
+            </div>
+            <span class="price">2 990 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.05.2016</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_tayotu_mark_2_5160627.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5424753.jpg" alt="Продам Тайоту Марк 2">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_tayotu_mark_2_5160627.html">Продам Тайоту Марк 2</a></div>
+                <div class="description">Продам срочно автомашину в п. Райымбек Карасайский район ул</div>
+            </div>
+            <span class="price">1 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/prodayu_bmw320_ili_menyayu_na_tenge_5160518.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5424472.jpg" alt="Продаю BMW320 или меняю на тенге">
                     </a>
@@ -351,7 +409,38 @@
             <time datetime="01-01">10.05.2016</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5160273" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5160273", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://kokshetau.salexy.kz/c/prodam_mikroavtobus_sang_iong_istana_5160273.html">
@@ -408,38 +497,7 @@
             <time datetime="01-01">30.04.2016</time>
                                             Усть-Каменогорск                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5158955" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5158955", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/prodaetsya_avtomobil_camry_40_po_zapchastyam_5158955.html">
@@ -667,63 +725,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">21.04.2016</time>
                                             Аксу                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://shymkent.salexy.kz/c/prodam_sitroen_dzhamper_5157130.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5416912.jpg" alt="Продам Ситроен Джампер">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://shymkent.salexy.kz/c/prodam_sitroen_dzhamper_5157130.html">Продам Ситроен Джампер</a></div>
-                <div class="description">Продается автобус Ситроен Джампер 18 мест. 2011 г.в. кондиционер Ирито. Куплен в Ноябре 2011 года в Москве. Один хозяин. Не кредитный.  Установлен новый двигатель, генератор, аккумулятор, сцепление. Обмен на легковой автомобиль</div>
-            </div>
-            <span class="price">840 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">21.04.2016</time>
-                                            Шымкент                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/srochno_prodam_5156891.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="срочно продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/srochno_prodam_5156891.html">срочно продам</a></div>
-                <div class="description">тайота карина-2 требует ремонт в электрической части. в остальном состояние удовлетворительное</div>
-            </div>
-            <span class="price">200 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">21.04.2016</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/prodazha_bmv_728_chernogo_cveta_5156826.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5416335.jpg" alt="Продажа БМВ 728 черного цвета">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/prodazha_bmv_728_chernogo_cveta_5156826.html">Продажа БМВ 728 черного цвета</a></div>
-                <div class="description">Состояние машины хорошее, есть память сидений, люк, внутри телефон, два комплекта колес, задняя шторка, электрозеркала, подогрев сидений, кондиционер</div>
-            </div>
-            <span class="price">1 600 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">20.04.2016</time>
-                                            Костанай                    </div>
             </div>
 </li>                                    
                 

@@ -217,6 +217,26 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://semipalatinsk.salexy.kz/c/prodam_5088636.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://semipalatinsk.salexy.kz/c/prodam_5088636.html">продам</a></div>
+                <div class="description">продам срочно в связи с переездом Фольксваген Пассат В4 1994, черный,  объем 2,0,      800000 тыс тенге
+Делика, 1993 г  объем 2,5 зеленый металлик 900000тыс тенге</div>
+            </div>
+            <span class="price">800 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.06.2015</time>
+                                            Семей                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://semipalatinsk.salexy.kz/c/prodam_5088623.html">
                             <img src="/themes/2015-04/images/nf.png" alt="продам">
                     </a>
@@ -290,32 +310,13 @@
             <time datetime="01-01">01.04.2015</time>
                                             Караганда                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/volkswagen_passat_2003_5070604.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5234947.jpg" alt="Volkswagen Passat, 2003">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/volkswagen_passat_2003_5070604.html">Volkswagen Passat, 2003</a></div>
-                <div class="description">Литые диски, тонировка, багажник, противотуманки, омыватель фар, корректор фар, обогрев зеркал, кожа, дерево, CD-чейнджер, MP3, DVD, DVD-чейнджер, ГУР, ABS, спортивный режим, полный электропакет, центрозамок, кондиционер, климат-контроль, круиз-контр</div>
-            </div>
-            <span class="price">12 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.03.2015</time>
-                                            Караганда                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5070444" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_5070604" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5070444", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5070604", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -341,6 +342,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/volkswagen_passat_2003_5070604.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5234947.jpg" alt="Volkswagen Passat, 2003">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/volkswagen_passat_2003_5070604.html">Volkswagen Passat, 2003</a></div>
+                <div class="description">Литые диски, тонировка, багажник, противотуманки, омыватель фар, корректор фар, обогрев зеркал, кожа, дерево, CD-чейнджер, MP3, DVD, DVD-чейнджер, ГУР, ABS, спортивный режим, полный электропакет, центрозамок, кондиционер, климат-контроль, круиз-контр</div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.03.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodam_wv_golf_3_god_vypuska_1993_5070444.html">
@@ -606,25 +626,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">13.10.2014</time>
                                             Тараз                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodam__5046064.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodam__5046064.html">Продам</a></div>
-                <div class="description">гольф 3 v-1.8  1993 г</div>
-            </div>
-            <span class="price">5 700 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">27.09.2014</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

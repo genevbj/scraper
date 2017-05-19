@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/obmenyayu_2841174.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Обменяю">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/obmenyayu_2841174.html">Обменяю</a></div>
+                <div class="description">Обменяю автомобиль марки Hyunday Elantra 2012 года выпуска на 1-2 комнатную квартиру с доплатой.</div>
+            </div>
+            <span class="price">26 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.02.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/obmnyayu_2840680.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3042810.jpg" alt="продам.обмняю">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/obmnyayu_2840680.html">продам.обмняю</a></div>
+                <div class="description">продам или обменяю Mazda Tribute 2001 года 4wd на авто классом ниже</div>
+            </div>
+            <span class="price">14 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.02.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/opel_astra_2828365.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам опель астра">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/opel_astra_2828365.html">продам опель астра</a></div>
+                <div class="description">Продам Опель астра 1994г. Срочно, недорого 8 705 768-27-79</div>
+            </div>
+            <span class="price">3 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">22.02.2013</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/volkswagen_passat_v3_universal_2820040.html">
                             <img src="/themes/2015-04/images/nf.png" alt="продам volkswagen passat В3 универсал">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">17.02.2013</time>
                                             Усть-Каменогорск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_2807752" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_2807752", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://rudniy.salexy.kz/c/_2807752.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">13.02.2013</time>
                                             Степногорск                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_2784405" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_2784405", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ridder.salexy.kz/c/_2784405.html">
@@ -680,63 +737,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">30.01.2013</time>
                                             Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://petropavlovsk.salexy.kz/c/otdam_v_arendu_mashinu_2639417.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="отдам в аренду машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/otdam_v_arendu_mashinu_2639417.html">отдам в аренду машину</a></div>
-                <div class="description">отдам в аренду ауди 100 в хорошие руки</div>
-            </div>
-            <span class="price">2 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.01.2013</time>
-                                            Петропавловск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://shuchinsk.salexy.kz/c/prodam_mashinu_2625248.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/2886022.jpg" alt="Продам машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://shuchinsk.salexy.kz/c/prodam_mashinu_2625248.html">Продам машину</a></div>
-                <div class="description"> цвет салона серый, подогрев сидений, электрические стекло-подъемники,регулировка руля, в хорошем состоянии не требует вложений. Торг при осмотре.</div>
-            </div>
-            <span class="price">9 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">26.01.2013</time>
-                                            Щучинск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_avtomobil_2625009.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/2885645.jpg" alt="Продам автомобиль">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_avtomobil_2625009.html">Продам автомобиль</a></div>
-                <div class="description">Toyota Corolla 1992г, АКПП, ХТС, ГУР, серый металлик, пробег 245000 км, тонировка, полный электропакет, объем 1,5 л , руль справа. 5000.  Возможен обмен.  </div>
-            </div>
-            <span class="price">5 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">26.01.2013</time>
-                                            Усть-Каменогорск                    </div>
             </div>
 </li>                                    
                 

@@ -217,6 +217,25 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/srochno_prodaetsya_a_m_volkswagen_rassat_4649456.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5123522.jpg" alt="срочно!!! продается а/м Volkswagen рassat">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/srochno_prodaetsya_a_m_volkswagen_rassat_4649456.html">срочно!!! продается а/м Volkswagen рassat</a></div>
+                <div class="description">срочно!!! продается а/м Volkswagen рassat 2007г/в серебристый, диски, полный комплек, подогрев сиденье мультируль, американец, обьем 2,0, цена договорная, прошу 18000у.е торг при осмотре</div>
+            </div>
+            <span class="price">18 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.01.2014</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://shahtinsk.salexy.kz/c/_4304433.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5086103.jpg" alt="продам">
                     </a>
@@ -290,32 +309,13 @@
             <time datetime="01-01">13.11.2013</time>
                                             Костанай                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/ajok87n_mail_ru_4198947.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="ajok87n@mail.ru">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/ajok87n_mail_ru_4198947.html">ajok87n@mail.ru</a></div>
-                <div class="description">продаю волксваген венто вып1992 г в хорошем состояние обращатся в любое время цвет синий</div>
-            </div>
-            <span class="price">50 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.11.2013</time>
-                                            Караганда                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4198502" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_4198947" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4198502", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_4198947", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -341,6 +341,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/ajok87n_mail_ru_4198947.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="ajok87n@mail.ru">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/ajok87n_mail_ru_4198947.html">ajok87n@mail.ru</a></div>
+                <div class="description">продаю волксваген венто вып1992 г в хорошем состояние обращатся в любое время цвет синий</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">09.11.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/myrzabek_kz_mail_ru_4198502.html">
@@ -614,25 +633,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">27.06.2013</time>
                                             Лисаковск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/mashinu_3528583.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/mashinu_3528583.html">продам машину</a></div>
-                <div class="description">срочно продам машину</div>
-            </div>
-            <span class="price">5 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">25.06.2013</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

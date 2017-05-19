@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://baikonur.salexy.kz/c/prodam_toyotu_sienna_1998_g_v_5180627.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/78/c0/78c05b05f3b4f524cfde4534d21518fb.jpg" alt="Продам Тойоту сиенна 1998 г. в. 6100$">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://baikonur.salexy.kz/c/prodam_toyotu_sienna_1998_g_v_5180627.html">Продам Тойоту сиенна 1998 г. в. 6100$</a></div>
+                <div class="description">Машина для своих лет в идеальном состоянии не крашеная, не битая</div>
+            </div>
+            <span class="price">6 100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.08.2016</time>
+                                            Байконур                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_5180618.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/9e/1e/9e1e5dc44fd68e866aa1d6ac33f7ea9a.jpg" alt="продам ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_5180618.html">продам </a></div>
+                <div class="description">продам срочно авто в аулиеколье на ходу только надо стартер и помпа</div>
+            </div>
+            <span class="price">150 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.08.2016</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://bulaevo.salexy.kz/c/lyubitelyam_raritetov_prodam_retro-avtomobil_moskvich_408_5180415.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/8c/50/8c50b941720c095ea78d9ac93974ceeb.jpg" alt="Любителям раритетов! Продам ретро-автомобиль Москвич 408">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://bulaevo.salexy.kz/c/lyubitelyam_raritetov_prodam_retro-avtomobil_moskvich_408_5180415.html">Любителям раритетов! Продам ретро-автомобиль Москвич 408</a></div>
+                <div class="description">Автомобиль Москвич 408 в хорошем состоянии, на ходу, пакет документов, все комплектующие родные, краска еще заводская. Хозяин один. Эксплуатировался мало и бережно.Торг уместен</div>
+            </div>
+            <span class="price">700 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.08.2016</time>
+                                            Булаево                     </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodam_5180371.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/e5/c4/e5c4e8403342aa631dd6a076df921d96.jpg" alt="продам">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">27.08.2016</time>
                                             Талдыкорган                     </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5180173" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5180173", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://lisakovsk.salexy.kz/c/audi_80_5180173.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">25.08.2016</time>
                                             Атырау                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5178861" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5178861", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://kandyagash.salexy.kz/c/prodam_patriot_v_otlichnom_sostoyanii_realnomu_klientomu_obyazatelen_torg_5178861.html">
@@ -669,63 +726,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">28.07.2016</time>
                                             Кокшетау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://shuchinsk.salexy.kz/c/srochno_prodam_5175340.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/58/9f/589f95b0c3f99aaaea14a3a4fe6f0dc1.jpg" alt="срочно продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://shuchinsk.salexy.kz/c/srochno_prodam_5175340.html">срочно продам</a></div>
-                <div class="description">срочно продам авто "сеат ароса" требует небольших вложений</div>
-            </div>
-            <span class="price">350 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">27.07.2016</time>
-                                            Щучинск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/prodam_mitsubishi_outlander_2003g_5175220.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5456340.jpg" alt="Продам   Mitsubishi Outlander 2003г. ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_mitsubishi_outlander_2003g_5175220.html">Продам   Mitsubishi Outlander 2003г. </a></div>
-                <div class="description">Продам   Mitsubishi Outlander 2003г</div>
-            </div>
-            <span class="price">2 000 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">26.07.2016</time>
-                                            Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/srochno_prodam_mersedes_ili_obmenyayu_na_zemlyu_5173984.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5453412.jpg" alt="срочно продам Мерседес или обменяю на землю">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/srochno_prodam_mersedes_ili_obmenyayu_na_zemlyu_5173984.html">срочно продам Мерседес или обменяю на землю</a></div>
-                <div class="description">Рассмотрю варианты обмена на землю, крестьянское хозяйство</div>
-            </div>
-            <span class="price">1 800 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">19.07.2016</time>
-                                            Алматы                    </div>
             </div>
 </li>                                    
                 

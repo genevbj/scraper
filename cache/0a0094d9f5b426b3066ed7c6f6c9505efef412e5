@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_5119211.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_5119211.html">Сдам, 188 ул.</a></div>
+                <div class="description">1ком. квартиру меблированную на долгий срок. Чистая уютная с бытовой техникой. Только семейной паре, можно с ребенком или 2 девушкам. Адрес 188 ул. Звонить после 7 вечера</div>
+            </div>
+            <span class="price">90 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_1_komn_kvartiru_5119037.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам 1 комн квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_1_komn_kvartiru_5119037.html">сдам 1 комн квартиру, Петрова </a></div>
+                <div class="description">Сдам 1 комн кв на длительный срок. Район Евразии, рядом 22 школа. Мебель, техника, ремонт. 110 тыс + ком услуги</div>
+            </div>
+            <span class="price">110 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.11.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shuchinsk.salexy.kz/c/sdayu_kvartiru_5118998.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдаю квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shuchinsk.salexy.kz/c/sdayu_kvartiru_5118998.html">сдаю квартиру, Ауэзова 39-99</a></div>
+                <div class="description">Квартира находится в центре, все условия, 3-х комнатная, кабельное ТВ, домофон,телефон</div>
+            </div>
+            <span class="price">60 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.11.2015</time>
+                                            Щучинск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kyzylorda.salexy.kz/c/sdam_kvartiru_5118957.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kyzylorda.salexy.kz/c/sdam_kvartiru_5118957.html">Сдам квартиру, мкр.шугла, дом 6/а</a></div>
+                <div class="description">без ремонта, отопление отличное, пол, аристон, газовая плита, без мебели, в подъезде кодовая дверь, предоплата обязательно, сзади дома есть гараж для авто, в месяц 50 000 тенге + комуслуги, торг уместен. Около ДОСААФА, 187 средн.школа рядом</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.11.2015</time>
+                                            Кызылорда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/arenda_kvartiry_5118861.html">
                             <img src="/themes/2015-04/images/nf.png" alt="аренда квартиры">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">04.11.2015</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5118804" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5118804", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/sdam_1k_kv_5118804.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">03.11.2015</time>
                                             Актау                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5118558" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5118558", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdam_5118558.html">
@@ -552,82 +628,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">31.10.2015</time>
                                             Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/sdam_1-kom_kvartiru_na_dlitelnyy_srok_5117961.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 1-ком. квартиру на длительный срок">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/sdam_1-kom_kvartiru_na_dlitelnyy_srok_5117961.html">Сдам 1-ком. квартиру на длительный срок</a></div>
-                <div class="description">Сдам 1-ком. квартиру на длительный срок СРОЧНО,  ремонт, пласт. окна, балкон застеклен, неугл., 3 этаж, чистая, уютная, рядом две школы, мебель по надобности.  30,7 кв. Пересечение ул. Желтоксан - Сейфуллина</div>
-            </div>
-            <span class="price">95 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">31.10.2015</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://uralsk.salexy.kz/c/sdam_dvuh_komnatnuyu_kvartiru_5117863.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам двух комнатную квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://uralsk.salexy.kz/c/sdam_dvuh_komnatnuyu_kvartiru_5117863.html">Сдам двух комнатную квартиру, сурова 143</a></div>
-                <div class="description">сдам двух комнатную квартиру в центре на долгий срок район революции.проспект достык 203 частично мебель холодильник стиралка телевизор каб </div>
-            </div>
-            <span class="price">50 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">30.10.2015</time>
-                                            Уральск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/sdam_kvartiru_2-h_komnatnuyu_v_mkr_aksay1_5117657.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам квартиру 2-х комнатную в мкр Аксай1">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/sdam_kvartiru_2-h_komnatnuyu_v_mkr_aksay1_5117657.html">Сдам квартиру 2-х комнатную в мкр Аксай1</a></div>
-                <div class="description">Сдам квартиру 2-х комнатную мкр Аксай1 Толе би Саина 5 этаж 12 этажного монолитного дома. Комнаты изолированы, меблированная, без посредников, семейным на длительный срок, аренда+ком услуги</div>
-            </div>
-            <span class="price">80 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.10.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://lisakovsk.salexy.kz/c/sdam_1_komnatnuyu_kvartiru_5117644.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 1 комнатную квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://lisakovsk.salexy.kz/c/sdam_1_komnatnuyu_kvartiru_5117644.html">Сдам 1 комнатную квартиру</a></div>
-                <div class="description">Адрес 6-15,застеклённая лоджия,частично мебелерованная </div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.10.2015</time>
-                                            Лисаковск                    </div>
             </div>
 </li>                                    
                 

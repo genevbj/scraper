@@ -146,6 +146,85 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/poshiv_chehlov_3683650.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Пошив чехлов">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/poshiv_chehlov_3683650.html">Пошив чехлов</a></div>
+                <div class="description">Пошив чехлов на все виды транспортаюПеретяжка
+Качестсвенно! Супер! 24-12-43,8-77 -699-18-38,8-701-206-28-37</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.07.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/himchistka_avtomashin_3622705.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="химчистка автомашин">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/himchistka_avtomashin_3622705.html">химчистка автомашин</a></div>
+                <div class="description">химчистка автомашин, как легковых от 4500 и выше  так и внедорожников от 5000 и выше в зависимости от состояния... </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.07.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/ochevidcy_dtp_na_al-farabi_-_askarova_3621687.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Очевидцы ДТП на Аль-Фараби - Аскарова.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/ochevidcy_dtp_na_al-farabi_-_askarova_3621687.html">Очевидцы ДТП на Аль-Фараби - Аскарова.</a></div>
+                <div class="description">Очевидцы ДТП на Аль-Фараби - Аскарова.
+
+Помогите, пожалуйста, разыскать свидетелей наезда на пешехода Аль-Фараби - Аскарова, произошедшего 4 июля около 23:00. Возможно, у кого-то в машине стоял регист</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.07.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/transfery_gidy_perevodchiki_v_berline_3615914.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Трансферы,гиды,переводчики в Берлине">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/transfery_gidy_perevodchiki_v_berline_3615914.html">Трансферы,гиды,переводчики в Берлине</a></div>
+                <div class="description">Водители-профессионалы нашей компании и современный автопарк - это отражение многогранного сервиса на высшем уровне. Наряду с классическими перевозками и водительским сервисом, наш эксклюзивный лимузи</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.07.2013</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/dostavka_3604034.html">
                             <img src="/themes/2015-04/images/nf.png" alt="доставка ">
                     </a>
@@ -162,7 +241,38 @@
             <time datetime="01-01">11.07.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3599540" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3599540", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/ischu_taksi_-_s_raboty_i_na_rabotu_3599540.html">
@@ -242,38 +352,7 @@
             <time datetime="01-01">25.06.2013</time>
                                             Караганда                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_3527440" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_3527440", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/shumomer_3527440.html">
@@ -492,82 +571,6 @@
             <time datetime="01-01">21.05.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_detskiy_velosiped_3363404.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/4125333.jpg" alt="Продам детский велосипед">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_detskiy_velosiped_3363404.html">Продам детский велосипед</a></div>
-                <div class="description">Продам детский трехколесный велосипед для детей 2-3 лет.</div>
-            </div>
-            <span class="price">3 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">20.05.2013</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/my_ischem_dilerov_vo_vseh_regionah_kazahstana_3223090.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Мы ищем дилеров во всех регионах Казахстана.">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/my_ischem_dilerov_vo_vseh_regionah_kazahstana_3223090.html">Мы ищем дилеров во всех регионах Казахстана.</a></div>
-                <div class="description">Наша компания ТОО «GPS monitoring Kazakhstan» является разработчиком программного обеспечения и поставщиком оборудования для GPS мониторинга подвижных объектов:  машин, людей, грузов, животных, самоле</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.05.2013</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/podogrev_dizelnogo_topliva_3212394.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Подогрев дизельного топлива">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/podogrev_dizelnogo_topliva_3212394.html">Подогрев дизельного топлива</a></div>
-                <div class="description">Подогрев дизельного топлива в зимний период обеспечивает снижение его вязкости (повышение текучести), предотвращает парафинизацию в ответственных узлах топливной магистрали, восстанавливает и улучшает</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.05.2013</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kokshetau.salexy.kz/c/po_zapchastyam_3212328.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="по запчастям">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kokshetau.salexy.kz/c/po_zapchastyam_3212328.html">по запчастям</a></div>
-                <div class="description">продам по запчастям Mersedes Benz 123 кузов 240 дизель и 300 дизель в г.Макинск сот.87013767854</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.05.2013</time>
-                                            Кокшетау                    </div>
-            </div>
 </li>                                    
                 
                 
@@ -660,7 +663,6 @@
 
 <ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/prochee"></a></li>
 <li class="text control back first-none"><a href="/avtomobili_i_motocikly/prochee?page=42">назад</a></li>
-<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=37">37</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=38">38</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=39">39</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=40">40</a></li>
@@ -670,8 +672,9 @@
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=44">44</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=45">45</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=46">46</a></li>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=47">47</a></li>
 <li class="text control forward last-none"><a href="/avtomobili_i_motocikly/prochee?page=44">вперёд</a></li>
-<li class="text last-none"><a href="/avtomobili_i_motocikly/prochee?page=46"></a></li></ul>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/prochee?page=47"></a></li></ul>
 <ul class="relink-category">
             <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
                 <li>

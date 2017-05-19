@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/prodam_4079493.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam_4079493.html">Продам</a></div>
+                <div class="description">Продам Митсубиси Саппоро 1988 года выпуска, объем 2,4л, бензин, полный электропакет,зеленый металлик, в хорошем состоянии.Цена:3300$</div>
+            </div>
+            <span class="price">500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.10.2013</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://rudniy.salexy.kz/c/_4073511.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5085938.jpg" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://rudniy.salexy.kz/c/_4073511.html">продам</a></div>
+                <div class="description">DAEWOO NEXIA ,1.5,синий металлик,гур,кондиционер,центральный замок,комплект зимней резины с дисками</div>
+            </div>
+            <span class="price">1 200 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.10.2013</time>
+                                            Рудный                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/niva_4h4_4068822.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5086107.jpg" alt="Нива 4х4">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/niva_4h4_4068822.html">Нива 4х4</a></div>
+                <div class="description">в отличном состоянии, 2012г</div>
+            </div>
+            <span class="price">9 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.10.2013</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/prodam_krossover_4060175.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5085945.jpg" alt="Продам кроссовер">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">11.10.2013</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_4034875" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_4034875", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/srochno_yu_mashinu_4034875.html">
@@ -409,38 +497,7 @@
             <time datetime="01-01">06.10.2013</time>
                                             Актобе                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4016567" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4016567", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/a_m_lexus_lx470_4016567.html">
@@ -669,63 +726,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">12.09.2013</time>
                                             Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/mashinu_subaru_forester_3897305.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5123476.jpg" alt="продам машину "Субару Форестер"">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/mashinu_subaru_forester_3897305.html">продам машину Субару Форестер</a></div>
-                <div class="description">машина в отличном состоянии,ремонта не требует.</div>
-            </div>
-            <span class="price">9 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.09.2013</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kokshetau.salexy.kz/c/prodam_3897068.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kokshetau.salexy.kz/c/prodam_3897068.html">Продам</a></div>
-                <div class="description">Продам мерседес 2000г, обьем 2.4, серебристый металлик. Цена 7000 доллоров</div>
-            </div>
-            <span class="price">7 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.09.2013</time>
-                                            Кокшетау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://temirtau.salexy.kz/c/mashinu_3896973.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5086041.jpg" alt="продаю машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://temirtau.salexy.kz/c/mashinu_3896973.html">продаю машину</a></div>
-                <div class="description">nissan cefiro 2000 г. полный эл. пакет сигнализация вложений не требует</div>
-            </div>
-            <span class="price">8 200 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.09.2013</time>
-                                            Темиртау                    </div>
             </div>
 </li>                                    
                 

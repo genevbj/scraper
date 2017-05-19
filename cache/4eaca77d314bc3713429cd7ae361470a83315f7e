@@ -316,6 +316,73 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_avariynoe_avto_5203532.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам аварийное авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_avariynoe_avto_5203532.html">продам аварийное авто</a></div>
+                <div class="description">Общественное объединение «Партия «Нұр Отан» реализует автомашину модели Toyota Camry, год выпуска 2013, цвет черный. 
+        Начальная и минимальная цена 1 165 000 ( один миллион сто шестьдесят пять тысяч) тенге</div>
+            </div>
+            <span class="price">1 165 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.01.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/prodam_mashinu_5203028.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам Машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/prodam_mashinu_5203028.html">продам Машину</a></div>
+                <div class="description">МаздаMX6 объем 2литра. Купе.механика </div>
+            </div>
+            <span class="price">800 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.12.2016</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/v_arendu_5202941.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="в аренду">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/v_arendu_5202941.html">в аренду</a></div>
+                <div class="description">срочно требуется водители на машины Дэу Нексиа, Лада Приора
+ежесуточный план 5500 тг
+первоначальный взнос 30 000 тг
+срок выкупа 1,5 года
+звонить с 09.00 до 18.00
+
+требования;
+1.возраст от 25 лет
+2.стаж вождение от 5 лет
+3</div>
+            </div>
+            <span class="price">5 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">28.12.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/arenda_s_posleduyuschim_vykupom_5202867.html">
                             <img src="/themes/2015-04/images/nf.png" alt="аренда с последующим выкупом">
                     </a>
@@ -351,7 +418,38 @@
             <time datetime="01-01">27.12.2016</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5202674" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5202674", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodam_audi_80_5202674.html">
@@ -408,38 +506,7 @@
             <time datetime="01-01">17.12.2016</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5201324" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5201324", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/prodam_5201324.html">
@@ -672,63 +739,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">08.12.2016</time>
                                             Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/lada_priora_lyuksovaya_-2015g_5199488.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Лада приора (люксовая)-2015г">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/lada_priora_lyuksovaya_-2015g_5199488.html">Лада приора (люксовая)-2015г</a></div>
-                <div class="description">Аренда с последующим выкупом на 30 мес. лада приора-2015г.пробег 20000км. люксовая. белый. состояние идеальное. миханника. предоплата 150000тг.прописка алматы и область</div>
-            </div>
-            <span class="price">150 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">08.12.2016</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/prodaetsya_mashina_kia_rio_5199186.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продается машина Kia Rio">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/prodaetsya_mashina_kia_rio_5199186.html">Продается машина Kia Rio</a></div>
-                <div class="description">Продается Киа Рио люкс 2015 г.в. Объем - 1, 6л. Километраж - 20000. Кондер. Абс. Гур</div>
-            </div>
-            <span class="price">2 900 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">06.12.2016</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodam_prioru_5199088.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам приору">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodam_prioru_5199088.html">Продам приору</a></div>
-                <div class="description">Продам приору 2012 г</div>
-            </div>
-            <span class="price">200 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">06.12.2016</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

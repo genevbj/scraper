@@ -197,7 +197,7 @@
                 </div>
 
             </fieldset>
-            </form>        </div>
+            <input type="hidden" value="77874" name="token" id="token" />            </form>        </div>
         <aside id="sidebar" class="ad-rules">
                             <div class="item">
                     <h3 class="active">Как продать быстрее?</h3>

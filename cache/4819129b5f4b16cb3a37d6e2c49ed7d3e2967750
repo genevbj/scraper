@@ -220,6 +220,46 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/centr_levogo_berega_5221086.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/6e/f0/6ef0c8bdeb7551347577fe2797230406.jpg" alt="  Центр левого берега Астаны">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/centr_levogo_berega_5221086.html">  Центр левого берега Астаны, Сауран 3</a></div>
+                <div class="description">Сдам отличную  2-х комнатную квартиру, 13000, документы,
+2 односпальные кровати, 1 большой диван,  в шаговой зоне Байтерек,  
+развлекательно-торговый  центр Керуен,  транспорт в разные стороны города,  стиральная машинка, телевизор, холодильник,  м</div>
+            </div>
+            <span class="price">13 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.05.2017</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/sdam_5220991.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/sdam_5220991.html">Сдам</a></div>
+                <div class="description">сдам квартиру на длительный срок мкр</div>
+            </div>
+            <span class="price">40 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.05.2017</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://atyrau.salexy.kz/c/nedvizhimost_v_arendu_5220906.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Недвижимость в аренду">
                     </a>
@@ -274,7 +314,38 @@
             <time datetime="01-01">12.05.2017</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5220799" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5220799", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://aktau.salexy.kz/c/sdam_2_komn_kvartiru_na_5220799.html">
@@ -312,38 +383,7 @@
             <time datetime="01-01">11.05.2017</time>
                                             Рудный                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5220618" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5220618", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://aktau.salexy.kz/c/sdacha_kvartiry_5220618.html">
@@ -631,45 +671,6 @@
 • паровой утюг</div>
             </div>
             <span class="price">7 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">30.04.2017</time>
-                                            Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/sdayu_3h_komnatnuyu_kvartiru_na_5219730.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/9f/3e/9f3eca1b8ef7e3a0c17cad932ab33d8b.jpg" alt="сдаю 3х комнатную квартиру на муканова">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/sdayu_3h_komnatnuyu_kvartiru_na_5219730.html">сдаю 3х комнатную квартиру на муканова, муканова</a></div>
-                <div class="description">солнечная сторона, комнаты раздельные, окна пластиковые включая болкон</div>
-            </div>
-            <span class="price">80 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">30.04.2017</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/kvartira_v_centre_posutochno_5219729.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/81/6a/816a82e1846460436801550e38494fcb.jpg" alt="Квартира в Центре посуточно.">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/kvartira_v_centre_posutochno_5219729.html">Квартира в Центре посуточно., Алтынсарина 122</a></div>
-                <div class="description">Avis Hotel предлагает современную, комфортабельную квартиру гостиничного типа в новом доме по доступной цене. Уютная, просторная однокомнатная квартира находиться в ЦЕНТРЕ, что очень удобно для гостей нашего города. 
-• Центр города</div>
-            </div>
-            <span class="price">6 500 тг.</span>
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">30.04.2017</time>

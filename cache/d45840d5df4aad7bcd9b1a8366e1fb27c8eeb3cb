@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/srochno_prodaetsya_mazda_cronos_4643864.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5123379.jpg" alt="Срочно продаётся "Mazda Cronos"">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/srochno_prodaetsya_mazda_cronos_4643864.html">Срочно продаётся Mazda Cronos</a></div>
+                <div class="description">Срочно продаётся автомобиль "Mazda Cronos" 1994 года выпуска. Вложения и ремонта не требуется. Цена: 5.500$ торг. возможен.</div>
+            </div>
+            <span class="price">5 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.12.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_4638375.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5123299.jpg" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_4638375.html">Продам</a></div>
+                <div class="description">Срочно авто универсал черного цвета, торг уместен</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.12.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_4634514.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_4634514.html">Продам</a></div>
+                <div class="description">BMW-318 универсал срочно механика, объем 1,8, бензин, техосмотр, стаховка, налог. В хорошем состоянии.</div>
+            </div>
+            <span class="price">7 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.12.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/arenda_s_posleduyuschim_vykupom_4632627.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5123305.jpg" alt="аренда с последующим выкупом">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">19.12.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_4520858" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_4520858", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/srochno_prodam_lada_priora_4520858.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">18.12.2013</time>
                                             Атбасар                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4464798" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4464798", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://shymkent.salexy.kz/c/prodam_toyota_previa_4464798.html">
@@ -686,63 +743,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">07.12.2013</time>
                                             Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_4345330.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="автомобиль">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_4345330.html">автомобиль</a></div>
-                <div class="description">срочно продам Автомобиль Митсубиси Диамант,1995 г.в. правый руль, передний привод,2,5- объем, типтроник, литье, тонировка, магнитола, резина-всесезонка(липучка), климат-контроль, кондиционер, эл. регу</div>
-            </div>
-            <span class="price">3 800 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">07.12.2013</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/_4341575.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/_4341575.html">продам</a></div>
-                <div class="description">волга 31029 на ходу белая 2.4 об карбюратор от ваз расход 10  на  100 требует незначительный ремонт  срочно 100.000 т.г</div>
-            </div>
-            <span class="price">100 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">06.12.2013</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodam_gazel_bortovuyu_4337613.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5086123.jpg" alt="Продам Газель бортовую!                  ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodam_gazel_bortovuyu_4337613.html">Продам Газель бортовую!                  </a></div>
-                <div class="description">Продам Газель бортовую 2006 года, новый двигатель 100-ка, карбюраторный, резина новая, тент новый. Налог уплачен до 2014 года, техосмотр пройден, вложений не требует, бензин. Срочно. </div>
-            </div>
-            <span class="price">12 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">05.12.2013</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

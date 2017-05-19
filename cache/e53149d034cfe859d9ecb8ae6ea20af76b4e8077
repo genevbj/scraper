@@ -316,6 +316,64 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://atbasar.salexy.kz/c/prodam_avtomobil_5056615.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atbasar.salexy.kz/c/prodam_avtomobil_5056615.html">продам автомобиль</a></div>
+                <div class="description">тойота ланд крузер 80 Год выпуск Цвет серебристый В хорошем состоянии Торг есть</div>
+            </div>
+            <span class="price">25 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.12.2014</time>
+                                            Атбасар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_vnedorozhnik_nissan_mistral_g_v_v_horoshem_sostoyanii_5056608.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5202589.jpg" alt="Продаю внедорожник Nissan Mistral г.в. в хорошем состоянии $">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodayu_vnedorozhnik_nissan_mistral_g_v_v_horoshem_sostoyanii_5056608.html">Продаю внедорожник Nissan Mistral г.в. в хорошем состоянии $</a></div>
+                <div class="description">полный привод, 7мест, дизель, КПП автомат, зеленый металлик, литые диски, зимний режим, запасная топливная аппаратура, автоматическая коробка передач, зимняя+летняя резина, фильтра+масла поменяны</div>
+            </div>
+            <span class="price">9 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.12.2014</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/srochno_prodam_audi_80_b_g_5056573.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5202459.jpg" alt="Срочно продам ауди 80 б г.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/srochno_prodam_audi_80_b_g_5056573.html">Срочно продам ауди 80 б г.</a></div>
+                <div class="description">Литые диски, тонировка, люк, спойлер, велюр, CD, MP3, ГУР, ABS, сигнализация, центрозамок, налог уплачен, техосмотр пройден, вложений не требует
+Срочно продам ауди 80 б г.в отличном состоянии! (торг)</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.12.2014</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/toyota_highlander_goda_za_torg_umesten_5056397.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5202158.jpg" alt="Toyota Highlander года за $ Торг Уместен">
                     </a>
@@ -351,7 +409,38 @@
             <time datetime="01-01">03.12.2014</time>
                                             Уральск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5055992" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5055992", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodam_mitsubishi_space_wagon_5055992.html">
@@ -408,38 +497,7 @@
             <time datetime="01-01">01.12.2014</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5055606" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5055606", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/tolko_v_dobrye_ruki_5055606.html">
@@ -666,63 +724,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">11.11.2014</time>
                                             Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kapchagay.salexy.kz/c/prodam_avtomobil_marki_hyundai_sonata_2_5052237.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193477.jpg" alt="Продам автомобиль марки hyundai sonata 2">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kapchagay.salexy.kz/c/prodam_avtomobil_marki_hyundai_sonata_2_5052237.html">Продам автомобиль марки hyundai sonata 2</a></div>
-                <div class="description">Срочно продам автомобиль марки hyundai sonata 2, 1992 года выпуска. кпп автомат. v 2 литра</div>
-            </div>
-            <span class="price">2 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Капчагай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodam_legkovoy_avtomobil_5051316.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам легковой автомобиль ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodam_legkovoy_avtomobil_5051316.html">продам легковой автомобиль </a></div>
-                <div class="description">Продам Lada 15 год выпуска 2012 г. (декабрь). Пробег 38000 км</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">03.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_vaz_2109_5051020.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам ваз 2109 ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_vaz_2109_5051020.html">продам ваз 2109 </a></div>
-                <div class="description">в аварийном состояние на запчасти</div>
-            </div>
-            <span class="price">90 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">01.11.2014</time>
-                                            Усть-Каменогорск                    </div>
             </div>
 </li>                                    
                 

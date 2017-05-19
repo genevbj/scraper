@@ -1,5 +1,12 @@
 <?php
 
+function __var_dump_ret($mixed = null) {
+  ob_start();
+  var_dump($mixed);
+  $content = ob_get_contents();
+  ob_end_clean();
+  return $content;
+}
 
 class Cache 
 {
@@ -34,9 +41,14 @@ class Cache
     }
 
 
-    function save($url,$html)
+    function save($url,$html,$meta='')
     {
 	file_put_contents($this->get_ondisk_name($url),$html);
+	if(!empty($meta))
+	{
+	    file_put_contents($this->get_ondisk_name($url).'.meta',__var_dump_ret($meta));
+	    file_put_contents($this->get_ondisk_name($url).'.meta-json',json_encode($meta));
+	}
     }
 
     function get_hash($url)

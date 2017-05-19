@@ -3,6 +3,7 @@ require 'vendor/autoload.php'; // include Composer's autoloader
 
 $client = new MongoDB\Client("mongodb://localhost:27017");
 $collection = $client->demo->map;
+$collection_leaf = $client->demo->ads;
 
 /*
 $result = $collection->FindOneAndUpdate(
@@ -26,7 +27,14 @@ $result = $collection->FindOneAndUpdate(
 $result = $collection->find( [] );
 
 foreach ($result as $entry) {
-    echo $entry['_id'], ': ', $entry['url'], ': ', $entry['retry_count'], "\n";
+    echo $entry['_id'], ': ', $entry['url'], ': ', $entry['up_count'],":", (time()-$entry['update_time']), "\n";
+}
+
+
+$result = $collection_leaf->find( [] );
+
+foreach ($result as $entry) {
+    echo $entry['_id'], ': ', $entry['parent'], ': ', $entry['url'], ': ', $entry['up_count'],":", (time()-$entry['update_time']), "\n";
 }
 
 ?>

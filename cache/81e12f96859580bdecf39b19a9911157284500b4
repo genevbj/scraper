@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://rudniy.salexy.kz/c/prodam_5167343.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://rudniy.salexy.kz/c/prodam_5167343.html">продам</a></div>
+                <div class="description">Три двери,двигатель после кап. ремонта,Расход топлива 10 л</div>
+            </div>
+            <span class="price">1 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.06.2016</time>
+                                            Рудный                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://stepnogorsk.salexy.kz/c/kupit_kuzov_na_nissan_maksima_5167195.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="купить кузов на ниссан максима">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://stepnogorsk.salexy.kz/c/kupit_kuzov_na_nissan_maksima_5167195.html">купить кузов на ниссан максима</a></div>
+                <div class="description">Хочу купить кузов на ниссан максима джей 30 в Астане или Акмолинской области</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.06.2016</time>
+                                            Степногорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_vaz_2115_5167012.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5438702.jpg" alt="продам ваз 2115">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_vaz_2115_5167012.html">продам ваз 2115</a></div>
+                <div class="description">люкс.идеальнное состояние.не бит.не крашен.один хозяин.гаражное хранение,         бережная эксплуатация.ухожен.все ТО и замена расходников делаются                                       своевременно. в режиме "такси" не используется</div>
+            </div>
+            <span class="price">1 550 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.06.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://kokshetau.salexy.kz/c/prodam_5166864.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5438365.jpg" alt="продам">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">12.06.2016</time>
                                             Усть-Каменогорск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5166476" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5166476", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/prodam_avtomobil_5166476.html">
@@ -414,38 +502,7 @@
             <time datetime="01-01">10.06.2016</time>
                                             Атырау                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5166120" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5166120", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodayu_5166120.html">
@@ -686,63 +743,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">03.06.2016</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktau.salexy.kz/c/prodaetsya_avtomobil_5164401.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продается автомобиль">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktau.salexy.kz/c/prodaetsya_avtomobil_5164401.html">Продается автомобиль</a></div>
-                <div class="description">Продается автомобиль Hyundai Elantra чёрного цвета, в отличном состоянии, 2013 г.в., один хозяин, пробег - 30 000 км, объем - 1600 куб.см</div>
-            </div>
-            <span class="price">3 500 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">31.05.2016</time>
-                                            Актау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_5164161.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_5164161.html">Продам</a></div>
-                <div class="description">Toyota Lucida 94 год .2.2. 4 вд </div>
-            </div>
-            <span class="price">1 000 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">30.05.2016</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/prodam_gaz-24_10_v_horoshem_sostoyanii_na_hodu_5164070.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5432055.jpg" alt="Продам ГАЗ-24 10  в хорошем состоянии на ходу">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_gaz-24_10_v_horoshem_sostoyanii_na_hodu_5164070.html">Продам ГАЗ-24 10  в хорошем состоянии на ходу</a></div>
-                <div class="description">Продам ГАЗ-24 10  в хорошем состоянии на ходу</div>
-            </div>
-            <span class="price">450 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">30.05.2016</time>
-                                            Актобе                    </div>
             </div>
 </li>                                    
                 

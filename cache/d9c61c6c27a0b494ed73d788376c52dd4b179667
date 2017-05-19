@@ -146,6 +146,31 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/avtoatele_predostavlyaet_uslugi_peretyazhka_poshiv_dizayn_r_2989063.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/3160674.jpg" alt="Автоателье предоставляет услуги: Перетяжка, пошив, дизайн, реставрация, отделка салонов авто.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/avtoatele_predostavlyaet_uslugi_peretyazhka_poshiv_dizayn_r_2989063.html">Автоателье предоставляет услуги: Перетяжка, пошив, дизайн, реставрация, отделка салонов авто.</a></div>
+                <div class="description">- Химчистка салона.
+- Полировка кузова.
+- Предпродажная подготовка.
+- Поклейка виниловыми пленками.
+- Установка подогрева сидений.
+- Тиснение и Вышивка логотипов.
+- Изменение дизайна салона, тюнинг и </div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.03.2013</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/poshiv_avtochehlov_2875488.html">
                             <img src="/themes/2015-04/images/nf.png" alt="пошив авточехлов">
                     </a>
@@ -225,32 +250,13 @@
             <time datetime="01-01">29.01.2013</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/avto_dvd_2539802.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="авто двд">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/avto_dvd_2539802.html">авто двд</a></div>
-                <div class="description">продаю двд на машину неиправное</div>
-            </div>
-            <span class="price">15 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">25.12.2012</time>
-                                            Алматы                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_2403597" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_2539802" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_2403597", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_2539802", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -276,6 +282,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avto_dvd_2539802.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="авто двд">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avto_dvd_2539802.html">авто двд</a></div>
+                <div class="description">продаю двд на машину неиправное</div>
+            </div>
+            <span class="price">15 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.12.2012</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/avtozvuk_2403597.html">

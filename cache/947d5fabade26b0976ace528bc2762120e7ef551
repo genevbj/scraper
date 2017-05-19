@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://lisakovsk.salexy.kz/c/sdam_odnokomnatnuyu_5190802.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам однокомнатную">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://lisakovsk.salexy.kz/c/sdam_odnokomnatnuyu_5190802.html">сдам однокомнатную, лисаковск 2мкр,17 дом</a></div>
+                <div class="description">сдам однокомнатную квартиру ,частично мебелированную, счетчики на все, теплая предоплата</div>
+            </div>
+            <span class="price">20 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2016</time>
+                                            Лисаковск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://pavlodar.salexy.kz/c/2-h_kom_kvartira_5190732.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="2-х ком. Квартира">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://pavlodar.salexy.kz/c/2-h_kom_kvartira_5190732.html">2-х ком. Квартира</a></div>
+                <div class="description">В хорошая, уютная квартира в панельном доме в центре города</div>
+            </div>
+            <span class="price">60 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2016</time>
+                                            Павлодар                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ekibastuz.salexy.kz/c/arenda_kvartiry_na_dlitelnyy_srok_5190629.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="аренда квартиры на длительный срок">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ekibastuz.salexy.kz/c/arenda_kvartiry_na_dlitelnyy_srok_5190629.html">аренда квартиры на длительный срок, М.Жусупова</a></div>
+                <div class="description">две 3-х комнатные квартиры одна за маг. ШАХТЕР другая за ЦОН</div>
+            </div>
+            <span class="price">30 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.10.2016</time>
+                                            Экибастуз                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_odnokomnatnuyu_kvartiru_5190606.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам однокомнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_odnokomnatnuyu_kvartiru_5190606.html">Сдам однокомнатную квартиру, Айнаколь 56</a></div>
+                <div class="description">Сдам однокомнатную квартиру по улице Айнаколь 56</div>
+            </div>
+            <span class="price">100 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.10.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/sdam_v_arendu_4-h_komnatnuyu_5190519.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Сдам в аренду 4-х комнатную квартиру!!!">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">19.10.2016</time>
                                             Усть-Каменогорск                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5190395" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5190395", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/hozyayka_sdast_odnushku_46kv_m_3_12_5190395.html">
@@ -313,38 +420,7 @@
             <time datetime="01-01">17.10.2016</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5189992" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5189992", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/sdam_5189992.html">
@@ -562,82 +638,6 @@ Wi-Fi постельное белье телевизор холодильник 
         <div class="bottom-panel">
             <time datetime="01-01">15.10.2016</time>
                                             Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/kvartira_na_korotkiy_srok_5189621.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/a4/b4/a4b45a9c4d2f447ce0ee5e2848edc533.jpg" alt="квартира на короткий срок">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/kvartira_na_korotkiy_srok_5189621.html">квартира на короткий срок, кенесары 29</a></div>
-                <div class="description">2 комнатная квартира посуточно на ноч</div>
-            </div>
-            <span class="price">6 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.10.2016</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://pavlodar.salexy.kz/c/sdam_2-komnatnuyu_kvartiru_v_pavlodare_5189614.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 2-комнатную квартиру в Павлодаре на длительный срок">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://pavlodar.salexy.kz/c/sdam_2-komnatnuyu_kvartiru_v_pavlodare_5189614.html">Сдам 2-комнатную квартиру в Павлодаре на длительный срок</a></div>
-                <div class="description">Сдам 2-комнатную квартиру в Павлодаре на длительный срок, район телецентр, 2  этаж в 5-этажном доме, есть возможность подключения телефон, домофон, кабельное телевидение, интернет. Квартира чистая, уютная</div>
-            </div>
-            <span class="price">50 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.10.2016</time>
-                                            Павлодар                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/srochno_sdayu_2-h_komnatnuyu_kvartiru_5189455.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="срочно сдаю 2-х комнатную квартиру в отличном районе. Б.Момышулы 13а">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/srochno_sdayu_2-h_komnatnuyu_kvartiru_5189455.html">срочно сдаю 2-х комнатную квартиру в отличном районе. Б.Момышулы 13а</a></div>
-                <div class="description">срочно сдаю 2-х комнатную квартиру. в квартире все есть с ремонтом и с мебелью</div>
-            </div>
-            <span class="price">130 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.10.2016</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/sdam_na_dlitelnyy_srok_5189364.html">
-                            <img src="/themes/2015-04/images/nf.png" alt=" сдам на длительный срок квартиру в михайловке возле кардиологического центра">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/sdam_na_dlitelnyy_srok_5189364.html"> сдам на длительный срок квартиру в михайловке возле кардиологического центра</a></div>
-                <div class="description">квартира - полуторка: пластиковые окна,полностью мебелированная, титан, новый кухонный гарнитур,железная дверь</div>
-            </div>
-            <span class="price">60 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.10.2016</time>
-                                            Караганда                    </div>
             </div>
 </li>                                    
                 

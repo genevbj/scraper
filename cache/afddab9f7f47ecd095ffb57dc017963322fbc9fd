@@ -217,6 +217,25 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam__5046064.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam__5046064.html">Продам</a></div>
+                <div class="description">гольф 3 v-1.8  1993 г</div>
+            </div>
+            <span class="price">5 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">27.09.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://talgar.salexy.kz/c/prodam__5044456.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5176583.jpg" alt="Продам!!!">
                     </a>
@@ -296,32 +315,13 @@
             <time datetime="01-01">01.09.2014</time>
                                             Актобе                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://baikonur.salexy.kz/c/prodayu_dve_mashiny_obe_wolksvagen_passat_5042229.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продаю две машины!!(обе wolksvagen passat)">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://baikonur.salexy.kz/c/prodayu_dve_mashiny_obe_wolksvagen_passat_5042229.html">продаю две машины!!(обе wolksvagen passat)</a></div>
-                <div class="description">продаю две машины!!(обе wolksvagen passat) первая 1992 г.в. 4000$ вторая 1988 г.в</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">25.08.2014</time>
-                                            Байконур                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5040593" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_5042229" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5040593", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5042229", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -347,6 +347,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://baikonur.salexy.kz/c/prodayu_dve_mashiny_obe_wolksvagen_passat_5042229.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продаю две машины!!(обе wolksvagen passat)">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://baikonur.salexy.kz/c/prodayu_dve_mashiny_obe_wolksvagen_passat_5042229.html">продаю две машины!!(обе wolksvagen passat)</a></div>
+                <div class="description">продаю две машины!!(обе wolksvagen passat) первая 1992 г.в. 4000$ вторая 1988 г.в</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.08.2014</time>
+                                            Байконур                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodam_otlichnyy_volkswagen_passat_b6_universal_2007_goda_vypuska_5040593.html">
@@ -617,25 +636,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">08.01.2014</time>
                                             Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktau.salexy.kz/c/srochno_prodaetsya_a_m_volkswagen_rassat_4649456.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5123522.jpg" alt="срочно!!! продается а/м Volkswagen рassat">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktau.salexy.kz/c/srochno_prodaetsya_a_m_volkswagen_rassat_4649456.html">срочно!!! продается а/м Volkswagen рassat</a></div>
-                <div class="description">срочно!!! продается а/м Volkswagen рassat 2007г/в серебристый, диски, полный комплек, подогрев сиденье мультируль, американец, обьем 2,0, цена договорная, прошу 18000у.е торг при осмотре</div>
-            </div>
-            <span class="price">18 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">03.01.2014</time>
-                                            Актау                    </div>
             </div>
 </li>                                    
                 

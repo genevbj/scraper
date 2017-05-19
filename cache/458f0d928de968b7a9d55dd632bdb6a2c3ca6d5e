@@ -216,6 +216,28 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/prodam_bmw_x_5_5128977.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5356213.jpg" alt="продам bmw x 5">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/prodam_bmw_x_5_5128977.html">продам bmw x 5</a></div>
+                <div class="description">BMW X5 чёрный внедорожник, 2007 г., пробег 95 000 - 99 999 км.
+3.0 AT, бензин, полный привод, левый руль, не битый
+Продается BMW X 5 2007 г., цвет Черный
+ДВС 3.0</div>
+            </div>
+            <span class="price">19 990 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.12.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/v_otlichnom_tehnicheskom_sostoyanii_5121990.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5343296.jpg" alt="В отличном техническом состоянии">
                     </a>
@@ -289,32 +311,13 @@
             <time datetime="01-01">16.09.2015</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_bmw_e30_5102078.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5303473.jpg" alt="Продам BMW E30">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_bmw_e30_5102078.html">Продам BMW E30</a></div>
-                <div class="description">Продаю БМВ Е 30 в хорошем состоянии. На ходу. Японец. Полный электропакет, коробка автомат</div>
-            </div>
-            <span class="price">375 300 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.08.2015</time>
-                                            Алматы                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5091474" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_5102078" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5091474", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5102078", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -340,6 +343,25 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_bmw_e30_5102078.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5303473.jpg" alt="Продам BMW E30">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_bmw_e30_5102078.html">Продам BMW E30</a></div>
+                <div class="description">Продаю БМВ Е 30 в хорошем состоянии. На ходу. Японец. Полный электропакет, коробка автомат</div>
+            </div>
+            <span class="price">375 300 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.08.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://atbasar.salexy.kz/c/prodam_bmv_318_5091474.html">
@@ -597,25 +619,6 @@
         <div class="top-info">
             <div class="info-content">
                 <div class="title"><a href="http://karaganda.salexy.kz/c/srochno_533682050730.html">срочно</a></div>
-                <div class="description"></div>
-            </div>
-            <span class="price">120 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.03.2014</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/srochno_53367059.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5145683.jpg" alt="срочно">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/srochno_53367059.html">срочно</a></div>
                 <div class="description"></div>
             </div>
             <span class="price">120 000 тг.</span>

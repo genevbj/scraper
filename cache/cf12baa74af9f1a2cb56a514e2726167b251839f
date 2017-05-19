@@ -216,6 +216,25 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/avto_2606676.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/avto_2606676.html">авто</a></div>
+                <div class="description">продам авто BMW 1996 г/в</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.01.2013</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/bmw520_2318541.html">
                             <img src="/themes/2015-04/images/nf.png" alt="продам bmw520">
                     </a>
@@ -333,6 +352,29 @@
         </div>
 
         
+                    <div class="info-box fixed-info-box">
+                <div class="img-holder">
+                    <!-- R-147355-2 Яндекс.RTB-блок -->
+<div id="yandex_ad_R-147355-2" style="width:240px;"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Context.AdvManager.render({
+                blockId: "R-147355-2",
+                renderTo: "yandex_ad_R-147355-2",
+                async: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(this, this.document, "yandexContextAsyncCallbacks");
+</script>                </div>
+            </div>
         
     </aside>
 </div>

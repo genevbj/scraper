@@ -316,6 +316,66 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/prodam_5189175.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/prodam_5189175.html">Продам</a></div>
+                <div class="description">Варианты обмена</div>
+            </div>
+            <span class="price">3 800 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.10.2016</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/wolkswagen_polo_besplatno_ot_kompanii_5189006.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d2/15/d2156af2ee6ffc56813cf2600a867806.jpg" alt="Wolkswagen Polo БЕСПЛАТНО от компании, всего за 3 месяцаю, вполне реально">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/wolkswagen_polo_besplatno_ot_kompanii_5189006.html">Wolkswagen Polo БЕСПЛАТНО от компании, всего за 3 месяцаю, вполне реально</a></div>
+                <div class="description">Автомобиль Wolkswagen Polo, Hundai Akccent, Reno Sandero
+В личное пользование, за счет компании, за 3 месяца вполне реально 
+пишите на Wats app
+ПО Номеру указанному на странице, расскажу как?</div>
+            </div>
+            <span class="price">100 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.10.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://stepnogorsk.salexy.kz/c/prodam_audi_100_srochno_torg_5188996.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/4f/a0/4fa06aa0869ab6197122d432e2091fe2.jpg" alt="Продам Audi 100. Срочно, торг!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://stepnogorsk.salexy.kz/c/prodam_audi_100_srochno_torg_5188996.html">Продам Audi 100. Срочно, торг!</a></div>
+                <div class="description">Продам Audi 100 1992 года, 700 000 тенге</div>
+            </div>
+            <span class="price">700 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.10.2016</time>
+                                            Степногорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodazha_avto_5188886.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Продажа авто">
                     </a>
@@ -351,7 +411,38 @@
             <time datetime="01-01">09.10.2016</time>
                                             Караганда                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5188202" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5188202", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodam_avtomobil_5188202.html">
@@ -408,38 +499,7 @@
             <time datetime="01-01">06.10.2016</time>
                                             Караганда                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5186458" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5186458", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodam_avto_5186458.html">
@@ -669,63 +729,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">15.09.2016</time>
                                             Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://lisakovsk.salexy.kz/c/prodam_shevrole_kobaalt_5183698.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продам Шевроле Кобаальт">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://lisakovsk.salexy.kz/c/prodam_shevrole_kobaalt_5183698.html">Продам Шевроле Кобаальт</a></div>
-                <div class="description">Продам Шевроле Кобальт.Седан, 1</div>
-            </div>
-            <span class="price">2 800 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.09.2016</time>
-                                            Лисаковск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://shymkent.salexy.kz/c/audi_v4_5183663.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="ауди В4">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://shymkent.salexy.kz/c/audi_v4_5183663.html">ауди В4</a></div>
-                <div class="description">куплю ауди В4 универсал</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">14.09.2016</time>
-                                            Шымкент                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://taraz.salexy.kz/c/obmen_5183526.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="обмен">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://taraz.salexy.kz/c/obmen_5183526.html">обмен</a></div>
-                <div class="description">продам или обменяю на автомобиль легковой участок 10 сотых возле озера Жукей вокруг лес сосновый</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.09.2016</time>
-                                            Тараз                    </div>
             </div>
 </li>                                    
                 

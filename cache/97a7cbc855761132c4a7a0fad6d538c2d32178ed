@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_5124839.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам 2-х комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_5124839.html">сдам 2-х комнатную квартиру</a></div>
+                <div class="description">Сдам 2-х комнатную квартиру на длительный срок,, со всеми удобствами в районе Москва</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.11.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/arenda_5124768.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="аренда">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/arenda_5124768.html">аренда, Аль-Фараби - Шашкина</a></div>
+                <div class="description">В экологически чистом районе выше Аль-Фараби сдам в аренду или продам  четырехкомнатную квартиру. Дом кирпичный, этаж первый. На всех окнах решетки. Дверь бронированная. Квартира после ремонта. Пол паркетный буковый. Двери и окна деревянные</div>
+            </div>
+            <span class="price">220 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.11.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/cdam_kvartiru_5124656.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5348061.jpg" alt="cдам квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/cdam_kvartiru_5124656.html">cдам квартиру, ул.Бажова345/1</a></div>
+                <div class="description">Сдам полуторку семейной паре на длительный срок.Квартира с ремонтом,мебелью и бытовой техникой,балкон,домофон.На 4 в 6 этажном доме</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.11.2015</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/sdam_dvuhkomnatnuyu_kvartiru_lyuks_5124655.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5348056.jpg" alt="сдам двухкомнатную квартиру люкс. ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/sdam_dvuhkomnatnuyu_kvartiru_lyuks_5124655.html">сдам двухкомнатную квартиру люкс. </a></div>
+                <div class="description">Cдам  ПОСУТОЧНО, ПОЧАСОВО двухкомнатную квартиру люкс.Интернет. Документы командированным.Чисто уютно Тв Плазма</div>
+            </div>
+            <span class="price">6 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.11.2015</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://pavlodar.salexy.kz/c/sdam_na_dlitelnyy_srok_semeynym_5124621.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5348016.jpg" alt="Сдам на длительный срок семейным.">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">29.11.2015</time>
                                             Павлодар                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5124178" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5124178", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdayu_kvartiru_5124178.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">25.11.2015</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5123706" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5123706", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/sdam_1-komnatnuyu_kvartiru_na_dolgiy_srok_5123706.html">
@@ -551,82 +627,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">23.11.2015</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kaskelen.salexy.kz/c/sdam_kvartiru_5123100.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдам квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kaskelen.salexy.kz/c/sdam_kvartiru_5123100.html">сдам квартиру</a></div>
-                <div class="description">Сдам 2-х комнатную благоустроенную квартиру в микрорайоне Алтын-аул,  75,4кв.м. санузел раздельный. 2этаж в девяти этажном доме</div>
-            </div>
-            <span class="price">80 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.11.2015</time>
-                                            Каскелен                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/sdam_kvartiru_5123094.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдам квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/sdam_kvartiru_5123094.html">сдам квартиру</a></div>
-                <div class="description">Сдам полуторку на кшт, мебелерованную, 45000 плюс свет</div>
-            </div>
-            <span class="price">45 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.11.2015</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/komandirovochnye_dokumenty_pod_otchet_kvartira_5123063.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5345105.jpg" alt="Командировочные документы под отчет + квартира,">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/komandirovochnye_dokumenty_pod_otchet_kvartira_5123063.html">Командировочные документы под отчет + квартира,, абылай хана</a></div>
-                <div class="description">Командировочные документы под отчет + квартира, звоните. вацап, вайбер,  . полный пакет документов</div>
-            </div>
-            <span class="price">8 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.11.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/kvartiry_posutochno_astana_5123047.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5345076.jpg" alt="Квартиры посуточно Астана">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/kvartiry_posutochno_astana_5123047.html">Квартиры посуточно Астана, Достык 5 ЖК "Северное сияние"</a></div>
-                <div class="description">Парк апартаментов «Park Haus» в Астане.Улучшенные апартаменты с гостиничным сервисом (смена постельного белья, уборка комнат) расположены в Золотом квадрате Левого берега, рядом с ТРЦ «Керуен» и Байтерек</div>
-            </div>
-            <span class="price">16 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.11.2015</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

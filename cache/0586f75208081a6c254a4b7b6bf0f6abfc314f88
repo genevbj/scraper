@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_4345330.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/avtomobil_4345330.html">автомобиль</a></div>
+                <div class="description">срочно продам Автомобиль Митсубиси Диамант,1995 г.в. правый руль, передний привод,2,5- объем, типтроник, литье, тонировка, магнитола, резина-всесезонка(липучка), климат-контроль, кондиционер, эл. регу</div>
+            </div>
+            <span class="price">3 800 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">07.12.2013</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/_4341575.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/_4341575.html">продам</a></div>
+                <div class="description">волга 31029 на ходу белая 2.4 об карбюратор от ваз расход 10  на  100 требует незначительный ремонт  срочно 100.000 т.г</div>
+            </div>
+            <span class="price">100 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.12.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_gazel_bortovuyu_4337613.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5086123.jpg" alt="Продам Газель бортовую!                  ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_gazel_bortovuyu_4337613.html">Продам Газель бортовую!                  </a></div>
+                <div class="description">Продам Газель бортовую 2006 года, новый двигатель 100-ка, карбюраторный, резина новая, тент новый. Налог уплачен до 2014 года, техосмотр пройден, вложений не требует, бензин. Срочно. </div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.12.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/prodayu_mashinu_ne_dorogo_4314711.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5086088.jpg" alt="Продаю машину не дорого!">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">30.11.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_4311771" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_4311771", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/mashinu_srochno_4311771.html">
@@ -409,38 +497,7 @@
             <time datetime="01-01">28.11.2013</time>
                                             Шахтинск                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4304239" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4304239", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://ridder.salexy.kz/c/prodam_4304239.html">
@@ -666,65 +723,6 @@
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">20.11.2013</time>
-                                            Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kyzylorda.salexy.kz/c/prodam_4247869.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5086081.jpg" alt="Продам!">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kyzylorda.salexy.kz/c/prodam_4247869.html">Продам!</a></div>
-                <div class="description">Toyota Corrola 1989 года выпуска. объем 1.3  Цвет: серебристый металлик.        Сумма: 400000 тыс. тенге</div>
-            </div>
-            <span class="price">400 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">19.11.2013</time>
-                                            Кызылорда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktau.salexy.kz/c/avtomobili_iz_korei_4246611.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5085950.jpg" alt="автомобили из кореи">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktau.salexy.kz/c/avtomobili_iz_korei_4246611.html">автомобили из кореи</a></div>
-                <div class="description">автомобили из кореи
-+375-29-341-21-30 - Беларусь
-skype: andrey_mat.mail.ru</div>
-            </div>
-            <span class="price">700 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">19.11.2013</time>
-                                            Актау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/prodam_4246253.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5086102.jpg" alt="Продам ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_4246253.html">Продам </a></div>
-                <div class="description">Объем 1,8л, 1993 г.в., механика, АВС, МР3, USB, цвет белый, в хорошем состояний</div>
-            </div>
-            <span class="price">450 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">19.11.2013</time>
                                             Актобе                    </div>
             </div>
 </li>                                    

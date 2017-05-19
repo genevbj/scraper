@@ -146,6 +146,85 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/otogrev_avto_2482789.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2769841.jpg" alt="Отогрев авто">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/otogrev_avto_2482789.html">Отогрев авто</a></div>
+                <div class="description">сел аккумулятор, замерз двигатель, приедем отогреем заведем!</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">17.12.2012</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/gruzoperevozki_2426687.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5086532.jpg" alt="Грузоперевозки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/gruzoperevozki_2426687.html">Грузоперевозки</a></div>
+                <div class="description">Грузоперевозки по городу и междугородние. Надежно! Качественно! Быстро!</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.12.2012</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/gruzoperevozki_2405422.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2687526.jpg" alt="Грузоперевозки">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/gruzoperevozki_2405422.html">Грузоперевозки</a></div>
+                <div class="description">ГАЗели бизнес удлинённые высокие новые переезды-офисов квартир сборка разборка мебели/грузчики/+еженедельные рейсы Алматы-Астана-Алматы бережно от двери до двери цена договорная наличный безналичный р</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">26.11.2012</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/shinomontazhnoe_i_balansirovochnoe_oborudovanie_2397313.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/2672752.jpg" alt="Шиномонтажное и балансировочное оборудование.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/shinomontazhnoe_i_balansirovochnoe_oborudovanie_2397313.html">Шиномонтажное и балансировочное оборудование.</a></div>
+                <div class="description">Шиномонтажное и балансировочное оборудование.
+В продаже оборудование фирмы LAUNCH,HESHBON,IMPACT пр-ва Ю.Корея,  Китай
+На все оборудование предоставляется гарантия. 
+Доставка по Казахстану.</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.11.2012</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://aktau.salexy.kz/c/avtomobilnye_podemniki_2397290.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/2672705.jpg" alt="Автомобильные подъемники. ">
                     </a>
@@ -165,7 +244,38 @@
             <time datetime="01-01">21.11.2012</time>
                                             Актау                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_2393091" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_2393091", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/aromatizatory_2393091.html">
@@ -243,38 +353,7 @@
             <time datetime="01-01">12.11.2012</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_2369891" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_2369891", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://kokshetau.salexy.kz/c/stanok_2369891.html">
@@ -495,63 +574,6 @@
             <time datetime="01-01">26.08.2012</time>
                                             Экибастуз                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodazha_1978312.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продажа">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodazha_1978312.html">Продажа</a></div>
-                <div class="description">Продам велосипед</div>
-            </div>
-            <span class="price">22 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">15.08.2012</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/individualnye_perevozki_gruzoperevozki_1965497.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Индивидуальные перевозки, грузоперевозки">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/individualnye_perevozki_gruzoperevozki_1965497.html">Индивидуальные перевозки, грузоперевозки</a></div>
-                <div class="description">Индивидуальные перевозки, грузоперевозки, куръерская доставка, VIP перевозки, доставка грузов по Р.Ф. Р.К.</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">13.08.2012</time>
-                                            Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/kuplyu_konteynera_20_i_40_tonniki_1940050.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Куплю контейнера 20 и 40 тонники">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/kuplyu_konteynera_20_i_40_tonniki_1940050.html">Куплю контейнера 20 и 40 тонники</a></div>
-                <div class="description">Куплю срочно контейнера 20 и 40 футовые, желательно с доставкой</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.08.2012</time>
-                                            Алматы                    </div>
-            </div>
 </li>                                    
                 
                 
@@ -644,7 +666,6 @@
 
 <ul class="pagination" id="yw1"><li class="text first-none"><a href="/avtomobili_i_motocikly/prochee"></a></li>
 <li class="text control back first-none"><a href="/avtomobili_i_motocikly/prochee?page=45">назад</a></li>
-<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=37">37</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=38">38</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=39">39</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=40">40</a></li>
@@ -654,8 +675,9 @@
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=44">44</a></li>
 <li class="page"><a href="/avtomobili_i_motocikly/prochee?page=45">45</a></li>
 <li class="page active"><a href="/avtomobili_i_motocikly/prochee?page=46">46</a></li>
-<li class="text control forward last-none hidden"><a href="/avtomobili_i_motocikly/prochee?page=46">вперёд</a></li>
-<li class="text last-none hidden"><a href="/avtomobili_i_motocikly/prochee?page=46"></a></li></ul>
+<li class="page"><a href="/avtomobili_i_motocikly/prochee?page=47">47</a></li>
+<li class="text control forward last-none"><a href="/avtomobili_i_motocikly/prochee?page=47">вперёд</a></li>
+<li class="text last-none"><a href="/avtomobili_i_motocikly/prochee?page=47"></a></li></ul>
 <ul class="relink-category">
             <li><a href="http://salexy.kz">Все объявления Казахстана</a></li>
                 <li>

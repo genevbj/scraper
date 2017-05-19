@@ -169,6 +169,29 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/mashina_uborochnaya_kombinirovannaya_kmd-3309_na_baze_gaz-3309_5180502.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/68/fb/68fbc8da7db37bb686823ac91eb7433a.jpg" alt="Машина уборочная комбинированная КМД-3309 на базе ГАЗ-3309">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/mashina_uborochnaya_kombinirovannaya_kmd-3309_na_baze_gaz-3309_5180502.html">Машина уборочная комбинированная КМД-3309 на базе ГАЗ-3309</a></div>
+                <div class="description">Базовое шасси ГАЗ-3309
+Габаритные размеры, мм, не более
+ - длина с поливомоечным оборудованием и передним простым/скоростным отвалом 5970/6050
+- длина с пескоразбрасывающим оборудованием и передним простым/скоростным отвалом 5970/6100
+- ширина 24</div>
+            </div>
+            <span class="price">12 300 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">29.08.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/stend_po_remontu_tnvd_5180413.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/e5/99/e5997d06087de212ca512a41bf7525ad.jpg" alt="Стенд по ремонту ТНВД">
                     </a>
@@ -247,34 +270,13 @@
             <time datetime="01-01">12.08.2016</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/rotornaya_drobilka_s_vertikalnym_valom_rsmx_5177767.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/76/34/763493da87f9d7564afe464d44391faa.jpg" alt="Роторная дробилка с вертикальным валом RSMX">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/rotornaya_drobilka_s_vertikalnym_valom_rsmx_5177767.html">Роторная дробилка с вертикальным валом RSMX</a></div>
-                <div class="description">Роторная дробилка с вертикальным валом RSMX 0922
-
-Роторная центробежная дробилка - высокопроизводительная машина с вертикальным валом. Она предназначена для измельчения и кондиционирования (напр</div>
-            </div>
-            <span class="price">1 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.08.2016</time>
-                                            Астана                    </div>
-            </div>
 </li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5176552" class="ya-inline-decorated"></div>
+                        <div id="yandex_ad_item_5177767" class="ya-inline-decorated"></div>
 <script type="text/javascript">
     (function(w, d, n, s, t) {
         w[n] = w[n] || [];
         w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5176552", {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5177767", {
                 stat_id: 2,
                 ad_format: "direct",
                 font_size: 0.9,
@@ -300,6 +302,27 @@
 </script>
                     </li>
                     
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/rotornaya_drobilka_s_vertikalnym_valom_rsmx_5177767.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/76/34/763493da87f9d7564afe464d44391faa.jpg" alt="Роторная дробилка с вертикальным валом RSMX">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/rotornaya_drobilka_s_vertikalnym_valom_rsmx_5177767.html">Роторная дробилка с вертикальным валом RSMX</a></div>
+                <div class="description">Роторная дробилка с вертикальным валом RSMX 0922
+
+Роторная центробежная дробилка - высокопроизводительная машина с вертикальным валом. Она предназначена для измельчения и кондиционирования (напр</div>
+            </div>
+            <span class="price">1 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.08.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/dorozhnyy_katok_5176552.html">
@@ -562,25 +585,6 @@
                 <div class="description">Двигатели ММЗ-260, новый в сборе, со всеми документами и гарантией. Производства "Минский моторный завод". Быстрая доставка по Казахстану</div>
             </div>
             <span class="price">2 500 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">19.07.2016</time>
-                                            Актау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktau.salexy.kz/c/dvigateli_mmz-245_5173820.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5452949.jpg" alt="Двигатели ММЗ-245">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktau.salexy.kz/c/dvigateli_mmz-245_5173820.html">Двигатели ММЗ-245</a></div>
-                <div class="description">Двигатели ММЗ-245, новые в сборе, со всеми документами и гарантией. Производства "Минский моторный завод". Быстрая доставка по Казахстану</div>
-            </div>
-            <span class="price">1 700 000 тг.</span>
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">19.07.2016</time>

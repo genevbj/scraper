@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://atyrau.salexy.kz/c/prodam_mashinu_5069748.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5233090.jpg" alt="Продам машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://atyrau.salexy.kz/c/prodam_mashinu_5069748.html">Продам машину</a></div>
+                <div class="description">Продам машину фольксваген пассат б5 + в хорошем состоянии,торг возможен,2003г. двигатель 1</div>
+            </div>
+            <span class="price">9 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.03.2015</time>
+                                            Атырау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_mercedes_w124_5069730.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5233056.jpg" alt="Продам Mercedes W124 ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_mercedes_w124_5069730.html">Продам Mercedes W124 </a></div>
+                <div class="description">Продам Mercedes-Benz W124 E200. Требуется сборка двигателя. Литые диски, электро-люк, магнитола МР3, USB. Перебрал ходовку, осталось по мелочи</div>
+            </div>
+            <span class="price">2 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">03.03.2015</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/prodazha_avtomobilya_folksvagen_5069361.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="продажа автомобиля фольксваген">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/prodazha_avtomobilya_folksvagen_5069361.html">продажа автомобиля фольксваген</a></div>
+                <div class="description">фольксваген пассат,2010г.Б6,ТСИ ,АКП.152л/с.Объём дв1.8.Полная комплектация(кожа)Куплен и обслуживался удилера.Один хозяин.В ДТП небыл.Состояние хорошое.Цвет серый.СТоит сигнализация Старлайн с автозапуском</div>
+            </div>
+            <span class="price">900 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">01.03.2015</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://petropavlovsk.salexy.kz/c/srochno_prodam_5069321.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5232123.jpg" alt="срочно продам">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">26.02.2015</time>
                                             Атырау                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5068919" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5068919", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://atyrau.salexy.kz/c/avto_5068919.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">24.02.2015</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5068306" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5068306", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://sarkand.salexy.kz/c/avtomobil_v_otlichnom_sostoyanii_dlya_prodazhi_5068306.html">
@@ -666,63 +723,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">11.02.2015</time>
                                             Риддер                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://pavlodar.salexy.kz/c/prodam_5065714.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://pavlodar.salexy.kz/c/prodam_5065714.html">продам</a></div>
-                <div class="description">2012г, пробег 36000, отличный внедорожник, постоянно полный привод, много допов., два комплекта резины (зима-лето). подробности при общении. цена в долларх США</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.02.2015</time>
-                                            Павлодар                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/s_posleduyuschim_vykupom_5065597.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5223124.jpg" alt="с последующим выкупом">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/s_posleduyuschim_vykupom_5065597.html">с последующим выкупом</a></div>
-                <div class="description">Сдам в аренду с последующим выкупом авто Lada Granta 2014 года. 6000 тг/сутки на 24 месяца. Требования стаж не менее 5 лет, возраст от 26ти, прописка город или пригород</div>
-            </div>
-            <span class="price">6 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.02.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/golf_3_5065553.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5223048.jpg" alt="Гольф 3">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/golf_3_5065553.html">Гольф 3</a></div>
-                <div class="description">Гольф 3 в хорошем состоянии! Обмен не предлогать</div>
-            </div>
-            <span class="price">3 900 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.02.2015</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

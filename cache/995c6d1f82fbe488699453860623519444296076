@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/prodam_531909472.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5142142.jpg" alt="продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/prodam_531909472.html">продам</a></div>
+                <div class="description"></div>
+            </div>
+            <span class="price">4 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.03.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://zhezkazgan.salexy.kz/c/kuplyu_moskvich.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Куплю Москвич">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://zhezkazgan.salexy.kz/c/kuplyu_moskvich.html">Куплю Москвич</a></div>
+                <div class="description"></div>
+            </div>
+            <span class="price">40 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.03.2014</time>
+                                            Жезказган                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://rudniy.salexy.kz/c/prodam_avtomobil_shevrolle_lachetti.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5141499.jpg" alt="продам автомобиль шевролле лачетти">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://rudniy.salexy.kz/c/prodam_avtomobil_shevrolle_lachetti.html">продам автомобиль шевролле лачетти</a></div>
+                <div class="description"></div>
+            </div>
+            <span class="price">12 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">04.03.2014</time>
+                                            Рудный                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodayu.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5141409.jpg" alt="продаю">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">01.03.2014</time>
                                             Кызылорда                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5026026" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5026026", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodayu_ili_menyayu_na_busik.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">13.02.2014</time>
                                             Караганда                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4977250" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4977250", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/mitsisi_padzhero_4977250.html">
@@ -666,63 +723,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">28.01.2014</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://zyrjanovsk.salexy.kz/c/_4734081.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5123300.jpg" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://zyrjanovsk.salexy.kz/c/_4734081.html">продам</a></div>
-                <div class="description">520 i 1997 г.в ЗЕЛЕНЫЙ МЕТАЛЛИК, ГУР, АБС,ЛИТЬЕ, СИДИ ЧЕЙНДЖЕР6 ДИСКОВ,БОРТ КОМП, МЕХАНИКА,ХТС </div>
-            </div>
-            <span class="price">1 700 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">26.01.2014</time>
-                                            Зыряновск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_toyota_camry_2002_goda_v_idealnom_sostoyanii_4731476.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5123498.jpg" alt="Продам Toyota Camry 2002 года в идеальном состоянии">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_toyota_camry_2002_goda_v_idealnom_sostoyanii_4731476.html">Продам Toyota Camry 2002 года в идеальном состоянии</a></div>
-                <div class="description">Продам Toyota Camry 30 амереканец полная комплектация XLE. Литые диски, тонировка, люк, багажник, хрустальная оптика, противотуманки, кожа, алькантара, CD, ГУР, ABS, SRS, сигнализация, полный электроп</div>
-            </div>
-            <span class="price">17 750 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">25.01.2014</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_4722409.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5123385.jpg" alt="Продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_4722409.html">Продам</a></div>
-                <div class="description">Срочно!</div>
-            </div>
-            <span class="price">3 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.01.2014</time>
-                                            Усть-Каменогорск                    </div>
             </div>
 </li>                                    
                 

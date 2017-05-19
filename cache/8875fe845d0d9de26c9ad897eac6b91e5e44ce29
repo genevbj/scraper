@@ -316,6 +316,65 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/prodayu_audi_80_5085710.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5270134.jpg" alt="Продаю ауди 80">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/prodayu_audi_80_5085710.html">Продаю ауди 80</a></div>
+                <div class="description">Машина в хорошем состоянии, на ходу, инжектор, 1,8. 1989 г</div>
+            </div>
+            <span class="price">3 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">25.05.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_5085528.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5269723.jpg" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_5085528.html">Продам</a></div>
+                <div class="description">Срочно продам Лада-Приора, в отличном состоянии.торг</div>
+            </div>
+            <span class="price">220 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">23.05.2015</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/volvo_s70_2000_g_v_5085032.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5268751.jpg" alt="Volvo S70, 2000 г.в.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/volvo_s70_2000_g_v_5085032.html">Volvo S70, 2000 г.в.</a></div>
+                <div class="description">VIN: YV1LS61E2Y2642624 
+Серьезная машина для серьезных людей. В очень хорошем состоянии!
+Цена запчастей и обслуживания ничуть не выше, чем качественный уход за другими автомобилями такого класса. Расход по городу не больше 11 литров</div>
+            </div>
+            <span class="price">7 700 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">21.05.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/srochno_prodam_nisan_almeru_1997_g_v_5084632.html">
                             <img src="/themes/2015-04/images/nf.png" alt="срочно продам нисан альмеру 1997  г.в. ">
                     </a>
@@ -351,7 +410,38 @@
             <time datetime="01-01">19.05.2015</time>
                                             Караганда                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5084091" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5084091", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://shymkent.salexy.kz/c/prodaetsya_5084091.html">
@@ -408,38 +498,7 @@
             <time datetime="01-01">16.05.2015</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5083876" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5083876", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://pavlodar.salexy.kz/c/prodam_avtomobil_5083876.html">
@@ -666,64 +725,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">09.05.2015</time>
                                             Тараз                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/prodam_mashinu_5082354.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5262180.jpg" alt="Продам машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/prodam_mashinu_5082354.html">Продам машину</a></div>
-                <div class="description">Toyota Camry, 2011, 18500$
-седан, 2</div>
-            </div>
-            <span class="price">18 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.05.2015</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_5082317.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5262066.jpg" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/prodam_5082317.html">продам</a></div>
-                <div class="description">продам Мазда кронос 92г.в. хэтчбек, вишня, незнач. ремонт</div>
-            </div>
-            <span class="price">700 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.05.2015</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/prodayu_mashinu_5082258.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продаю машину">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/prodayu_mashinu_5082258.html">продаю машину</a></div>
-                <div class="description">продаю срочно  LEXUS RX 300 ЗА 13000 У.Е</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">08.05.2015</time>
-                                            Караганда                    </div>
             </div>
 </li>                                    
                 

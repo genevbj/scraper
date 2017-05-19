@@ -146,6 +146,67 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/plenka_pod_hrom_krasnyy_avtoplenka_5205571.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5a/db/5adbf9ec8d3d0e902a71632620fed60e.jpg" alt="Пленка под хром красный, автопленка">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/plenka_pod_hrom_krasnyy_avtoplenka_5205571.html">Пленка под хром красный, автопленка</a></div>
+                <div class="description">В наличии автомобильная пленка под хром. Зеркальная пленка хром красного цвета используется для полной или частичной оклейки автомобиля</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.01.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/vinilovaya_plenka_lesnoy_kamuflyazh_i_5205570.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/c2/e0/c2e0c32a1ff7d387764ec802dae5b3e6.jpg" alt="Виниловая пленка лесной камуфляж и другие">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/vinilovaya_plenka_lesnoy_kamuflyazh_i_5205570.html">Виниловая пленка лесной камуфляж и другие</a></div>
+                <div class="description">В наличии Камуфляжная пленка на авто различных расцветок.
+Отличная защита вашего автомобиля, квадроцикла, мотоцикла.
+Толщина пленки - 180 микрон.
+Воздушные каналы - есть.
+Отлично тянется и ложится</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.01.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/zaschita_kartera_zaschita_kpp_5205536.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/7d/87/7d8795a93a94eaade7bc1728aa477748.jpg" alt="Защита картера | Защита КПП | Защита двигателя">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/zaschita_kartera_zaschita_kpp_5205536.html">Защита картера | Защита КПП | Защита двигателя</a></div>
+                <div class="description">Защита на картер двигателя и КПП от "AVTOZAKAZ.KZ", мы являемся официальным дилером и только у нас Вы можете приобрести защиту для своего автомобиля по ЦЕНЕ ПРОИЗВОДИТЕЛЯ! Подбор, доставка по всему Казахстану</div>
+            </div>
+            <span class="price">7 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.01.2017</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/leopardovaya_plenka_na_avto_5205497.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/8d/bb/8dbb8340eba72d0b15c6083cdc7fa7a1.jpg" alt="Леопардовая пленка на авто">
                     </a>
@@ -185,7 +246,38 @@
             <time datetime="01-01">18.01.2017</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5205492" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5205492", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/flok_velvet_barhat_samokleyuschiysya_5205492.html">
@@ -244,38 +336,7 @@
             <time datetime="01-01">18.01.2017</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5205489" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5205489", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/avtovinil_zolotoy_matovyy_metallik_5205489.html">
@@ -520,69 +581,6 @@ Voguard является отличным материалом для оклей
                 <div class="title"><a href="http://almaty.salexy.kz/c/plenka_chernaya_lakovaya_kozha_zmei_5205475.html">Пленка черная лаковая кожа змеи</a></div>
                 <div class="description">Самоклеющаяся виниловая пленка под кожу змеи и аллигатора с матовой и лаковой поверхностью. Пленка под кожу рептилий отлично подойдет для оклейки мебели и предметов интерьера!
 Пленка имеет воздушные каналы</div>
-            </div>
-            <span class="price">5 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">18.01.2017</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/glyancevaya_oranzhevaya_plenka_na_avto_5205474.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/ef/39/ef39b9db41e740ae78bf5090764f2810.jpg" alt="Глянцевая оранжевая пленка на авто">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/glyancevaya_oranzhevaya_plenka_na_avto_5205474.html">Глянцевая оранжевая пленка на авто</a></div>
-                <div class="description">В наличии глянец отличного качества.
-Красивый, яркий оранжевый цвет
-Лаковая поверхность
-Воздушные каналы - есть.
-Отличтно тянется и ложится на кузов автомобиля</div>
-            </div>
-            <span class="price">5 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">18.01.2017</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/avtoplenka_siniy_matovyy_hrom_avtovinil_5205473.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/b6/3f/b63fb4c61d79cf59bbcc287ecd6cad42.jpg" alt="Автопленка синий матовый хром, автовинил">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/avtoplenka_siniy_matovyy_hrom_avtovinil_5205473.html">Автопленка синий матовый хром, автовинил</a></div>
-                <div class="description">Пленка матовый хром синий. Также в наличии матовый хром мятный (изумрудный), красный, зеленый, серый, серебро и др..
-Самовывоз 
-Работаем без выходных</div>
-            </div>
-            <span class="price">5 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">18.01.2017</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/perforirovannaya_tonirovka_na_avto_5205472.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/94/c9/94c95c2c66447725e0b5da36bea8292b.jpg" alt="Перфорированная тонировка на авто">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/perforirovannaya_tonirovka_na_avto_5205472.html">Перфорированная тонировка на авто</a></div>
-                <div class="description">Белая перфорированная тонировка используется для нанесения цветной печати. Также данная тонировочная пленка подходит для обычной тонировки стекол и фонарей автомобиля, что позволяет сделать стекла вашего автомобиля белоснежно белого цвета</div>
             </div>
             <span class="price">5 000 тг.</span>
         </div>

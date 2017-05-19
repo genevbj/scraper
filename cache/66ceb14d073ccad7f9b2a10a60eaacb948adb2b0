@@ -146,6 +146,44 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/carcam_x90_duo_5052304.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5193594.jpg" alt="CarCam X90 Duo">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/carcam_x90_duo_5052304.html">CarCam X90 Duo</a></div>
+                <div class="description">Двухкамерный видеорегистратор с выносной камерой и общим обзором в 260 градусов. Возможность переключения линзы в ночной/дневной режимы</div>
+            </div>
+            <span class="price">24 999 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/6000a_zerkalo_5052303.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5193593.jpg" alt="6000A Зеркало">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/6000a_zerkalo_5052303.html">6000A Зеркало</a></div>
+                <div class="description">Зеркало видеорегистратор 6000А - это первый на рынке видеорегистратор-зеркало заднего вида с выдвижными кнопками управления! Отличное HD качество записи, огромный экран 4</div>
+            </div>
+            <span class="price">25 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/videoregistrator_g30fhd_5052298.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5193589.jpg" alt="Видеорегистратор G30FHD">
                     </a>
@@ -200,7 +238,38 @@
             <time datetime="01-01">10.11.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5052295" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5052295", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/gse_550_fhd_5052295.html">
@@ -238,38 +307,7 @@
             <time datetime="01-01">10.11.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5052293" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5052293", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/car_cam_x9000f_double_5052293.html">
@@ -511,44 +549,6 @@
                 <div class="description">Современный и простой в использовании двухкамерный видеорегистратор CarCam X95. Приятный дизайн, съёмка в FullHD (1080p), угол обзора 140 градусов и ИК ночная подсветка</div>
             </div>
             <span class="price">30 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/glwh_5052280.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193565.jpg" alt="GLWH">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/glwh_5052280.html">GLWH</a></div>
-                <div class="description">Видеорегистратор G1Wh - недорогой и надежный FullHD видеорегистратор с полным набором основных функций, необходимых для постоянной и качественной фиксации дорожной ситуации</div>
-            </div>
-            <span class="price">15 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/avtomobilnye_videoregistratory_full_hd_5052263.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193529.jpg" alt="Автомобильные Видеорегистраторы Full HD">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/avtomobilnye_videoregistratory_full_hd_5052263.html">Автомобильные Видеорегистраторы Full HD</a></div>
-                <div class="description">Автомобильные Видеорегистраторы Full HD (1920x1080p и 1440x1080p), так же известные как Full hd car dvr - производят видеозапись с максимальным доступном на сегодняшний день разрешением - с разрешением Full HD</div>
-            </div>
-            <span class="price">20 000 тг.</span>
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">10.11.2014</time>

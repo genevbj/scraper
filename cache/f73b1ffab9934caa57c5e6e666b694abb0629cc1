@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktau.salexy.kz/c/prodaetsya_avtomobil_5164401.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продается автомобиль">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktau.salexy.kz/c/prodaetsya_avtomobil_5164401.html">Продается автомобиль</a></div>
+                <div class="description">Продается автомобиль Hyundai Elantra чёрного цвета, в отличном состоянии, 2013 г.в., один хозяин, пробег - 30 000 км, объем - 1600 куб.см</div>
+            </div>
+            <span class="price">3 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">31.05.2016</time>
+                                            Актау                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_5164161.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_5164161.html">Продам</a></div>
+                <div class="description">Toyota Lucida 94 год .2.2. 4 вд </div>
+            </div>
+            <span class="price">1 000 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_gaz-24_10_v_horoshem_sostoyanii_na_hodu_5164070.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5432055.jpg" alt="Продам ГАЗ-24 10  в хорошем состоянии на ходу">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_gaz-24_10_v_horoshem_sostoyanii_na_hodu_5164070.html">Продам ГАЗ-24 10  в хорошем состоянии на ходу</a></div>
+                <div class="description">Продам ГАЗ-24 10  в хорошем состоянии на ходу</div>
+            </div>
+            <span class="price">450 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">30.05.2016</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://atyrau.salexy.kz/c/volkswagen_polo_sedan_5164024.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5431896.jpg" alt="Volkswagen Polo Sedan">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">29.05.2016</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5163769" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5163769", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/obmenyayu_dzhip_na_kvartiru_5163769.html">
@@ -411,38 +499,7 @@
             <time datetime="01-01">26.05.2016</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5163101" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5163101", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://shemonaiha.salexy.kz/c/prodam_avtomobil_krossover_hyundai_santa_fe_5163101.html">
@@ -671,64 +728,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">13.05.2016</time>
                                             Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://rudniy.salexy.kz/c/prodam_5160917.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://rudniy.salexy.kz/c/prodam_5160917.html">продам</a></div>
-                <div class="description">Пежо 3008 2014 гв гур abs климат контроль подогрев сидений </div>
-            </div>
-            <span class="price">4 500 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">12.05.2016</time>
-                                            Рудный                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://atyrau.salexy.kz/c/mersedes_s430_4matik_5160711.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5424967.jpg" alt="Мерседес S430 4матик">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://atyrau.salexy.kz/c/mersedes_s430_4matik_5160711.html">Мерседес S430 4матик</a></div>
-                <div class="description">
-литые диски, тонировка, люк, кожа, дерево, аудиосистема, встроенный телефон, CD, CD-чейнджер, DVD, DVD-чейнджер, ГУР, ABS, SRS, зимний режим, спортивный режим, полный электропакет, центрозамок, кондиционер, климат-контроль, круиз-контроль, подогрев</div>
-            </div>
-            <span class="price">2 990 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.05.2016</time>
-                                            Атырау                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_tayotu_mark_2_5160627.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5424753.jpg" alt="Продам Тайоту Марк 2">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_tayotu_mark_2_5160627.html">Продам Тайоту Марк 2</a></div>
-                <div class="description">Продам срочно автомашину в п. Райымбек Карасайский район ул</div>
-            </div>
-            <span class="price">1 500 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">11.05.2016</time>
-                                            Алматы                    </div>
             </div>
 </li>                                    
                 

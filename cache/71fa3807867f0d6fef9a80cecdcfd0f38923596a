@@ -316,6 +316,66 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/mitsubishi_delica_1994_goda_5076840.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5249597.jpg" alt="Mitsubishi Delica 1994 года">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/mitsubishi_delica_1994_goda_5076840.html">Mitsubishi Delica 1994 года</a></div>
+                <div class="description">Mitsubishi Delica 1994 года 
+Регион Алматы
+Кузов минивэн
+Двигатель 2</div>
+            </div>
+            <span class="price">9 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.04.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://shymkent.salexy.kz/c/prodaetsya_toyota_camry_5076108.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продается Toyota Camry">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://shymkent.salexy.kz/c/prodaetsya_toyota_camry_5076108.html">Продается Toyota Camry</a></div>
+                <div class="description">Продается Toyota Camry 2007г. не битый, не крашенный, в отличном состоянии, комплект резины зима лето</div>
+            </div>
+            <span class="price">12 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">06.04.2015</time>
+                                            Шымкент                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodaetsya_toyota_camry_5075895.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5246983.jpg" alt="Продается Toyota Camry ">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodaetsya_toyota_camry_5075895.html">Продается Toyota Camry </a></div>
+                <div class="description">Продается Toyota Camry 2007г. не битый, не крашенный, в отличном состоянии, комплект резины зима лето</div>
+            </div>
+            <span class="price">12 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">05.04.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/prodazha_5075579.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5246421.jpg" alt="продажа ">
                     </a>
@@ -351,7 +411,38 @@
             <time datetime="01-01">03.04.2015</time>
                                             Актобе                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5075438" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5075438", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://shuchinsk.salexy.kz/c/vaz2101_5075438.html">
@@ -408,38 +499,7 @@
             <time datetime="01-01">02.04.2015</time>
                                             Караганда                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5075371" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5075371", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/uaz_patriot_samoy_polnoy_komplektacii_5075371.html">
@@ -670,69 +730,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">19.03.2015</time>
                                             Петропавловск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/prodam_5072324.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5238832.jpg" alt="Продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_5072324.html">Продам</a></div>
-                <div class="description">Celica 1996 r. ST203 3S-FE V2.0 16 кл.механика.правый руль.цена за наличку 450 000тг.цена рассрочки 600000тг. требует косметического ремонта.обмен не предлогать</div>
-            </div>
-            <span class="price"></span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">17.03.2015</time>
-                                            Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/arenda_avto_s_posleduyuschim_vykupom_5072093.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5238507.jpg" alt="аренда авто с последующим выкупом">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/arenda_avto_s_posleduyuschim_vykupom_5072093.html">аренда авто с последующим выкупом</a></div>
-                <div class="description">Сдам в аренду с последующим выкупом Chevrolet Aveo 2007г. 6000тг/сутки на 24 месяца каждое воскресенье выходной. требования стаж не менее 5 лет, возраст от 26ти, прописка город или пригород</div>
-            </div>
-            <span class="price">6 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">17.03.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/kia_spectra_1_6_akpp_2006_5071741.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5237636.jpg" alt="KIA Spectra 1.6 АКПП 2006">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/kia_spectra_1_6_akpp_2006_5071741.html">KIA Spectra 1.6 АКПП 2006</a></div>
-                <div class="description">KIA Spectra 1.6 АКПП 2006
-
-Марка: KIA
-Модель: Spectra
-Двигатель: 1600 см3
-Мощность: 101
-Тип КПП: АКПП 4 ст</div>
-            </div>
-            <span class="price">710 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">15.03.2015</time>
-                                            Костанай                    </div>
             </div>
 </li>                                    
                 

@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kvartiru_3557878.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдаю квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kvartiru_3557878.html">сдаю квартиру, Орбита2</a></div>
+                <div class="description">семье на долгий срок</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.07.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/kvartiru_3557135.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдаю квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/kvartiru_3557135.html">сдаю квартиру, Орбита2</a></div>
+                <div class="description">сдаю 3-комн кв за 50тыс тг</div>
+            </div>
+            <span class="price">50 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.07.2013</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/ischu_devushku_dlya_sovmestnogo_prozhivaniya_3557112.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="ищу девушку для совместного проживания">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/ischu_devushku_dlya_sovmestnogo_prozhivaniya_3557112.html">ищу девушку для совместного проживания</a></div>
+                <div class="description">Чисто уютно,тв,стиральная машина автомат,мебель,газ плита все есть</div>
+            </div>
+            <span class="price">20 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.07.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/arenda_kvartiry_3554776.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="аренда квартиры">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/arenda_kvartiry_3554776.html">аренда квартиры, аль фараби 51</a></div>
+                <div class="description">2-х комнатная  со всеми удобствами</div>
+            </div>
+            <span class="price">95 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">02.07.2013</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/nuzhna_devushka_na_podselenie_3549200.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Нужна девушка на подселение">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">01.07.2013</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_3547003" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_3547003", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/sdam_2-kom_kv_r-n_mag_yubileynyy_3547003.html">
@@ -313,38 +420,7 @@
             <time datetime="01-01">29.06.2013</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_3543366" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_3543366", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://shymkent.salexy.kz/c/sdaetsya_2h_komn_kvartira_srochno_3543366.html">
@@ -553,82 +629,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">20.06.2013</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/sdam_2-h_komn_kv_na_dlit_srok_3507141.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 2-х комн. кв. на длит. срок">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/sdam_2-h_komn_kv_na_dlit_srok_3507141.html">Сдам 2-х комн. кв. на длит. срок, пр.Абая </a></div>
-                <div class="description">Сдам 2-х комн. кв. на длит. срок. Ремонт, два балкона</div>
-            </div>
-            <span class="price">40 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">20.06.2013</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/sdayu_2-h_komn_kvartiru_na_dlit_srok_3507113.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдаю 2-х комн квартиру на длит. срок">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/sdayu_2-h_komn_kvartiru_na_dlit_srok_3507113.html">Сдаю 2-х комн квартиру на длит. срок, пр.Абая 16</a></div>
-                <div class="description">Сдам 2-х комнатную квартиру на длит. срок. Ремонт, каб. ТВ, телефон, два балкона</div>
-            </div>
-            <span class="price">50 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">20.06.2013</time>
-                                            Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/na_podselenie_1_ili_2_devushek_3491319.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="на подселение 1 или 2 девушек">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/na_podselenie_1_ili_2_devushek_3491319.html">на подселение 1 или 2 девушек</a></div>
-                <div class="description">подселим 1 или 2 девушек, некурящих, в комнату в двухкомнатной квартире, проживание без хозяйки. По 14 000 тг. </div>
-            </div>
-            <span class="price">14 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">17.06.2013</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/2-h_komnatnuyu_kvartiru_3489717.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдаю 2-х комнатную квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/2-h_komnatnuyu_kvartiru_3489717.html">сдаю 2-х комнатную квартиру, Аксай 2</a></div>
-                <div class="description">2-х комнатная квартира,мебелированная,1 этаж,этажей в зданий 5.</div>
-            </div>
-            <span class="price">75 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">17.06.2013</time>
-                                            Алматы                    </div>
             </div>
 </li>                                    
                 

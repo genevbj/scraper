@@ -146,6 +146,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/aerodinamicheskie_legkie_tyuningovanye_bampera_5161487.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5426353.jpg" alt="Аэродинамические легкие тюнингованые бампера">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/aerodinamicheskie_legkie_tyuningovanye_bampera_5161487.html">Аэродинамические легкие тюнингованые бампера</a></div>
+                <div class="description">Тюнинг кузова и агрегатов аэродинамические обвесы, бампера, пороги, реснички, спойлера, накладки на автомашины БМВ Е34, Е36, Е38, Е39 Мерседес W124, 202, 210, 140 220 221 Subaru Impreza, Forester, Legacy B3, B4, Land Cruser, Lexus 470 и т</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.05.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/prodam_obves_na_hyundai_santa_fe_2013_torg_umesten_5156819.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5416324.jpg" alt="Продам обвес на Hyundai Santa fe 2013 Торг уместен">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_obves_na_hyundai_santa_fe_2013_torg_umesten_5156819.html">Продам обвес на Hyundai Santa fe 2013 Торг уместен</a></div>
+                <div class="description">Продаю обвес в круг на Hundai Santa fe.Производство Россия Пороги листовые с трубой.Защита переднего бампера</div>
+            </div>
+            <span class="price">350 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.04.2016</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/tyuning_i_zapchasti_largus_kz_5155584.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5413875.jpg" alt="Тюнинг и запчасти Largus.kz">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/tyuning_i_zapchasti_largus_kz_5155584.html">Тюнинг и запчасти Largus.kz</a></div>
+                <div class="description">Интернет магазин Largus.kz предоставляет запчасти заводского качества, и по приемлемой цене, Более 4000 запчастей</div>
+            </div>
+            <span class="price">50 400 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.04.2016</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://serebryansk.salexy.kz/c/prodam_avtomagnitolu_sony_5142590.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5386203.jpg" alt="Продам автомагнитолу  SONY">
                     </a>
@@ -181,7 +238,38 @@
             <time datetime="01-01">24.01.2016</time>
                                             Алматы                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5131206" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5131206", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/zhidkaya_rezina_avtoatele_autotune_5131206.html">
@@ -242,38 +330,7 @@
             <time datetime="01-01">08.11.2015</time>
                                             Караганда                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5119827" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5119827", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/dvuhpolosnye_kolonki_jvc_cs-v628_250_vt_16_sm_5119827.html">
@@ -501,69 +558,6 @@
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">28.05.2015</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/shumoizolyacionnye_materialy_5084732.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5268161.jpg" alt="Шумоизоляционные материалы">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/shumoizolyacionnye_materialy_5084732.html">Шумоизоляционные материалы</a></div>
-                <div class="description">
-
-
-Как вы считаете ваш Автомобиль достаточно тихий?
-Уровень комфорта Автомобиля сегодня достаточно высокий, выбирая автомобиль мы обращали внимание на внешний вид, удобство в салоне, мощный двигатель…
-Но почему-то забывали что понятие КОМФОРТ – </div>
-            </div>
-            <span class="price">200 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">20.05.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_komplekt_sabvufer_usilitel_kommutaciya_5079467.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5255283.jpg" alt="Продам комплект сабвуфер, усилитель, коммутация">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_komplekt_sabvufer_usilitel_kommutaciya_5079467.html">Продам комплект сабвуфер, усилитель, коммутация</a></div>
-                <div class="description">Полный комплект - Сабвуфер, усилитель,коммутация.
-Сабвуфер "ALPHARD MAGNUM M15D2" 15ти дюймовый динамик с 2</div>
-            </div>
-            <span class="price">60 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">24.04.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/akustika_dlya_avto_5079036.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5254455.jpg" alt="Акустика для авто">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/akustika_dlya_avto_5079036.html">Акустика для авто</a></div>
-                <div class="description">Каждый автомобиль оснащается штатной магнитолой, и многие автовладельцы ограничиваются лишь этим и не пытаются внести никаких изменений в аудиосистему машины</div>
-            </div>
-            <span class="price">1 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">22.04.2015</time>
                                             Астана                    </div>
             </div>
 </li>                                    

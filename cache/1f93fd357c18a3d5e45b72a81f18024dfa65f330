@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_kvartiru__5049352.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_kvartiru__5049352.html">сдам квартиру</a></div>
+                <div class="description">Сдам 2 ком. кв, ул. Бараева, 65 кв</div>
+            </div>
+            <span class="price">140 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_kvartiru__5049345.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_kvartiru__5049345.html">сдам квартиру</a></div>
+                <div class="description">Сдам 1 ком. квартиру ул.Абая, 35 кв.м, кухня 9 кв.м, С/У совмещенный, дом теплый. балкон застеклен, окна пластиковые, мебель полностью, быт техника вся. 80000 тг</div>
+            </div>
+            <span class="price">80 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">20.10.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/sdayu_kvartiru_posutochno_5049261.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдаю квартиру посуточно">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/sdayu_kvartiru_posutochno_5049261.html">Сдаю квартиру посуточно</a></div>
+                <div class="description">http://krisha</div>
+            </div>
+            <span class="price">5 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.10.2014</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/sdam_2-h_kom_kvartiru_5049228.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам 2-х ком.квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/sdam_2-h_kom_kvartiru_5049228.html">сдам 2-х ком.квартиру</a></div>
+                <div class="description">сдам 2-х комнатную квартиру на длительный срок, семейным</div>
+            </div>
+            <span class="price">55 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.10.2014</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://ekibastuz.salexy.kz/c/sdam_3-h_komnatnuyu_kvartiru_5049187.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Сдам 3-х комнатную квартиру">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">19.10.2014</time>
                                             Экибастуз                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5049093" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5049093", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/posutochno_2h_kom_ul_kv_5049093.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">17.10.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5048946" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5048946", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://atyrau.salexy.kz/c/sdayu_dom_5048946.html">
@@ -554,83 +630,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">13.10.2014</time>
                                             Рудный                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://petropavlovsk.salexy.kz/c/arenda__5048042.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="аренда">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/arenda__5048042.html">аренда</a></div>
-                <div class="description">Сдаю в новостройке 3-х комнатную квартиру общей площадью 77 кв.м. по ул. Уалиханова 48 А, освещаемый большой двор с детской площадкой. Рядом магазин Азия и Корона, так же школы № 23, №4 .  Пустая, теплая и уютная</div>
-            </div>
-            <span class="price">60 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">12.10.2014</time>
-                                            Петропавловск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_v_rayone_stepnoy-2_5048009.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 2-х комнатную квартиру в районе Степной-2">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_v_rayone_stepnoy-2_5048009.html">Сдам 2-х комнатную квартиру в районе Степной-2</a></div>
-                <div class="description">Квартира в хорошем состоянии, лифт рабочий, не угловая, теплая, обшитый балкон, вложении не требует, со всеми удобствами</div>
-            </div>
-            <span class="price">85 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">12.10.2014</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ekibastuz.salexy.kz/c/sdam_uyutnuyu_2-h_komnatnuyu_kvartiru_na_dlitelnyy_srok_5047891.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5184019.jpg" alt="Сдам уютную 2-х комнатную квартиру на длительный срок ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ekibastuz.salexy.kz/c/sdam_uyutnuyu_2-h_komnatnuyu_kvartiru_na_dlitelnyy_srok_5047891.html">Сдам уютную 2-х комнатную квартиру на длительный срок </a></div>
-                <div class="description">6 микрорайон, меблирована, счетчики, кабельное Алма и интернет, телефон, рядом школа и детский сад,
- железная дверь, оплата за 2 месяца вперед + ком. услуги</div>
-            </div>
-            <span class="price">40 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.10.2014</time>
-                                            Экибастуз                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/sdam_srochno_5047842.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдам срочно">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/sdam_srochno_5047842.html">сдам срочно</a></div>
-                <div class="description">Сдам двухкомнатную квартиру. Р-н Евразии. Ул Мирзояна. 5 этаж. 72 кв.м. мебелированая, евроремонт, телефон, домофон, пластиковые окна, комнаты изолированные, балкон застеклен, квартира теплая, уютная</div>
-            </div>
-            <span class="price">130 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.10.2014</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

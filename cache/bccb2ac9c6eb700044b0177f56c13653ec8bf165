@@ -316,6 +316,63 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/prodam_mashinu__5035095.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5158547.jpg" alt="продам машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/prodam_mashinu__5035095.html">продам машину</a></div>
+                <div class="description">продам фольксваген пассат 2002 г,газ бензин,типтроник,все опции ,недорого срочно</div>
+            </div>
+            <span class="price">1 900 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2014</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/prodam_mashinu__5035054.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Продам  машину">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/prodam_mashinu__5035054.html">Продам  машину</a></div>
+                <div class="description">Машина в хорошем состоянии.Цвет бежевый металлик. Объем 2 л</div>
+            </div>
+            <span class="price">3 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">16.06.2014</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/avtomobil_samsung_sm520_2003_g_v_5034975.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5158334.jpg" alt="Автомобиль SAMSUNG SM520. 2003 г.в.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/avtomobil_samsung_sm520_2003_g_v_5034975.html">Автомобиль SAMSUNG SM520. 2003 г.в.</a></div>
+                <div class="description">2003 г. Седан, газ-бензин, АКПП, левый руль, передний привод, серебристый металлик</div>
+            </div>
+            <span class="price">8 800 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">15.06.2014</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/prodam__5034947.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5158280.jpg" alt="Продам">
                     </a>
@@ -351,7 +408,38 @@
             <time datetime="01-01">14.06.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5034566" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5034566", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/srochno_prodam__5034566.html">
@@ -408,38 +496,7 @@
             <time datetime="01-01">07.06.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5034111" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5034111", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/prodam_avtomobil_ili_menyayu_nadruguyu_5034111.html">
@@ -666,63 +723,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">25.05.2014</time>
                                             Усть-Каменогорск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://zhezkazgan.salexy.kz/c/prodam_ili_obmenyayu_5032343.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="продам или обменяю">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://zhezkazgan.salexy.kz/c/prodam_ili_obmenyayu_5032343.html">продам или обменяю</a></div>
-                <div class="description">camry 25     2001 г.в. ПЭП, все опции в идеальном состоянии</div>
-            </div>
-            <span class="price">2 366 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">23.05.2014</time>
-                                            Жезказган                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/prodam__5032212.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5153289.jpg" alt="продам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/prodam__5032212.html">продам</a></div>
-                <div class="description">ваз 2110 2001 г.в., цвет - вишня металлик, пробег 134000 км, сигнализация, титановые диски, тонировка, стеклоподъемники( только перед), магнитола MP3, USB, сабвуфер, тех.осмотр пройден, налог уплачен, вложений не требует, состояние отличное</div>
-            </div>
-            <span class="price">750 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">22.05.2014</time>
-                                            Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/prodam_bmw_x5_torg_umesten_5032084.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5153095.jpg" alt="Продам BMW X5 (Торг уместен)">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/prodam_bmw_x5_torg_umesten_5032084.html">Продам BMW X5 (Торг уместен)</a></div>
-                <div class="description">Литые диски, тонировка, люк, корректор фар, обогрев зеркал, кожа, дерево, шторки, ГУР, ABS, SRS, сигнализация, автозавод, полный электропакет, климат-контроль, подогрев сидений, память сидений, датчик света, датчик дождя, вложений не требует</div>
-            </div>
-            <span class="price">22 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">21.05.2014</time>
-                                            Алматы                    </div>
             </div>
 </li>                                    
                 

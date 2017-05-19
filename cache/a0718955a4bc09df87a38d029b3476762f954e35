@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://aktobe.salexy.kz/c/sdam_i_prodam_2_komn_kv_5053902.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам и продам 2 комн.кв">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://aktobe.salexy.kz/c/sdam_i_prodam_2_komn_kv_5053902.html">Сдам и продам 2 комн.кв</a></div>
+                <div class="description">Продам и сдам 2 комн.кв. Батыс-2 за ГМ "Дина", в элитном доме, на 3 эт. и на 5 эт. 90 кв.м</div>
+            </div>
+            <span class="price"></span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.11.2014</time>
+                                            Актобе                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/sdam_na_dlitelnyy_srok_5053892.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам на длительный срок">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/sdam_na_dlitelnyy_srok_5053892.html">сдам на длительный срок</a></div>
+                <div class="description">4 этажный кирпичный дом, 3й этаж, 2х комнатная</div>
+            </div>
+            <span class="price">80 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.11.2014</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru__5053757.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам 2-х комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru__5053757.html">сдам 2-х комнатную квартиру</a></div>
+                <div class="description">Сдам 2-х комнатную квартиру ЖК Орбита ул</div>
+            </div>
+            <span class="price">130 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.11.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/srochno_sdam_2-h_kom_kv_5053652.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Срочно сдам 2-х ком. кв.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/srochno_sdam_2-h_kom_kv_5053652.html">Срочно сдам 2-х ком. кв.</a></div>
+                <div class="description">Сдам 2-х ком. кв. на голубых прудах. 2/9, Светлая, солнечная, без мебели. Рядом школа, садик, поликлиника, супер маркет, остановка. Цена 45000+ком. услуга</div>
+            </div>
+            <span class="price">45 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.11.2014</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdaetsya_3-h_komn_kvartira_5053502.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Сдается 3-х комн. квартира">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">17.11.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5053500" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5053500", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru__5053500.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">16.11.2014</time>
                                             Алматы                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5053369" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5053369", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/sdam_kvartiru_v_arendu_5053369.html">
@@ -552,82 +628,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">11.11.2014</time>
                                             Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_posutochno_po_chasam_na_noch_5052319.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 2-х комнатную квартиру посуточно, по часам, на ночь">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/sdam_2-h_komnatnuyu_kvartiru_posutochno_po_chasam_na_noch_5052319.html">Сдам 2-х комнатную квартиру посуточно, по часам, на ночь</a></div>
-                <div class="description">Сдам 2км.кв. посуточно, по часам, на ночь. Чистая, уютная, все есть, документы. р-н пр.Женис-пр.Богембая. маг.Коктем ,Муз Академия. Стоимость  от 8000 тенге.Ждем Вас .Надежда.Предоставляем услугу дополнительно, встреча с жд.авто вокзала и аэропорта</div>
-            </div>
-            <span class="price">8 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/sdam_kvartiru_na_dlitelnyy_srok_5052180.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдам квартиру на длительный срок ">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/sdam_kvartiru_na_dlitelnyy_srok_5052180.html">сдам квартиру на длительный срок </a></div>
-                <div class="description">36,6(18)9, улучшенная, балкон 8м, не угловая, телефон, домофон, кабельное ТВ, интернет, 3 из 5, патент, счетчики + ком. услуги, без мебели</div>
-            </div>
-            <span class="price">80 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.11.2014</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/sdam_2_kom_posutochno_pr_respubliki16_-_imanova_5052072.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193012.jpg" alt="Сдам 2 ком посуточно пр. Республики16 - Иманова">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/sdam_2_kom_posutochno_pr_respubliki16_-_imanova_5052072.html">Сдам 2 ком посуточно пр. Республики16 - Иманова</a></div>
-                <div class="description">Срочно сдам посуточно 2 ком кВ пр</div>
-            </div>
-            <span class="price">150 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">08.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ust-kamenogorsk.salexy.kz/c/komnatu_r-n_zaschita_20_000_tg_mes_devushke_s_sovmestnym_prozhivaniem_5051617.html">
-                            <img src="/themes/2015-04/images/nf.png" alt=" Комнату, р-н Защита 20 000 тг./мес., девушке с совместным проживанием">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/komnatu_r-n_zaschita_20_000_tg_mes_devushke_s_sovmestnym_prozhivaniem_5051617.html"> Комнату, р-н Защита 20 000 тг./мес., девушке с совместным проживанием</a></div>
-                <div class="description"> Комнату, р-н Защита 20 000 тг./мес</div>
-            </div>
-            <span class="price">20 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">05.11.2014</time>
-                                            Усть-Каменогорск                    </div>
             </div>
 </li>                                    
                 

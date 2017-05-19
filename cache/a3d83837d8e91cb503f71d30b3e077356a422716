@@ -220,6 +220,82 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://kostanay.salexy.kz/c/sdam_1_komnatnuyu_kvartiru_4682015.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Сдам 1 комнатную квартиру">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://kostanay.salexy.kz/c/sdam_1_komnatnuyu_kvartiru_4682015.html">Сдам 1 комнатную квартиру</a></div>
+                <div class="description">Сдам 1 комнатную р-н КСК, частично мебелированную, на длительный срок. 40000+ ком.услуги.</div>
+            </div>
+            <span class="price">40 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">14.01.2014</time>
+                                            Костанай                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/arenda_4675277.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="аренда">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/arenda_4675277.html">аренда</a></div>
+                <div class="description">сдам однокомнатную квартиру, 19 микрорайон. мебелированная, стиральная машина автомат, холодильник, микровалновка. 40 + коммунальные.</div>
+            </div>
+            <span class="price">40 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">12.01.2014</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://ust-kamenogorsk.salexy.kz/c/posutochno_pochasovo_4672596.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдам посуточно,почасово">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://ust-kamenogorsk.salexy.kz/c/posutochno_pochasovo_4672596.html">сдам посуточно,почасово, Бульвар Гагарина 34</a></div>
+                <div class="description">Сдам 2-х,3-х комнатные квартиры в районе Ивушке,Бульвар -Гагарина посуточно,почасово.Каб. ТВ.,уют,чистота. 5000 - 2-х ком.,8000-3-х ком.</div>
+            </div>
+            <span class="price">100 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">11.01.2014</time>
+                                            Усть-Каменогорск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://petropavlovsk.salexy.kz/c/sdaem_4670326.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="сдаем!!!">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://petropavlovsk.salexy.kz/c/sdaem_4670326.html">сдаем!!!</a></div>
+                <div class="description">Возьму на подселению девочек, без хозяев,3-х комнатная квартира, обращаться по телефону 8702-987-06-49</div>
+            </div>
+            <span class="price">11 200 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.01.2014</time>
+                                            Петропавловск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://rudniy.salexy.kz/c/sdaetsya_kvartira_4669763.html">
                             <img src="/themes/2015-04/images/nf.png" alt="сдается квартира">
                     </a>
@@ -236,7 +312,38 @@
             <time datetime="01-01">10.01.2014</time>
                                             Рудный                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_4669023" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_4669023", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://almaty.salexy.kz/c/arenda_kvartiry_4669023.html">
@@ -312,38 +419,7 @@
             <time datetime="01-01">06.01.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_4656156" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_4656156", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdayu_kvartiru_4656156.html">
@@ -551,82 +627,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">02.01.2014</time>
                                             Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://kostanay.salexy.kz/c/vozmu_na_podselenie_dvuh_studentov_rayon-dk-stroitel_4648157.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="возьму на подселение двух студентов район-дк-строитель">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://kostanay.salexy.kz/c/vozmu_na_podselenie_dvuh_studentov_rayon-dk-stroitel_4648157.html">возьму на подселение двух студентов район-дк-строитель</a></div>
-                <div class="description">возьму на подселение двух студентов район-ДК-СТРОИТЕЛЬ</div>
-            </div>
-            <span class="price">12 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">02.01.2014</time>
-                                            Костанай                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/sdam_kvartiru_4646619.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Сдам квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/sdam_kvartiru_4646619.html">Сдам квартиру, 11 мкр.</a></div>
-                <div class="description">дом кирпичный, общ. Площадь 45 м2, евроремонт, санузел раздельный, телефон отдельный, чистая, уютная, холодильник, стиральная машина-автомат, кабельное ТВ, семейным, на длительный срок, телевизор. 70 </div>
-            </div>
-            <span class="price">70 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">01.01.2014</time>
-                                            Актобе                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/_4644296.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5127574.jpg" alt="сдам">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/_4644296.html">сдам</a></div>
-                <div class="description">1  комн. -студия, 6 мкр., район новой церкви, 1 этаж в новом доме, бесплатная парковка, кабельное ТВ, телефон, рядом парк, ресторан. Чисто. Тепло. Уютно. Сутки - 6000, ночь -5000.</div>
-            </div>
-            <span class="price">6 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.12.2013</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/2-h_komnatnaya_zheltoksan-seyfullina_kom_uslugi_vnutri_4643769.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5127573.jpg" alt="2-х комнатная Желтоксан-Сейфуллина ком услуги внутри">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/2-h_komnatnaya_zheltoksan-seyfullina_kom_uslugi_vnutri_4643769.html">2-х комнатная Желтоксан-Сейфуллина ком услуги внутри</a></div>
-                <div class="description">Квартира находится на Ул.желтоксан напротив маг.апрель.на проезжей части.дом с хорошими жильцами, все семейные.хороший двор.1 окно выходит на желтоксан , 2 во двор.есть все необходимое для жизни. Опла</div>
-            </div>
-            <span class="price">140 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">29.12.2013</time>
-                                            Астана                    </div>
             </div>
 </li>                                    
                 

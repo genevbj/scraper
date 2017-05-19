@@ -220,6 +220,88 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://karaganda.salexy.kz/c/posutochno_5072582.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5239492.jpg" alt="Посуточно.">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://karaganda.salexy.kz/c/posutochno_5072582.html">Посуточно., Бухар-Жирау. </a></div>
+                <div class="description">Чистая, уютная, кабельное телевидение, телефон, душевая кабина</div>
+            </div>
+            <span class="price">5 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.03.2015</time>
+                                            Караганда                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/2-h_komn_v_arendu_5072580.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="2-х комн. в аренду">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/2-h_komn_v_arendu_5072580.html">2-х комн. в аренду</a></div>
+                <div class="description">2-х квартира в аренду на долгий срок семейным, порядочным. 
+расположение: мкр.Кулагер
+кол-во комнат: 2
+с/у раздельный
+этажность:3/9
+строение: монолит
+телефон, каб</div>
+            </div>
+            <span class="price">90 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.03.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://uralsk.salexy.kz/c/sdayu_po_chasam_1_kom_blag_kvartiru_na_zh_d_vokzale-ot_600t_5072535.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5239366.jpg" alt="Сдаю по часам 1 ком благ квартиру на ж/д вокзале-от 500т">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://uralsk.salexy.kz/c/sdayu_po_chasam_1_kom_blag_kvartiru_na_zh_d_vokzale-ot_600t_5072535.html">Сдаю по часам 1 ком благ квартиру на ж/д вокзале-от 500т</a></div>
+                <div class="description">На привокзальной площадиНа 3часа и более-по500т;На 2часа-по 600;на1 час-1000т.лифт работает.Полностью обставлена мебелью и бытовой техникой.Чистое пост белье,посуда.Чисто.УютноНочью 1 час-1000т!Сутки -4500т</div>
+            </div>
+            <span class="price">500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.03.2015</time>
+                                            Уральск                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/arenda_kvartir_5072522.html">
+                            <img src="/themes/2015-04/images/nf.png" alt="Аренда квартир">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/arenda_kvartir_5072522.html">Аренда квартир</a></div>
+                <div class="description">Сдам 1 комнатную квартиру в Кокжиеке. Читстый. Уютый</div>
+            </div>
+            <span class="price">60 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">18.03.2015</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdam_kvartiru_5072441.html">
                             <img src="/themes/2015-04/images/nf.png" alt="Сдам квартиру">
                     </a>
@@ -236,7 +318,38 @@
             <time datetime="01-01">18.03.2015</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5072361" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5072361", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://karaganda.salexy.kz/c/sdaetsya_1-kom_kvartira_na_erzhanova_55000_komuslugi_5072361.html">
@@ -314,38 +427,7 @@
             <time datetime="01-01">16.03.2015</time>
                                             Байконур                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5071960" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5071960", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://kostanay.salexy.kz/c/sdam_kvartiru_5071960.html">
@@ -555,82 +637,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">10.03.2015</time>
                                             Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://shahtinsk.salexy.kz/c/sdayu_kvartiru_5070906.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="сдаю квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://shahtinsk.salexy.kz/c/sdayu_kvartiru_5070906.html">сдаю квартиру, шахтинск 31 квартал 63 дом</a></div>
-                <div class="description">квартира находится 31 квартале 63 дом рядом садик и школа, Квартира находится в хорошим состояний ,Желательно семейная пара,</div>
-            </div>
-            <span class="price">15 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.03.2015</time>
-                                            Шахтинск                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://almaty.salexy.kz/c/2hkomnatnaya_muratbaeva_eko_centr_kardiologiya_glaznoy_institut_5070718.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5235156.jpg" alt="2хкомнатная,Муратбаева,ЭКО центр,кардиология,глазной институт">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://almaty.salexy.kz/c/2hkomnatnaya_muratbaeva_eko_centr_kardiologiya_glaznoy_institut_5070718.html">2хкомнатная,Муратбаева,ЭКО центр,кардиология,глазной институт</a></div>
-                <div class="description">Посуточно! Сдам 2-комнатную квартиру 8500тг/сут в Алматы на Муратбаева-Айтеке би. 1-комнатная - 6500 тенге/сутки. 10 - 15 минут ходьбы до ЭКО-центра, института кардиологии, глазного института (на Толе би)</div>
-            </div>
-            <span class="price">8 500 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.03.2015</time>
-                                            Алматы                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/sdayu_2_komn_kvartiru_5070696.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5235138.jpg" alt="Сдаю 2 комн.квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/sdayu_2_komn_kvartiru_5070696.html">Сдаю 2 комн.квартиру</a></div>
-                <div class="description">2 комнатная в центре район тд азат, 5/5 , со всеми удобствами,евроремонт, титан, интернет, уютная, теплая</div>
-            </div>
-            <span class="price">80 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.03.2015</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://aktobe.salexy.kz/c/sdam_kvartiru_5070601.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5234933.jpg" alt="Сдам квартиру">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://aktobe.salexy.kz/c/sdam_kvartiru_5070601.html">Сдам квартиру</a></div>
-                <div class="description">Сдам квартиру в р-не ЖДВ семейным на длительный срок</div>
-            </div>
-            <span class="price">40 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">09.03.2015</time>
-                                            Актобе                    </div>
             </div>
 </li>                                    
                 

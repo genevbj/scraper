@@ -146,6 +146,44 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/chehly_comfort-combo_velyur_krasnyy_5052362.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5193674.jpg" alt="Чехлы Comfort-Combo велюр Красный">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/chehly_comfort-combo_velyur_krasnyy_5052362.html">Чехлы Comfort-Combo велюр Красный</a></div>
+                <div class="description">Ортопедические авточехлы Comfort-Combo обладают объёмной формой, которая эффективно поддерживает тело человека во время движения</div>
+            </div>
+            <span class="price">14 500 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://astana.salexy.kz/c/chehly_persona_ekokozha_5052361.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/5193672.jpg" alt="Чехлы Persona, экокожа">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://astana.salexy.kz/c/chehly_persona_ekokozha_5052361.html">Чехлы Persona, экокожа</a></div>
+                <div class="description">Высококачественные авточехлы Persona выполнены в изысканном дизайне со спокойными цветовыми решениями</div>
+            </div>
+            <span class="price">18 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">10.11.2014</time>
+                                            Астана                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/chehly_multi_comfort_kozha_velyur_5052359.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/5193671.jpg" alt="Чехлы Multi Comfort кожа+велюр">
                     </a>
@@ -200,7 +238,38 @@
             <time datetime="01-01">10.11.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5052356" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5052356", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/modelnye_chehly_land_cruiser_prado_150_c_2009_5052356.html">
@@ -239,38 +308,7 @@
             <time datetime="01-01">10.11.2014</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5052354" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5052354", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://astana.salexy.kz/c/fortune_oblegchennye_bezhevyy_5052354.html">
@@ -530,48 +568,6 @@
                 <div class="description">Чехлы универсальные для автомобильных сидений. Наличие различных расцветок уточняйте у менеджеров</div>
             </div>
             <span class="price">21 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/jacquard_5052337.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193644.jpg" alt="JACQUARD">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/jacquard_5052337.html">JACQUARD</a></div>
-                <div class="description">Материал:   центральная часть - Жаккард, боковые части - ткань Пайнэпл
-Возможные расцветки чехлов (наличие уточняйте): светло серый, темно серый, бежевый, синий</div>
-            </div>
-            <span class="price">14 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">10.11.2014</time>
-                                            Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://astana.salexy.kz/c/fortune_oblegchennye_5052336.html">
-                                        <img src="http://salexy.kz/images/img_kz/124x124/5193643.jpg" alt="FORTUNE облегченные">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://astana.salexy.kz/c/fortune_oblegchennye_5052336.html">FORTUNE облегченные</a></div>
-                <div class="description">Чехлы универсальные облегченные премиум-класса  из экокожи для автомобильных сидений.
-Наличие различных расцветок уточняйте у менеджеров.
-Материал - высококачественная экокожа
-Дублированы поролоном 5 мм</div>
-            </div>
-            <span class="price">19 000 тг.</span>
         </div>
         <div class="bottom-panel">
             <time datetime="01-01">10.11.2014</time>
