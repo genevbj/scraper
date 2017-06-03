@@ -213,6 +213,48 @@
                                                                 
                     <li class="">
     <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/3-komnatnaya_kvartira_s_bolshoy_kuhney_5221799.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/22/74/22740629ed99c7b50139cc2b48c240da.jpg" alt="3-комнатная квартира с большой кухней, Муратбаева - Карасай батыра">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/3-komnatnaya_kvartira_s_bolshoy_kuhney_5221799.html">3-комнатная квартира с большой кухней, Муратбаева - Карасай батыра</a></div>
+                <div class="description">3-комнатная квартира в отличном состоянии в прекрасном районе для тех, кто ищет жилье с большой кухней. 
+ 
+Сегодня достаточно сложно найти недвижимость по душе</div>
+            </div>
+            <span class="price">20 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
+        <a href="http://almaty.salexy.kz/c/2-komnatnaya_kvartira_nauryzbay_batyra_-_5221789.html">
+                                        <img src="http://salexy.kz/images/img_kz/124x124/d5/65/d56545dba83472184586f8fce7bffe89.jpg" alt="2-комнатная квартира, Наурызбай батыра - Советская">
+                    </a>
+    </div>
+    <div class="content">
+        <div class="top-info">
+            <div class="info-content">
+                <div class="title"><a href="http://almaty.salexy.kz/c/2-komnatnaya_kvartira_nauryzbay_batyra_-_5221789.html">2-комнатная квартира, Наурызбай батыра - Советская</a></div>
+                <div class="description">Квартира в центре города – выбор для тех, кто ценит комфорт и безопасность. Сам риэлтор живет в этом доме! 
+ 
+- Двор дома включен в программу ДВД г. Алматы</div>
+            </div>
+            <span class="price">12 500 000 тг.</span>
+        </div>
+        <div class="bottom-panel">
+            <time datetime="01-01">19.05.2017</time>
+                                            Алматы                    </div>
+            </div>
+</li>                                                        
+                    <li class="">
+    <div class="img-holder">
         <a href="http://astana.salexy.kz/c/sdam_1_kom_kv_studiyu_26_kv_m_5221700.html">
                                         <img src="http://salexy.kz/images/img_kz/124x124/11/5f/115f6544db74023969e4c4b8c41a79db.jpg" alt="Сдам 1 ком.кв.студию 26 кв.м. 1-2чел.">
                     </a>
@@ -267,7 +309,38 @@
             <time datetime="01-01">18.05.2017</time>
                                             Астана                    </div>
             </div>
-</li>                                                        
+</li>                                                                            <li class="info-box">
+                        <div id="yandex_ad_item_5221678" class="ya-inline-decorated"></div>
+<script type="text/javascript">
+    (function(w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function() {
+            Ya.Direct.insertInto(147355, "yandex_ad_item_5221678", {
+                stat_id: 2,
+                ad_format: "direct",
+                font_size: 0.9,
+                type: "horizontal",
+                limit: 1,
+                title_font_size: 2,
+                links_underline: false,
+                site_bg_color: "FFFFFF",
+                title_color: "0093DD",
+                url_color: "0083B7",
+                text_color: "000000",
+                hover_color: "47CEF0",
+                no_sitelinks: true
+            });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.src = "//an.yandex.ru/system/context.js";
+        s.type = "text/javascript";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+    })(window, document, "yandex_context_callbacks");
+</script>
+                    </li>
+                    
                     <li class="">
     <div class="img-holder">
         <a href="http://ust-kamenogorsk.salexy.kz/c/prodam_2-konatnuyu_5221678.html">
@@ -305,38 +378,7 @@
             <time datetime="01-01">18.05.2017</time>
                                             Астана                    </div>
             </div>
-</li>                                                                            <li class="info-box">
-                        <div id="yandex_ad_item_5221596" class="ya-inline-decorated"></div>
-<script type="text/javascript">
-    (function(w, d, n, s, t) {
-        w[n] = w[n] || [];
-        w[n].push(function() {
-            Ya.Direct.insertInto(147355, "yandex_ad_item_5221596", {
-                stat_id: 2,
-                ad_format: "direct",
-                font_size: 0.9,
-                type: "horizontal",
-                limit: 1,
-                title_font_size: 2,
-                links_underline: false,
-                site_bg_color: "FFFFFF",
-                title_color: "0093DD",
-                url_color: "0083B7",
-                text_color: "000000",
-                hover_color: "47CEF0",
-                no_sitelinks: true
-            });
-        });
-        t = d.getElementsByTagName("script")[0];
-        s = d.createElement("script");
-        s.src = "//an.yandex.ru/system/context.js";
-        s.type = "text/javascript";
-        s.async = true;
-        t.parentNode.insertBefore(s, t);
-    })(window, document, "yandex_context_callbacks");
-</script>
-                    </li>
-                    
+</li>                                                        
                     <li class="">
     <div class="img-holder">
         <a href="http://aktobe.salexy.kz/c/prodam_3h-kom_kv_61_4_kv_m_5_5_5221596.html">
@@ -587,44 +629,6 @@
         <div class="bottom-panel">
             <time datetime="01-01">15.05.2017</time>
                                             Астана                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://karaganda.salexy.kz/c/prodazha_odnokomnatnoy_kvartiry_5211124.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="Продажа однокомнатной квартиры">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://karaganda.salexy.kz/c/prodazha_odnokomnatnoy_kvartiry_5211124.html">Продажа однокомнатной квартиры, Мамраева 30</a></div>
-                <div class="description">Продам однокомнатную квартиру  по ул.Мамраева (Восток 5). 34.5к кв,м жилая 19 кв.м,  кухня 8.5 кв.м. 2/5 этаж,сан.узел совмещен.  пластиковые окна.большая лоджия.теплая,светлая.развитая инфраструктура или поменяю на квартиру в Усть-Каменогорске</div>
-            </div>
-            <span class="price">5 200 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">15.05.2017</time>
-                                            Караганда                    </div>
-            </div>
-</li>                                                        
-                    <li class="">
-    <div class="img-holder">
-        <a href="http://ekibastuz.salexy.kz/c/2-h_komn_kv_v_gorode_ekibastuz_5221059.html">
-                            <img src="/themes/2015-04/images/nf.png" alt="2-Х комн.кв в городе Экибастуз">
-                    </a>
-    </div>
-    <div class="content">
-        <div class="top-info">
-            <div class="info-content">
-                <div class="title"><a href="http://ekibastuz.salexy.kz/c/2-h_komn_kv_v_gorode_ekibastuz_5221059.html">2-Х комн.кв в городе Экибастуз</a></div>
-                <div class="description">Квартира 2х комн</div>
-            </div>
-            <span class="price">4 000 000 тг.</span>
-        </div>
-        <div class="bottom-panel">
-            <time datetime="01-01">15.05.2017</time>
-                                            Экибастуз                    </div>
             </div>
 </li>                                    
                 

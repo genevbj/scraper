@@ -135,7 +135,7 @@
                 <div class="row inline">
                     <label for="RegistrationForm_captcha">Код подтверждения</label>                    <div class="input-text">
                         <input class="text" placeholder="Введите код показанный на картинке" style="float:left; display:block; width:300px; margin-top:7px;" name="RegistrationForm[captcha]" id="RegistrationForm_captcha" type="text" />
-                                                    <img class="capcha_img" id="yw0" src="/user/captcha?v=591b2ecdb3db8" alt="" />                        
+                                                    <img class="capcha_img" id="yw0" src="/user/captcha?v=591f44303cab9" alt="" />                        
                                             </div>
                 </div>
 
