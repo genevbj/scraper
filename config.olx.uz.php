@@ -1,33 +1,29 @@
 <?php
 
-require 'vendor/autoload.php';
-require 'vendor/scraper/Logger.php';
-require 'vendor/scraper/Parser.php';
-require 'vendor/scraper/Parser_OLX.php';
-require 'vendor/scraper/Proxy.php';
-require 'vendor/scraper/UserAgent.php';
-require 'vendor/scraper/Crawler.php';
-require 'vendor/scraper/Cache.php';
-require 'vendor/scraper/URL.php';
-require 'vendor/scraper/URL_Tree.php';
-
-
-
-
 $s_options=[
     'debug' => true,
     'max_sim_downloads' => 10,
-    'max_documents_per_session' => 20,
-    'obsolescence' => 600,
-    'cache_dir' => './cache_olx_uz',
+    'max_documents_per_session' => 10,
+    'obsolescence' => 7200,
+    'cache_dir' => './cache/olx.uz/html',
+    'img_cache_dir' => './cache/olx.uz/img',
+    'xml_cache_dir' => './cache/olx.uz/xml',
+    'own_host' => 'http://191.101.158.250',
+    'img_web_dir' => '/img',
+    'xml_web_dir' => '/export',
+    'xml_name' => 'olx.xml',
     'use_proxy' => true,
+    'reuse_curl' => true,
+    'max_retries' => 3, // TODO
     'check_proxy' => false,
     'single_ua_per_session' => true,
     'single_proxy_per_session' => true,
     'waiting' => 180,
-    'sleep_between' => 15,
+    'sleep_between' => 30,
     'check_proxy_url' => 'http://gde.ru/check_proxy.php',
+    'currency_json_url' => 'http://www.floatrates.com/daily/usd.json',
     'domain' => 'olx.uz',
+
     'traverse_outer_domains' => false,
     'traverse_inner_domains' => true,
     'base_url' => 'http://olx.uz',
@@ -38,11 +34,18 @@ $s_options=[
 	'struct' => [
 	    'tree' 	=> 'map',
 	    'leaf' 	=> 'ads',
-	    'proxy'	=> 'proxy',
+	    'proxies'	=> 'proxies',
 	] 
     ],
     'ignore_ext' => ['css', 'js', 'ico'],
     'ignore_url' => [
+		    '/i2',
+		    '/javascript',
+		    '/settings',
+		    '/wishlist',
+		    'itunes.apple.com',
+		    '/store', 
+		    '?category=', 
 		    '/myaccount', 
 		    '/post-new-ad', 
 		    '/changelang', 
@@ -214,65 +217,6 @@ $s_options=[
 		    '/m/obmen-barter',
     ],
     'leaf_ext' =>['html'],
-    'xpath_struct2' => [
-	// <ID><![CDATA[15334]]></ID>
-//	'ID'			=> '//ul[@id="contact_methods_below"]/li/@class', 
-	'ID'			=> '//*[@id="rowContainer"]/div[3]/div[1]/div[2]/div[1]/div[1]/table/tbody/tr[2]/td/text()',
-	// <CRC><![CDATA[01b0074ed70ecdc79ee5c9adf22c903f]]></CRC>
-	// <TITLE><![CDATA[Участок с домом ПГТ Новозавидосвкий, 17 соток]]></TITLE>
-	'TITLE'			=> '//*[@id="offerdescription"]/div[2]/h1',
-	//	<DESCRIPTION><![CDATA[Продаётся участок 17 соток с домом, Ленинградское ш., ПГТ Новозавидовский 95 км от Москвы. ПМЖ, домовая книга. Дом 2-х этаж рубленый на фундаменте (6х6) со всеми удобствами. В доме созданы все условия для жизни: мебель, душ сан. узел, отопление, г/х вода, городской тел., на окнах - желез ставни, кап кирпичный гараж на фундаменте, беседка со столом, колодец. Залит фундамент (12,5х12,5), перекрыт бетонными плитами под 2-х этаж дом, есть план-проект постройки. Общая площадь дома по проекту 172 м2. Врыта ёмкость под септик. Магистр газ. Элект-во, две зарегистрированные точки, 10 мин. пешком до ж/д станции «Завидово». Фруктовый сад. Московское море 500 м. Дорога к участку хорошая. Подъезд круглый год, асфальт. В посёлке имеется вся инфраструктура. 2700000 руб. [#15334#]]]></DESCRIPTION>
-	'DESCRIPTION'		=> '//*[@id="textContent"]/p',
-	//	<DATE><![CDATA[2017-04-21]]></DATE>
-	'DATE'			=> '//*[@id="offerdescription"]/div[2]/div/em/text()',
-	//	<EMAIL><![CDATA[3vda3@mail.ru]]></EMAIL>
-//	'EMAIL'			=> '//*[@id="content"]/div[1]/div[3]/div[3]/div/div[3]',
-	//	<LAT><![CDATA[56.689506]]></LAT>
-	//	<LNG><![CDATA[36.782076]]></LNG>
-	//	<LOCATION_COUNTRY><![CDATA[ RU ]]></LOCATION_COUNTRY>
-	// 'LOCATION_COUNTRY'	=> '//*[@id="content"]/div[1]/div[3]/div[2]/div[2]/div/table/tbody/tr/td[2]',
-	//	<LOCATION_STATE><![CDATA[TVR]]></LOCATION_STATE>
-	//	<LOCATION_CITY><![CDATA[1496]]></LOCATION_CITY>
-	//	<ADDRESS><![CDATA[улица Красногвардейская]]></ADDRESS>
-	//	<CATEGORY><![CDATA[756]]></CATEGORY>
-	//	<IMAGE_URL><![CDATA[http://www.jcat.ru/images/orders/2013-08/21/5f50a2bf209268efa8f212f2159ab2d2.jpg]]></IMAGE_URL>
-	//	<PRICE><![CDATA[2700000]]></PRICE>
-	'PRICE'			=> '//*[@id="offeractions"]/div[1]/strong',
-////*[@id="content"]/div[1]/div[3]/div[2]/text()'
-	//	<CONTACT><![CDATA[Анатолий]]></CONTACT>
-	'CONTACT'		=> '//*[@id="offeractions"]/div[3]/div[2]/h4/a/text()',
-	//	<CONTACT_PHONE><![CDATA[+7 (495) 7635590]]></CONTACT_PHONE>
-//	'CONTACT_PHONE'		=> '//*[@id="content"]/div[1]/div[3]/div[3]/div/div[2]',
-	//	<WATER><![CDATA[да]]></WATER>
-	//	<fields>
-//	'+fields'		=> '//table[contains(@class,"info")]/tbody',
-//	'+contacts'		=> '//div[contains(@class,"offercontact")]',
-	'+imgb'			=> '//div[contains(@class, "img-item")]/div/img/@src',
-//	'+imgm'			=> '//div[contains(@class,"photos")]/a/img/@src',
-	'@PHONE_TOKEN'		=> '//section[@id="body-container"]/script',
-	'+SCRIPTS'		=> '//head/script',
-	//http://irr.uz/photo/33195_b.jpg
-
-	//		<heating><![CDATA[да]]></heating>
-	//		<square><![CDATA[172]]></square>
-	//		<rooms_count><![CDATA[3]]></rooms_count>
-	//		<wall_material><![CDATA[445]]></wall_material>
-	//		<plot><![CDATA[17]]></plot>
-	//		<gas><![CDATA[да]]></gas>
-	//		<water><![CDATA[да]]></water>
-	//		<sewerage><![CDATA[да]]></sewerage>
-	//	</fields>
-	//	<extra_fields>
-	//		<extra_field name="Название коттеджного поселка">пгт новозавидовский</extra_field>
-	//		<extra_field name="Телефон">да</extra_field>
-	//		<extra_field name="Интернет">нет</extra_field>
-	//		<extra_field name="Мебель">да</extra_field>
-	//		<extra_field name="Доп.постройки">да</extra_field>
-	//		<extra_field name="Охрана">нет</extra_field>
-	//	</extra_fields>
-	//<AD>
-
-    ],
     'xpath_struct' => [
 	// <ID><![CDATA[15334]]></ID>
 //	'ID'			=> '//ul[@id="contact_methods_below"]/li/@class', 
@@ -332,44 +276,6 @@ $s_options=[
 	//<AD>
 
     ],
-    'xml' => [
-	'AD' => [
-	    'ID',
-	    'CRC',
-	    'TITLE',
-	    'DESCRIPTION',
-	    'DATE',
-	    'EMAIL',
-	    'LOCATION_COUNTRY',
-	    '<LOCATION_STATE',
-	    'LOCATION_CITY',
-	    'ADDRESS',
-	    'CATEGORY',
-	    'PRICE',
-	    'CONTACT',
-	    'CONTACT_PHONE',
-	    'SITE_URL',
-	    'IMAGE_URL',
-	    'METRO',
-	    'fields' => [
-		'employment_form',
-		'work_graphic',
-		'education',
-		],
-	],
-    ],
-
 
 ];
 
-$p = new Parser_OLX($s_options);
-
-$a=$p->parse(file_get_contents($s_options['cache_dir'].'/fe898785a5846e583ac008c24086712b77f30679'));
-
-
-foreach($a as $k=>$v)
-{
-    foreach($v as $vi => $vv)
-	echo $k.':'.$vi.':'.$vv."\n";
-}
-?>

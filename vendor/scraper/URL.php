@@ -115,6 +115,7 @@ class URL
 	    $extracted_array = $this->parser->parse($this->html);
 	    //	Load and save images
 	    $u = new URL_Helper($this->options);
+
 	    if(!empty($extracted_array['+imgb']))
 	    {
 		$this->logger->log("Load images");
@@ -180,9 +181,52 @@ class URL
 			
 			break;
 		    case 'ID':
-			$xml->writeElement($k,$field[0]);
+			$xml->startElement('ID');
+			$xml->writeCData($field[0]);
+			$xml->endElement();
 			break;
 		    case '@PHONE_TOKEN':
+			
+			$r = exec("./phone.sh ".$this->link." ".$this->options['proxy'], $ph, $rv);
+
+			if ($rv !== 0)
+			{
+			    echo "Error:";
+			    foreach ($ph as $ps)
+			    {
+				echo $ps, "\n";
+			    } 
+
+			}
+			else
+			{
+			    $xml->startElement('CONTACT_PHONE');
+			    $xml->writeCData((json_decode($ph[0]))->phone);
+			    $xml->endElement();
+			    ;
+			}
+
+			break;
+		    case 'PRICE':
+			$xml->startElement($k);
+			
+			$PRICE = $field[0];
+			$pattern = '/(.+)у.е./i';
+			$r = preg_replace($pattern,"\\1",$PRICE);
+	
+			if($PRICE == $r) //uzs
+			{
+			    $pattern = '/(.+)сум/i';
+			    $PRICE = str_replace(' ','',preg_replace($pattern,"\\1",$PRICE));
+	    
+			}
+			else
+			{
+			    $PRICE = (int)($this->options['rates']['usd']['uzs'] * str_replace(' ','',$r));
+			}
+
+			$xml->writeCData($PRICE);
+			$xml->endElement();
 			break;
 		    default:
 			$xml->startElement($k);

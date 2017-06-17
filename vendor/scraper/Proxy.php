@@ -18,10 +18,9 @@ class Proxy
 	$this->logger = new Logger();
 
 	$this->proxies_list = array(); 
-#	$this->proxies_list[] = '149.56.180.31:8080';
-	$this->proxies_list['avail'][] = [ 'host' => '167.114.35.69', 		'port' => '8080', 'type' => 'http', 'enabled' => false, 'checked' => false ];
-	$this->proxies_list['avail'][] = [ 'host' => '88.99.208.147', 		'port' => '8080', 'type' => 'http', 'enabled' => false, 'checked' => false ];
-	$this->proxies_list['avail'][] = [ 'host' => '190.210.231.188', 	'port' => '3128', 'type' => 'http', 'enabled' => false, 'checked' => false ];
+//	$this->proxies_list['avail'][] = [ 'host' => '167.114.35.69', 		'port' => '8080', 'type' => 'http', 'enabled' => false, 'checked' => false ];
+//	$this->proxies_list['avail'][] = [ 'host' => '88.99.208.147', 		'port' => '8080', 'type' => 'http', 'enabled' => false, 'checked' => false ];
+//	$this->proxies_list['avail'][] = [ 'host' => '128.199.227.2', 	'port' => '3128', 'type' => 'http', 'enabled' => false, 'checked' => false ];
 	$this->proxies_list['avail'][] = [ 'host' => '1.28.246.144', 		'port' => '8080', 'type' => 'http', 'enabled' => false, 'checked' => false ];
 	$this->proxies_list['avail'][] = [ 'host' => '185.80.149.4', 		'port' => '443', 'type' => 'http', 'enabled' => false, 'checked' => false ];
 	$this->proxies_list['noproxy'][] = [ 'host' => '', 	'port' => '', 'type' => 'http', 'enabled' => true, 'checked' => true ];

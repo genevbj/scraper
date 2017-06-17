@@ -186,7 +186,8 @@ class URL_Tree extends URL
 			}
 			// skip link if it isnt on the same domain
 			else 
-			    if ( (strpos($link, '.'.$this->domain) === false) || (strpos($link, '/'.$this->domain) === false) )
+//			    if ( (strpos($link, '.'.$this->domain) === false) || (strpos($link, '/'.$this->domain) === false) )
+			    if ( (strpos($link, '//'.$this->domain) === false) && (strpos($link, '//www.'.$this->domain) === false ) )
 			    {
 //				if ($this['options']['traverse_inner_domains'] && strpos($link, $this->domain) === false) 
 //				{

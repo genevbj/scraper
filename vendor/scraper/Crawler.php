@@ -15,6 +15,7 @@ class Crawler
     private $proxies;
     private $logger;
     private $recursion_level;
+    protected $rates;
 
     function __construct($options)
     {
@@ -61,7 +62,16 @@ class Crawler
 	$this->map->createIndex(['url' => 1], ['unique' => true]);
 	$this->ads->createIndex(['url' => 1], ['unique' => true]);
 
+	// Update currency
 
+	$c = new URL_Helper($this->options);
+
+	$this->logger->log("Update SUM -> USD excnange rate");
+	
+	$c->add_options([CURLOPT_BINARYTRANSFER => false, CURLOPT_COOKIEJAR => 'cookie.txt', CURLOPT_COOKIEFILE => 'cookie.txt',  ]);
+	$cu = $c->load($this->options['currency_json_url']); 
+	$this->options['rates']['usd']['uzs']=json_decode($cu)->uzs->rate;
+	unset ($c);
 
     }
 
@@ -70,6 +80,8 @@ class Crawler
     {
     
 	$this->logger->log("Memory usage (".__METHOD__.",  start): ".number_format((memory_get_usage()/1024/1024), 2, '.', ' ')."Mb", Logger::DEBUG);
+
+
 
 	// Get max counter 
 
@@ -221,7 +233,7 @@ class Crawler
 //	$q=[ '$and' => [ [ 'retry_count' => [ '$lt' => $max_counter ]  ] , [ 'update_time' => [ '$lt' => $ot ]  ] ] ];
 
 
-	$this->logger->log("Select " . $this->max_sim_downloads . " documents not modified within " . $this->obsolescence_time . "s to find structure changes");
+	$this->logger->log("Select " . $this->max_sim_downloads . " documents not modified within " . $this->obsolescence_time . "s to find changes");
 	$a = $this->ads->find($q, ['limit' => $this->max_sim_downloads] )->toArray();
 
 	$ffound=count($a);
