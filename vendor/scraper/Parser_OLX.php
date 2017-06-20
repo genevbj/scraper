@@ -51,6 +51,30 @@ class Parser_OLX extends Parser
 //				print_r($s);
 //				die;
 				$ret['+extra'][$el]=$s[1];
+				switch ($el)
+				{
+				    case 'city_id' :
+
+					$ret['LOCATION_CITY'][0]=$this->options['db']['local_storage']['mapping']['city'][$s[1]] ?? 'UNDEFINED';
+					$ret['LOCATION_COUNTRY'][0]='UZ';
+					break;
+				    case 'region_id' :
+
+					$ret['LOCATION_STATE'][0]=$this->options['db']['local_storage']['mapping']['region'][$s[1]] ?? 'UNDEFINED';
+					break;
+
+				    case 'category_id' :
+
+					$ret['CATEGORY'][0]=$this->options['db']['local_storage']['mapping']['category'][$s[1]] ?? 'UNDEFINED';
+					break;
+				    case 'regionName':
+				    case 'subregionName':
+				    case 'categoryName':
+				    case 'rootCategoryName':
+					$ret['+extra'][$el]=json_decode("\"".$s[1]."\"");
+					break;
+
+				}
 			    }
 			}
 			break;

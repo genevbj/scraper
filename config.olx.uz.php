@@ -35,7 +35,28 @@ $s_options=[
 	    'tree' 	=> 'map',
 	    'leaf' 	=> 'ads',
 	    'proxies'	=> 'proxies',
-	] 
+	], 
+	'local_storage' => [
+	    'mapping' => [
+		'city' => [
+		    189 => 1173,	// Kokand, Ferganskaya
+		    4 => 1184,		// Tashkent, Tashkentskaya
+		],
+		'region' => [
+		    5 => 1119,		// Tashkentskaya
+		    36 => 1120,		// Ferganskaya
+ 		],
+		'category' => [],
+	    ],
+	    'rtree' => [
+		5 => [
+		    4,
+		],
+		36 => [
+		    189,
+		],
+	    ],
+	],
     ],
     'ignore_ext' => ['css', 'js', 'ico'],
     'ignore_url' => [

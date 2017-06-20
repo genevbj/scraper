@@ -150,7 +150,6 @@ class URL
 	    $xml->startElement('ADS');
 	    $xml->startElement('AD');
 	    $xml->writeAttribute('id',$extracted_array['ID'][0]);
-	    $xml->writeAttribute('src',$this->link);
 
 	    
 	    foreach($extracted_array as $k => $field)
@@ -168,7 +167,12 @@ class URL
 			}
 			break;
 		    case '+extra':
-			$xml->startElement('extra_fields');
+			$xml->startElement('DEBUG');
+
+			$xml->startElement('src');
+			$xml->writeCData($this->link);
+			$xml->endElement();
+
 			foreach( $field as $e=>$i)
 			{
 			    $xml->startElement('extra_field');
